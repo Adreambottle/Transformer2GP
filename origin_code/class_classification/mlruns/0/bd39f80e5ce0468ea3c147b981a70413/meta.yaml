@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/meron/Desktop/Supplyframe/class_classification/mlruns/0/bd39f80e5ce0468ea3c147b981a70413/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: bd39f80e5ce0468ea3c147b981a70413
+run_uuid: bd39f80e5ce0468ea3c147b981a70413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1611679600545
+status: 1
+tags: []
+user_id: meron

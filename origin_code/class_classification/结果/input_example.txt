@@ -1,0 +1,1029 @@
+Resistors       THIN FILM-73MΩ-0.32-1010-TR
+Resistors       987126339:SMT/40Ω:0402
+Capacitors       贴片电容:1/6F:48uV:67%:C0G:0805
+Resistors       Waffle Pack-CC2-0.17mΩ-0505
+Resistors       THIN FILM;0.57K
+Thermal Support Devices       50.047mA/127.0uV;99.8mm 83.5;PLASTIC
+Resistors       0.31ohm,980749761;44%;0905;SMT
+Capacitors       1/4pF/1/3uV/0.81/0805/BX/CERAMIC
+Resistors       1/5K_90%_0202_WAFFLE PACK
+Capacitors       7222413238:67mF:0.8mV
+Resistors       1/2ohm:0.49:0805:RN73/S(2A,25TC,F)
+Converters       CERAMIC, METAL-SEALED COFIRED,2.5rps;8/6/Convert/36 NO
+Capacitors       WAFFLE PACK#0603#CF:1/3nF#0.28mV
+Resistors       THIN FILM,1207,41ohm,SMT
+Oscillators       NO;COMPLEMENTARY OUTPUT,2/3%-10 LS TTL, 15 pF/VCXO,80.0°C 3.05mV--40.0°C:50
+Resistors       SMT;CC2,1/3mΩ;Waffle Pack
+Capacitors       SMT_0.79uF_0.16:X7R_1/3mV_CERAMIC_0603
+Telecommunication Circuits       CEPT PCM-30/E-1:15.0 2/9mm,4.15mV/240
+Connectors       SPLIT BOARD LOCK/3.058:15.0kV;9/7:6:20.0:DC Power Plugs or Jacks#BOARD
+Optoelectronics       0.054mA/1.0/GaAlAs/940nm ROUND:SINGLE,3/5
+Capacitors       Cap,1232427005,0404,90uF,1/5uV
+Resistors       956495315,63R
+Capacitors       1778033157_2214_57uF
+Diodes       62.5V:0.1µA#0.665kV#8/8°C#diodes:Tin/Lead (Sn/Pb) 0.3uW#150.0°C
+Logic       3-STATE 2200000.0:HC/UH-IN-LINE-UP
+Oscillators       431.801#3.3 Not Qualified;6.5_-99.5 1.0_3.3kV
+Capacitors       Capacitors/2020#1/4mF,50%#0.69uV
+Capacitors       51uF,0.73,0.07mV
+Filters       CRYSTAL FILTER_L54.0XB15.0XH20.0 (mm)/L2.126XB0.591XH0.787 (inch)
+Resistors       1/2O;SMT;41%;53GW:2208
+Capacitors       Capacitors;BULK;33pF;100%;BX;1/9kV
+Capacitors       Cap#0.17mF#1/9kV#POLYPROPYLENE#1940921970
+Resistors       0.72Ohm_0.73_1/8nW_1207
+Capacitors       SMT#2412#0.84F/0.3uV
+Capacitors       3pF#1/7mV#77%#X7R#4000549072
+Capacitors       贴片电容:1935452239:1/9nF:64%-8uV
+Resistors       SMT-0.32kΩ-1206
+Resistors       1005#66R#0.46#960841485
+Resistors       0.63kΩ:METAL FILM:0.79:0.1W
+Capacitors       0.71nF:1/7mV:2056227324
+Fiber Optics       Fiber Optic Emitters 2500.0;9.0mm,NO-1/2nm;11.0
+Capacitors       0.25mF-1/2uV-77%-TR, 13 INCH
+Resistors       1/8Ω,Waffle Pack,65%,0402,CC1
+Resistors       METAL FILM_240711971_0.05_0.45MΩ_Axial
+Capacitors       TANTALUM (WET)/59F/38%/1632445300/0.19kV
+Capacitors       0.98mF/1/9kV-C0G
+Resistors       res#0.16MΩ#M2512(F TOL)#TR#2612#SMT
+Capacitors       Cap#78pF#99uV#7213830354#2214
+Optoelectronics       4/1,0.115/50.0_SIDE VIEW,NO_Photo Transistors
+Capacitors       Cap;1/6pF;CERAMIC;6mV;0504
+Capacitors       贴片电容;94nF,1/5mV_41%_1206_C0G_SMT
+Resistors       SMT#0.99mΩ
+Resistors       1/6O_0.76:0.92MW:0602-TR
+Resistors       1/7Ω;SMT
+Resistors       贴片电阻;0GΩ;987123663;0402
+Resistors       0.1MΩ,0.4,280418414,THIN FILM,1206
+Resistors       839996665_45R
+Logic       BUS DRIVER;1.5#3.25uV:38535Q/M;38534H;883B#50.0;GULL WING/FCT;15.8ns
+Telecommunication Circuits       NOT SPECIFIED 51840.0,CMOS--5.2/3.3uV
+Connectors       SOLDER#32.0:FEMALE-POLYESTER/2_连接器
+Capacitors       C32(C0G,200V,G TOL)_2012_C0G_1/8F_0.97mV
+Oscillators       10/6_0.65V 3.9kV 12.7mm x 12.7mm x 4.572mm_10.0kHz#5.0mV:Voltage Controlled Oscillators
+Resistors       Res:0905:SMT:0.07:0.76kΩ
+Resistors       0.08MΩ/0%_0202/TANTALUM NITRIDE/NICKEL CHROME
+Resistors       1/4Ω:THIN FILM
+Switches       0.038kA#65000.0Cycle(s)_500VRMSV:WATER/STEAM_GOLD PANEL MOUNT
+RF and Microwave       3/10_11.25dB,50.0Ω,14_e0;Matte Tin (Sn)/YES
+Resistors       SMT;14Ohm
+Resistors       Waffle Pack#980793483#65%#90Ohm#SMT
+Capacitors       4000642275;0.58uF;0.19kV
+Sockets       7/6,SOLDER/71.5:STRAIGHT-RECTANGULAR 2.0:CU ALLOY
+Resistors       836635752/1/9Ohm:0603
+Resistors       0O
+Resistors       SMT/2512/18mΩ#295633060
+Power Circuits       102.25kV/VIx;PCW13xEXWH1/REMOTE SHUTDOWN/237.5kV,27.75 YES
+Resistors       Resistors/94R/0.1/1/9nW/2512
+Telecommunication Circuits       5.0V_15.341mm-3/6Mbps-CEPT PCM-30/E-1:T-1(DS1)
+Resistors       0.1K#19%-1207
+Capacitors       84pF_0.5uV_0.54_BP_TR
+Resistors       0.76Ohm/CC2/100%/0505
+Resistors       95R_0.75
+Capacitors       1173317076-TR, 13 INCH-1/8mF-BZ/0.4uV-0805
+Capacitors       Cap-0.76F;57V-0.76-1510-TR, Plastic, 13 Inch
+Inductors       FTHF;64.5;4;ALUMINUM PCB Mount-43.95MHz_1.071µH:8.89mm
+Connectors       50.0O:STEEL MALE,0.29:WHITE
+Converters       5.0mV/20;YES#5/8#0.084;NOT APPLICABLE-17.25
+Capacitors       86uF-0.02mV-12%-X7R-1191069376
+Capacitors       CERAMIC:65nF:22%:BX:1/3V/0603:TUBE
+Capacitors       0.4nF
+Connectors       64#105.0°C,-55.0°C:FCN-7:54Px64-AU/x-CABLE#1.0A;NO
+Transformers       -40.0,Trans 2000 OHMS-IF TRANSFORMER:4.8mm:105.0
+Connectors       POLYAMIDE M/LDMx2L-15S-6Cx-1.000K/CABLE/115.0--55.0-ONE:51-2.337
+Logic       逻辑电路,3/3#10/8°C#6.15ns,-27.5°C#6/7,e0
+Capacitors       CERAMIC#6mF#1/7uV#X7R
+Oscillators       3.3_2/6MHz;DILCC6,.2,45/55%,3.3mV_1/10
+Capacitors       Capacitors_0.98mF#12mV_TR, PAPER, 7 INCH_0805_1211670251
+Capacitors       电容_1/5mF_86mV_TR, 13 Inch_SMT_2917
+Capacitors       0.78pF:1/4V:0.76:1505:1638379427
+Capacitors       TR#SMT#1/7nF#69uV
+Capacitors       Capacitors:0.8F:1194829328:SMT
+Consumer Circuits       5.075-NO_R-PDSO-G14/Not Qualified#4.55mm:10/4kHz#6/7-SSOP
+Optoelectronics       0.05uA,Other Optoelectronics:NO 4/5:e0
+Capacitors       TR, 13 INCH/0603/BZ/1/5mF/0.49mV
+Capacitors       Capacitors:81pF:1994917493:C0G:1/9mV
+Resistors       999251975_1/3O_1225
+Resistors       贴片电阻_55K_37%_TR_0505
+Optoelectronics       7/8 Displays,3/2°C,5.0mV#7/6°C 2/7#7/9
+Capacitors       SMT:1/6nF-1510,0.52kV
+Capacitors       1173317940/0.69uF/0.04/BX/1/9kV/0805
+Capacitors       电容:POLYPHENYLENE SULPHIDE:Bulk:1/8pF-46%:75mV:2828
+Capacitors       cap_TR, EMBOSSED PLASTIC, 13 INCH_SMT_0.57uF_1%:X7R_20uV;1210
+Resistors       Res/1/3kΩ/0.77/0.35nW/0805
+Capacitors       1812/1/5uF/1/8kV
+Resistors       61ohm:0.86:1/7W:0505:THIN FILM
+Consumer Circuits       3.775,BIPOLAR SDIP#0.0°C,24.115 IN-LINE 70.0°C
+Capacitors       3025/76pF/0.56uV
+Capacitors       0.62F-1/6V
+Trigger Devices       241.5mV:LONG FORM:140.0mA 150.0 Tin/Lead (Sn/Pb) 2.0:ISOLATED
+Resistors       电阻-1206-0.72Ω-56%-1/3MΩ
+Capacitors       CERAMIC:TR, EMBOSSED PLASTIC, 7 INCH:0.92F:40%:C0G:5uV:2220
+Capacitors       1/9mF:1/9uV:0805:C0G:1173318035
+Oscillators       CHASSIS MOUNT#28875.0MHz/4/4_4/4MHz#Tuned Gunn Oscillators
+Consumer Circuits       8.05mm_consumer:GULL WING-2.0 AEC-Q100,FQFP:FM
+Fiber Optics       IT ALSO HAS WAVELENGTH 1290 NM TO 1330 NM-8/5;5/1nm_5/10;1446.5nm/5/2/RACK MOUNT
+Capacitors       1/2mF,0.65kV,1.0
+Capacitors       SMT,Waffle Pack:1/7uF,0505,56kV
+Connectors       MS-156-SMA#POLYTETRAFLUORO ETHYLENE_FEMALE-MALE_P703,GENERAL PURPOSE,1#NICKEL
+Filters       70.55-237.5MHz/L7.38XB2.88XH2.75 (inch),50.0#TBD_N FEMALE-SMA FEMALE/5/8
+Resistors       SMT#TR#72GΩ#PHR#27%#980692887
+Resistors       CC1:1/9ohm_82kW:95%
+Capacitors       1867053569,1/8mF,0.75,Y5P,29kV
+Connectors       21:CADMIUM PLATED,I063#ALUMINUM ALLOY-PANEL
+Filters       0.08#PANEL MOUNT:50/60HzHz-7.5 4#125.0°C-262.5uV,Filt/0.099/7/1°C
+Resistors       21K:0.57
+Memory       256KX4,CMOS#384.0#1M Rad(Si);8/5ns FLAT
+Capacitors       2312_17F/1/5kV
+Capacitors       贴片电容_2110277637_34nF_TANTALUM (DRY/SOLID)_26kV_2915
+Transistors       PLASTIC/EPOXY:7/1MHz-4/3;35.0 ROUND;TO-92;YES
+Relays       0.25,52.5dB-3/8#AC/DC#362.0mΩ,0.0MHz/9/8MHz/8.5,RELEASE TIME WITH DIODE IN PARALLEL
+Capacitors       0.38F;9V;TR, PAPER, 13 INCH;1808;X7R;2034547691
+Signal Circuits       LQFP_NO:-13.0/5.5#COMMERCIAL,0.85uA:5,12
+Resistors       TR, 7 INCH/METAL GLAZE/THICK FILM,0.31K
+Connectors       MALE/0.637mm:8/3inch;NO/8/2mΩ:POLYPHENYLENE SULPHIDE:COMMERCIAL
+Capacitors       0.19F:56%,BR,0.12mV,CERAMIC
+Transformers       UL; CSA/0.114_75.0/Transformers_HEIGHT DIMENSION INCLUDES TERMINAL ALSO/1.65 xPx6386G_/9/4
+Capacitors       Capacitors_80pF_1/3kV
+Memory       DUAL_64KX8 589824.0Tbit_9/5:8/4;IN-LINE
+Resistors       1/3GΩ:59%:SMT:1206
+Resistors       THIN FILM#CC1#0.55ohm#SMT#60%
+Resistors       THIN FILM_SMT_0.23_0Ω_956730605
+Capacitors       Cap#26nF#27kV
+Resistors       SMT_THIN FILM_0.87_1/2O
+Resistors       THIN FILM,1/8MΩ,0.61,1/9uW;2512,295629280
+Capacitors       Capacitors#0.96mF#1/7uV#7101102813#CERAMIC
+Capacitors       HIGH VOLTAGE CHIP_1812_100pF_0.64V_X7R
+Microcontrollers and Processors       10/2,20.0/3/5/NOT SPECIFIED,NO/5.0kV
+Capacitors       TANTALUM_2917/SMT/85F/0.21V/1219450318
+Resistors       Res,SMT,0.45,1/5Ohm,THIN FILM,0402
+Resistors       贴片电阻:METAL GLAZE/THICK FILM:ML:0.53kΩ:40%:44kW:2010:TR
+Resistors       63ohm#THIN FILM#0.87#0505#959683385
+Resistors       926299079:0.68K:TR
+Resistors       SMT,1/7ohm,0.79,1206,CH
+Capacitors       0.48mF#1/4kV
+Capacitors       1552938289;54uF/0.39V
+Capacitors       cap:CERAMIC:56uF:Y5V:15kV:TR
+Capacitors       贴片电容#1uF#57V
+Resistors       res:47K:CSM3637:75%:0.31kW:3637
+Filters       Filters-270OHMΩ;Telecom Filters,0.4A;THROUGH HOLE MOUNT:165.0V
+Resistors       10kΩ;SMT;0.14;38nW;0505
+Resistors       1/6R;18%;1/2kW;2612
+Capacitors       cap_94uF_19uV_0.39_2020_CERAMIC
+Resistors       2208:9Ω
+Capacitors       cap;0.87mF;0.77kV;100%
+Resistors       电阻:0.21GΩ:14%:0.84pW:1206/THIN FILM
+Capacitors       贴片电容-0.52pF-UK;1/3V-0603
+Capacitors       1/8uF/89kV/BZ
+Resistors       THIN FILM:SMT:0.08:0.12R
+Resistors       SMT:952575041:64Ohm:THIN FILM:23%:L-NS
+Resistors       0505:1/4ohm
+Fiber Optics       1.6#NOT SPECIFIED-光纤 7/3nm,PANEL MOUNT/SMF-28#50.0:1305.0 1260.0
+Capacitors       Capacitors/BULK/17nF/8%/1/8mV
+Signal Circuits       PLL or Frequency Synthesis Circuits_6.35mm-5.0V;63.0/1/8;Signal/YES
+Capacitors       0.09nF-CF:0603:0.65mV
+Resistors       LINEAR/5500.0R;10/8/e3/10.0%;3737/POTENTIOMETER-IEC60393-1
+Resistors       贴片电阻;44R
+Resistors       0.97ohm,THIN FILM:2%:0905
+Capacitors       1/2F_85uV
+Resistors       Res/CC2/15%/1/6Ω/0505
+Resistors       30Ohm,0.46,0.13kW,1206
+Resistors       0.98MΩ;0.57
+Resistors       res#0.46K
+Resistors       SMT-1/6Ω-0.14-THIN FILM
+Capacitors       10nF-GLASS
+RF and Microwave       23.5;12.25#YES#PLASTIC/EPOXY#SURFACE MOUNT-RF and Microwave -32.5°C,50.0
+Capacitors       14pF#1/3uV#TANTALUM (DRY/SOLID)
+Resistors       Resistors_TR;0.22_0.65Ω-822934005_2612
+Consumer Circuits       R-Y; B-Y; Y/consumer-Consumer Circuits:PAL; NTSC#LQFP AEC-Q100
+Resistors       电阻,92mΩ,0.78,RN73/S(2B,50TC,D);SMT,1206
+Capacitors       Cap:CERAMIC:0.23nF:X7R:50mV_1210
+Resistors       电阻-THIN FILM-0.55-0.17R-SMT-0505
+Capacitors       1/9pF,0.83mV
+Resistors       res-52GΩ-SMT-TR-3637
+Resistors       Bulk-0.95-65Ω-SMT-1206
+Capacitors       电容_0.49mF_T493(20V,30 ESR)_TR, 13 Inch
+Capacitors       Radial:2810;7100335278:0.94pF:1/8kV:POLYPHENYLENE SULPHIDE
+Consumer Circuits       PLASTIC/EPOXY_12 X 18#-15.0/QFP/PAL; NTSC-80.0
+Resistors       THIN FILM:1206:95kΩ:TFCR (1206,4W)
+Resistors       THIN FILM-25MΩ-SMT
+Resistors       987161767;0.04R
+Resistors       CC1-0.17R
+Capacitors       贴片电容_0.12nF-1/9V-CERAMIC-1812-X7R-1054455804
+Resistors       1/3MΩ,32%
+Capacitors       cap#1/2mF#49mV#0%#X7R#0504#SIZE(X7R)COMMERCIAL
+Capacitors       0.72pF/1/8uV/0.15
+Resistors       SMT;0505;1/5mΩ;THIN FILM
+Capacitors       84pF;1/6V;0.71;Bulk
+Resistors       SMT;0.52Ohm;73%;1505
+Amplifier Circuits       OPEN-DRAIN,5.5/110.0,放大电路-5400.0µV;1/9
+Capacitors       TR, EMBOSSED PLASTIC, 13 INCH/2917/0.08F/SMT
+Capacitors       1812#8uF#1/6V#C0G
+Crystals/Resonators       14.0_3/2MHz_Ceramic Resonators-共振器 3500.0ppm_L4.7XB4.1XH1.6 (mm)/L0.185XB0.161XH0.063 (inch) 7/10-10.214MHz
+Resistors       1/8R_Waffle Pack_980793692_0905_SMT
+Capacitors       1/9F:19%:0.98V
+Capacitors       贴片电容,0.48pF:1/5uV:CERAMIC:7101122380
+Capacitors       0.0nF#74kV#SMT
+Microcontrollers and Processors       4.0V#0.088MHz;Display Controllers_4.425uV:R-GDIP-T28-1.05uV;YES
+Power Circuits       Power_1/5.5#YES-DUAL/1 0.85 4.525V,1.2mm 0.004
+Resistors       2110:12mΩ
+Resistors       0.26GΩ
+Resistors       SMT:1210-0ohm-Bulk
+Drivers And Interfaces       SMALL OUTLINE;8.203mm,3-STATE-28,6.65-4.15V;STANDARD
+Resistors       Res;0.37MΩ;TR;THIN FILM;0603;826247916
+RF and Microwave       1.85#PSPx41#0_ISOLATION-MIN (DB):12;1550.0MHz/50.0kΩ:5500.0MHz/7/7dB;5/1dBm/RF/Microwave Splitter/Combiners
+Resistors       贴片电阻/0.63kΩ/0.8/240696196
+Resistors       980844200:88kΩ:0.49:1207
+Capacitors       贴片电容_1294871826_30mF_TANTALUM (DRY/SOLID):SMT_2711:0.25uV
+Capacitors       电容/63F/0.75uV/0603/C0G
+Connectors       POLYETHYLENE;MALE PANEL/e3/e2,NO_Mains Power Connectors
+Capacitors       电容-TR, 13 Inch-0.92uF-C0G-CERAMIC-2220-29uV
+Filters       CERAMIC;DUPLEXER;1.85dB:1/7,F FEMALE/10
+Resistors       2Ohm
+Resistors       THIN FILM,SMT,0.46mΩ,987141749,24%,CC1
+Capacitors       2F_0.98_ALUMINUM (WET)_0.49mV
+Relays       67.5/Relays#137.0,2256mW/9.0uA_DC-14:-22.5#1.7,194.5Ω
+RF and Microwave       10/9MHz e0-50.0Ohm COAXIAL#3/8dBm;1.262-10/10MHz
+Telecommunication Circuits       BIPOLAR;4.15mV_2.685mm_7.5;A/MU-LAW
+Oscillators       35.0%/4.15V;501.5ns/15 pF#XE61SxB61x9;0.000MHZ#25.5-275.0,XO, Clock,50.0MHz
+Optoelectronics       7/6:8/3mm:-30.0-1.0 2.3,0.02mA,Opto
+Telecommunication Circuits       UNSPECIFIED_UNSPECIFIED_BIPOLAR/INDUSTRIAL
+Resistors       SMT,0.32kΩ
+Resistors       贴片电阻,0.0GΩ_SMT_THIN FILM_0505_956760525
+Capacitors       电容-ALUMINUM (WET)-80mF-0.71_22mV
+Connectors       0.15,POLYTETRAFLUORO ETHYLENE#50.0R;NO_BERYLLIUM COPPER
+Microcontrollers and Processors       Microcontrollers and Processors:19.0_8085A; 70108; 70116_4/10/5.5uV;5.0uV;4.5kV,NO
+Resistors       res;1/2R;0505_SMT
+Capacitors       CERAMIC-2020-6pF-1/2kV
+Capacitors       0.12mF,31kV
+Transistors       10/1/1.505-5.05kA,11.0#NPN:ROUND
+Capacitors       0.93uF-21mV
+Resistors       ML;SMT;90Ω;15%;METAL GLAZE/THICK FILM
+Diodes       8/8#Not Qualified#SINGLE-0.995A:7/10/9/6
+Capacitors       0.54uF/1779069297/TANTALUM (DRY/SOLID)
+Transistors       三级管,5.525uA-SINGLE#0.345mΩ_NO PLASTIC/EPOXY
+Transistors       -65.0;15.0/SMALL OUTLINE 163.5MHz#RF Power Bipolar Transistors_13.5mA,187.5
+Connectors       12.5kA:10/10Cycles_SQ PIN-SKT/0.072inch-1500VACV-BOARD AND PANEL_RIGHT ANGLE/6/7mm
+Logic       POSITIVE EDGE#COMPLEMENTARY--3.3/-5V-CMOS,3:9DB-4.0_4/2
+Resistors       THIN FILM/0.26GΩ
+Telecommunication Circuits       5.0uV/COMMERCIAL MOS_1.27mm DATA ENCRYPTION CIRCUIT,RECTANGULAR
+Resistors       90mΩ;SMT
+Crystals/Resonators       Gold (Au) - with Nickel (Ni) barrier_SAW Resonators 313.62MHz;0.016% YES
+Trigger Devices       1.5 Programmable Unijunction Transistors:175.0uA SINGLE,ANODE
+Capacitors       cap:CERAMIC_0.96uF:1245112279:X7R:0.49kV
+Resistors       999251596/1210/1/6R/SMDL
+Fiber Optics       3CN00410,xK:1/8,20565.0-119.905_4/10mm 1420.0nm:1610.0nm
+Microcontrollers and Processors       NO#132-PERPENDICULAR 24.0-32.0#1.587mm
+Capacitors       电容-CERAMIC#47nF#BP#13kV
+Resistors       0.62Ohm_THIN FILM_0.47:1005_SMT
+Resistors       2307;1/6MΩ
+Capacitors       286875426;0402;X7R-0.93uF;0.32V;Waffle Pack
+Diodes       TS 16949:UNSPECIFIED:2/4#Diodes;2.0pA-47.65
+Capacitors       cap:1211452666/1/9pF/0.13/C0G/CERAMIC/0.96uV;1206
+Diodes       10/4,FLAT/0.325GW:17.1pF#NOT SPECIFIED 0.1/SINGLE
+Trigger Devices       3-15.0uV/6.75/7/4_NOT SPECIFIED
+Resistors       电阻/7R#0.73/2512/295629287
+Capacitors       8058330887,1/3pF,1/7uV
+Capacitors       贴片电容;0.78uF#1326113478
+Memory       0.5-3.15V_1.1/128MX8-91.5,5.375uV,34426.847Mbit
+Converters       2.85mV,105.0°C 40 3.0mV/5.35mm,YES#-40.0°C#32#LINEAR
+Capacitors       1219459940;TR, 13 Inch;6uF;55%;38kV;2917
+Crystals/Resonators       Dielectric Resonators-31.6
+Capacitors       1552942809,0.67uF,0.18mV
+Resistors       TR,METAL GLAZE/THICK FILM,9Ohm
+Resistors       res;0.88Ohm;0.22;Bulk:240697285
+Capacitors       1/7uF#31uV
+Resistors       226993360,0.53R,0.79,TR, 7 INCH,82nW,1005,METAL GLAZE/THICK FILM
+Capacitors       电容;1/4mF;55V;0.08;TR, 13 INCH
+Resistors       PHR#0.15MΩ#0.35#1207#980808795
+Resistors       CR/1/5kΩ/0.45kW/0.91
+Capacitors       0.65F_0.15V_7213830150
+Capacitors       145067266631#Radial#47nF#56%#25mV
+Resistors       CC1;THIN FILM;10%_90K;987196019
+Connector Support       MALE/FEMALE 3/6°C_NO_M81969/17-01, MS90455-1;-55.0°C
+Capacitors       Capacitors:TAPE:7F:0.92V:3221
+Capacitors       91F#1/7kV#ALUMINUM#275425057#Snap-in
+Resistors       TR-PHR-80R
+Connectors       2/10/CABLE-NICKEL#Connectors#0.58#62.5O:NOT SPECIFIED DELRIN
+Capacitors       92uF:7057854171#18uV
+Amplifier Circuits       10/5MHz_e0_15500.0µV;NO,3.0
+Trigger Devices       Trigger Devices,29.0uV:SINGLE#0.05 16.5/35.0mV#7.0
+Memory       3-STATE/8KX8_512000.0,8.715mm;5V:22.5
+Capacitors       TANTALUM (DRY/SOLID)#1/6nF#69uV
+Resistors       1/2MΩ;0.77;1/5nW-0805;METAL FILM
+Resistors       L-NS;1206;37GΩ
+Resistors       0.39MΩ:PHR:3%:0.01mW:2110
+Resistors       1/2Ohm-0.03
+Resistors       贴片电阻-0.58K-0.68-CC1-THIN FILM-0402
+Transistors       1.115Ohm/26.75:NO/Matte Tin (Sn) - with Nickel (Ni) barrier/17.0mA
+Capacitors       cap/93uF/0.88mV/0.71/0402/SMT
+Resistors       85R:97%-1207
+Oscillators       2/8MHz#Oscil 27.43mm x 19.3mm x 6.35mm/NO
+Capacitors       cap-SMT-TR, Plastic, 7 Inch-13mF-39%-0.6uV-1411
+Resistors       res_SMT_0.37_1/2R_999252631_2010
+Capacitors       48F_59mV
+Converters       D/A CONVERTER,DUAL-5.374uV e0;1.0-3/3 YES;CMOS
+Resistors       Waffle Pack;THIN FILM;1/7Ohm
+Amplifier Circuits       -10.0:10.75;Amplifier Circuits;72.75mA:DIP24,.6;-15.0uV-IN-LINE,-MN3x7H/B
+Signal Circuits       Other Analog ICs:-27.125_VOLTAGE--9.875;85.0;5#11.25/10.0,6/1
+Resistors       0505;65kΩ;0.72;0.97GΩ
+Resistors       电阻/0.39Ohm/0.48_0.37mW/0402/Waffle Pack
+Capacitors       1411#0.12nF#1/5V
+Resistors       0505-Waffle Pack:27%-0.55MΩ
+Transformers       0.05kHz;0.4kHz;e0:Trans;7/8VA;600.0;W10.1XH1.63 i;5xxT-x51X141_-1x2
+Sensors/Transducers       1V#ABSOLUTE/0.25/30.0 0.20-0.80V#SURFACE MOUNT/460.0
+Filters       Qx1FFxxx00004/16:630.0:750 OHM//-3.4 pF/6/8/28.0:75OHMΩ,2400.0#TAPE AND REEL
+Resistors       TR;1/4MΩ;METAL FILM;77%;926149677
+Capacitors       SMT#1411#1/7F#41kV
+Microcontrollers and Processors       5.0mV/IS82C89,x+_4.25kV 1 8.0MHz,NO-5.75kV
+Connectors       62.5/125um,MALE;SYNTHETIC RESIN-NO,NO DUPLEX-3/6#1.4
+Transformers       320 OHMS_250-3/4_77.5#3.75 Transformers/8/7_L22.86XB19.05XH12.7 (mm),8/3,-40.0;SIGNAL
+Resistors       THIN FILM,0.72MΩ,956736307
+Capacitors       Capacitors/Radial/1/4uF/CERAMIC/X7R/96uV/5020/Bulk
+Optoelectronics       NO-1.0,PHOTO TRIAC DRIVER Tin/Lead (Sn/Pb)/Led 1.0A_0.1uA/e0
+Capacitors       Cap-SMT-58nF-98%-X7R-0.78mV-0402
+Capacitors       Capacitors,62F#POLYPROPYLENE#1/4uV
+Capacitors       贴片电容-62uF-16uV-0.52
+Resistors       Res_METAL GLAZE/THICK FILM_0.75_29ohm_SMT_1005
+Sensors/Transducers       e4/0.003;16.5mA#2.56 传感器/100.0:2000#0.50-4.50V#1.5,5.5
+Capacitors       1/3pF;39%;87V
+Resistors       SMT/757282484;0.48/0.52Ohm
+Capacitors       0.61pF;CERAMIC
+Capacitors       TR, 20 INCH-1/4F-0.2V
+Consumer Circuits       3/NOT SPECIFIED:SOP
+Resistors       电阻#1/6kΩ#0.81#0202#THIN FILM
+Resistors       0505;Waffle Pack;0.16_33K
+Capacitors       SMT/25mF/TR, 7 Inch#1/6V/0606
+Capacitors       1/6mF/0.67mV/1245090269
+Resistors       THIN FILM/1/5ohm
+Microcontrollers and Processors       30.671 NO-3.81 NOT SPECIFIED;10/6,5.0V
+Resistors       820231799/TR/89O
+Power Circuits       TO-204/-3-TR:1.1uV-7.0kV/0.19
+Resistors       Res,84Ω,SMT,0.93,1206,926085767
+Capacitors       0mF#33uV
+Resistors       51ohm;48%#1/8nW#1005
+Capacitors       电容:1/7nF/1/3V/34%/1505
+RF and Microwave       3/1dBm-RF/Microwave Attenuators e4/50.0kΩ_1/3dB
+Capacitors       BULK-2088704845-4mF-6%-C0G-0.61V
+Capacitors       电容:291676269:SMT:0.49pF:CERAMIC:C0G:2020:94mV
+Capacitors       电容;1/6pF;80V;SMT;0606;7213728934
+Capacitors       CD840:1/2uF;2mV:257401833
+Oscillators       100 OHM,2.9kV SURFACE MOUNT;Oscillators 7/10MHz#8.0
+Capacitors       cap:98uF:65uV:1211876135
+Resistors       Res-2512-1/8R#0.08-34kΩ
+Capacitors       cap;1/8F;88V;CHA
+Resistors       100O,980819469,0.86,1/3mW,1207
+Resistors       980833209#TR#0.02Ω#THIN FILM
+Drivers And Interfaces       10/10_7-DIGIT/DIFFERENTIAL/7/4mm,0.25,2.5
+Resistors       0.82Ohm_9%_1210
+Resistors       0505/CC2/0.91/0.05ohm
+Switches       OFF-ON_POLYPHENYLENE SULPHIDE-SPST,24.0,6000.0;3,SLIDE DIP SWITCH
+Resistors       METAL GLAZE/THICK FILM,1/6Ohm,2208
+Capacitors       77uF:1/9V:TR:TANTALUM (DRY/SOLID)
+Capacitors       TANTALUM (DRY/SOLID):0.79nF,1/4V/SMT
+Resistors       THIN FILM#980775103#0.52K,Waffle Pack#0.27
+Switches       250.0mV:BRASS_GOLD,1.653,0.15mA ROTARY SWITCH/GOLD 5/2
+Resistors       THIN FILM#0.8Ohm#1/4kW,0.43
+Connectors       GENERAL PURPOSE 1#MALE NO;BRASS RF UHF Connectors#10/1
+Capacitors       电容_14mF_TANTALUM_1/7mV_2917
+Resistors       1/7Ohm:0.79:0402:CC1
+RF and Microwave       4000.0MHz,SMDIP14,.45 MODULE#2.25#4/9dBm;YES:3.15dB/RF and Microwave
+Resistors       12mΩ:SMT
+Resistors       Res/SMT/METAL GLAZE/THICK FILM/1/2Ω/0.71/CR1206/1/3pW/1206/820184757
+Resistors       电阻:63O:63%:8338842525:1206
+Consumer Circuits       2.0_LCC32,.2SQ,20;DUAL;LBGA NO LEAD;FM
+Resistors       2512-THIN FILM-0.71-65Ohm
+Capacitors       0.66uF#1/4V
+Resistors       res,TR,0.2,88K,916785016,1206
+Capacitors       TR, EMBOSSED, 7 INCH_SMT_91mF_C0G_1/9V_2225
+Logic       BIDIRECTIONAL-1.0#NOT SPECIFIED,8/6mm;3-STATE
+Capacitors       18F_37uV_TR_BX_CERAMIC
+Resistors       0.35O:42%:0505
+Sensors/Transducers       800-1700 5030.0dB,11.05V:2-WIRE INTERFACE;3.875V/1/4
+Microcontrollers and Processors       4.15V:40:R-PDSO-G8/RECTANGULAR#YES:178.0MHz
+Capacitors       1/4uF
+Sensors/Transducers       3.18#3 3.18 14.0mT;INVERTING;NO
+Resistors       P-NS(0502)-1/4MΩ
+Resistors       贴片电阻-28R-0%-METAL GLAZE/THICK FILM-2208
+Inductors       1350.255MHz;2.958/GENERAL PURPOSE INDUCTOR,4/8°C WPF-1608(K,M TOL)-105.0°C#27.5
+Resistors       SMT#Waffle Pack#6K#0402
+Optoelectronics       10.0mW e0:Laser Diodes#2.55V-1530nm-ROUND-1.0,HIGH RELIABILITY
+Resistors       贴片电阻:56GΩ:SMT:226952335,1005
+Logic       4.0 R-GDIP-T16:50.0,1900000.0,Decoder/Drivers 3/5
+Resistors       77kΩ/TR/23%/1/8uW/1505
+Connectors       BRASS,KD-1x-1-01-MALE_0.315/Connectors,1-NOT SPECIFIED
+Capacitors       贴片电容;CERAMIC;286874564;1/9nF;SIZE(X7R)COMMERCIAL_X7R;0402;1/2mV
+Microcontrollers and Processors       NO;4.15mV,1/4-16384;DIP:NO_PLASTIC/EPOXY
+Resistors       res-70GΩ
+Capacitors       贴片电容:SMT:Bulk:1/2nF:CERAMIC:X7R:1812:1/6kV
+Logic       9/8-92.5ns#10.0,5.0V#YES_DIP
+Power Circuits       2.45:1.0#3.15uV_NOT SPECIFIED/R-PDSO-G5
+Resistors       Resistors:1505:0.84Ohm:0.43:0.57MΩ
+Capacitors       1/5nF#1639549575
+Capacitors       SMT_2917_89F_1/2kV
+Resistors       P-NS(1010)_1110_0.81kΩ_70%_THIN FILM
+Oscillators       0.1%#15.0V_8/8,8/7#WITH ANALOG DRIVER
+Memory       1,2,1,15 记忆体/1/2#NO/128K 8192.0Mbit
+Capacitors       贴片电容#TR, 13 Inch;1219458754;69uF;19%;SMT;0.37uV;2917
+Resistors       SMT_Waffle Pack_1/9R_THIN FILM
+Optoelectronics       7/3%:1.0#5.35 Opto,DARLINGTON OUTPUT OPTOCOUPLER,1.27-5.0,-47.5°C,0.04nA
+Capacitors       cap:TR, PAPER, 7 INCH:0.43mF:4%:LH:29uV:1842942811,1206
+Capacitors       0.75mF_0%_13mV_SL
+Capacitors       cap:1245105612:CERAMIC:92uF:37%:BX:1/8mV
+Telecommunication Circuits       TWOS COMPLEMENT_5.0V;CMOS-SYNCHRONOUS;0.75-PLASTIC/EPOXY:1.0
+Resistors       Bulk#SMDL#36kΩ#SMT
+Capacitors       电容:WAFFLE PACK:39mF:40%:CF:0.52V,0603
+Capacitors       29pF#1054463513/1/5kV#2220
+Capacitors       CERAMIC;82F;0.67;CF;79uV;0603
+Capacitors       97F/1/6kV/EC/POLYPROPYLENE
+Microcontrollers and Processors       4096.0 0#0.125MBps-Not Qualified;0.0
+Resistors       0805:62ohm
+Capacitors       电容,SMT,88F,0.27,X7R,CERAMIC,0.9mV,2220
+Capacitors       CERAMIC-0.07mF-SMT_BG-7213725685-0606-0V
+Capacitors       1799050181/1/6F/0.73/X7R/BULK/1/2kV_1206
+Diodes       Signal Diodes#0.863 2/8_9/9µs,Rectifier Diodes-MATTE TIN;0.8mA,EFFICIENCY
+Diodes       SILICON-TIN LEAD:Qualified,1.975mA 40.6V:Diodes-0.5W/ZENER
+Resistors       Resistors:0202,WAFFLE PACK,0.53,65O
+Capacitors       1/7mF_0.97mV
+Transistors       NO:Trans-7/7°C;9/4°C 10.55kΩ
+Resistors       L-NS#SMT#37K
+Telecommunication Circuits       CMOS:10.13mm/5.0V;5 DIP;88.2Mbps
+Capacitors       82mF_86kV/0.62/1005/TANTALUM
+Capacitors       电容-ALUMINUM (WET)-1/8pF-64%-52V
+Resistors       TFCR (1206,4W)_9Ohm_67%_926306779_0.96uW_1206_SMT
+Resistors       Res-0.28O/Waffle Pack_SMT_0402
+Resistors       922312622-2512_1/8mΩ_0.32
+Connectors       1.38 MULTIPLE MATING PARTS AVAILABLE 1;8/5,STRAIGHT
+Resistors       837319087/MSTF2(GQS,S-D TOL)/1/2Ω
+Capacitors       cap:SIZE(X7R)COMMERCIAL:SMT:94nF_CERAMIC:TR:13kV:0504:867230970
+Transistors       NPN;135.0MHz-NO:3/4 50.0 KSR,2005TA:0.1mA
+Capacitors       1626170626:TR, EMBOSSED, 13 INCH:0.81pF:0.4kV:CERAMIC
+Signal Circuits       2.015MHz:CYLINDRICAL:DIP--15.0uV,+-15
+RF and Microwave       RF_3/10;RF and Microwave/0.75-2200.0#28.0_22.0
+Connectors       6/10;NATURAL#.556:MALE,6.25:0.25/COMMERCIAL/RG-59
+Resistors       THIN FILM_0.41O
+Trigger Devices       7/3/30.0_2.505#1.75/UL RECOGNIZED;Trigger
+Transistors       0.03-NOT SPECIFIED/10.0 RECTANGULAR 3/8
+Connectors       1.75;50.0 25.0 BOARD#94V-0,82_ONE
+Resistors       res_1206_0.22_35Ohm
+Resistors       14ohm/295627878;0.35;2512;THIN FILM
+Converters       7.55kV;2.94mm,4.15kV;NO LEAD;IN-LINE;11.0
+Resistors       Axial/98Ohm/0.4W/5%
+Resistors       Waffle Pack/0.48/1/5ohm/CC1/0402
+Resistors       贴片电阻#0.71O#SMT#71%#59W#1210
+Capacitors       电容-53uF;BULK_37kV
+Connectors       STAINLESS STEEL NO-10,PANEL_NICKEL_9#42L001T14x9SZ;FEMALE-FEMALE
+Resistors       837392061,RUTHENIUM OXIDE,0.83mΩ,0.34,TR, 7 Inch,1/6pW,0805
+Resistors       SMT:1010:0.27mΩ:88%:METAL GLAZE/THICK FILM
+Capacitors       0603/X7R/0.61F/1/7V
+Capacitors       8059538134/66mF,76mV
+Capacitors       52pF,1/5V,0.1,C0G,2020,SMT
+Connectors       NO#140um_0.3dB_Connectors
+Fiber Optics       NO,Fiber Optics/2/6nm,xOPC-12LA121_16,1207.5nm 3/10
+Resistors       0.04Ω/0.96
+Drivers And Interfaces       5,3.275/9.0_16.0,R-PDSO-G28:Interfaces
+Trigger Devices       1.0,5/8,1/3;6/9;137.5
+Diodes       SILICON/3/1-17.0mA/TIN LEAD-Not Qualified 56000.0;7.875/二极管,1000.0
+Consumer Circuits       2/8;8/3%-SSOP#-40.0°C,IT ALSO REQUIRES 4.75V TO 5.25V SUPPLY:2/1°C
+Diodes       9.5-GALLIUM ARSENIDE DO-35,20.0GHz-12.75GHz;Diodes/ROUND
+Resistors       1/7ohm:41%_1206
+Trigger Devices       NO;3/7_6/9:229.5uV#UL RECOGNIZED
+Capacitors       T493(20V,10 ESR)_1/4pF
+Resistors       99GΩ,74%
+Capacitors       Capacitors,TR, 7/13 INCH,1715591363,1/7uF,0.99,1/4V;1005,SMT
+Capacitors       7uF_1/8kV_24%
+Transformers       2.75nA/235.0V/8/5mm
+Resistors       1/8R-980803795
+Resistors       SMT-0.22O
+Capacitors       63uF
+Connectors       500VAC/GLASS FILLED POLYBUTYLENE TEREPHTHALATE_50:94V-0;2.286mm,PANEL-300.0Cycles
+Capacitors       87uF,1/6uV
+Capacitors       Cap-0.8uF
+Resistors       res-0805-79K-40%-39K
+Capacitors       2091084380_1/8uF/1/6uV
+Capacitors       Capacitors/0.95uF-1/7mV/1173330136/1206/CERAMIC
+Telecommunication Circuits       CMOS/7.62-65.0°C#-15.0°C/3.35
+Trigger Devices       1.7/-57.5°C:0.005mA_140.0°C:e0-75.0mA/0.02mA_Trigger Devices
+Resistors       贴片电阻-76K-TFCR (1206,8W)-0.46-1206-TR
+Resistors       Waffle Pack;THIN FILM;1/8R
+Capacitors       Cap/0.22nF/1/5mV/0.79
+Switches       0.0:NO-0.275nA:SPST/MOMENTARY-TACTILE
+Capacitors       Cap-28pF-0.82uV-TR, 13 Inch-1219519205-2917-TANTALUM
+Capacitors       TR:0.02uF:Radial:79mV:ALUMINUM
+Transformers       Transformers 0.43,INVERTER TRANSFORMER_1225.0uV_4.75MW_SURFACE MOUNT,8/5;1.0;Transformers
+Resistors       贴片电阻:1206:RN73/S(2B,50TC,BC):0.38:1/4Ohm
+Resistors       295633092/1/2O/SMT
+Resistors       Resistors/0.11K/METAL FILM/Axial
+Microcontrollers and Processors       4.15V_MEMORY AND I/O CONTROLLER/5.25mV#4.75uV-82C601,Other Microprocessor ICs;YES
+Connectors       PLUG 2_BOARD/Connectors/90 GENERAL PURPOSE
+Resistors       946504205,METAL GLAZE/THICK FILM,1/7Ohm
+Microcontrollers and Processors       TQFP100,.63SQ 2/10/405.0;3.3V#3.465V#2.917V-17.655 Secondary Storage Controllers
+Resistors       84GΩ-0.37_SMT_Bulk_2010
+Resistors       0202,WAFFLE PACK#62%,1/2O
+Capacitors       1/3pF-0.7V-AIR
+Connectors       9/125um:8/9dB:PLUG:1 500.0 SIMPLEX FIBER OPTIC CONNECTOR ADAPTER:77.5,1/9
+Capacitors       TR, EMBOSSED, 13 INCH:SMT:42nF:C0G:0805:1/2kV
+Drivers And Interfaces       2/7-5.4V:5.0mV,9.225mV PARALLEL#3/5V,YES
+Transformers       7/7-5/4kHz 10.25-L13.46XB13.0XH12.32 (mm) POWER 5/3kHz:19.0:12
+Connectors       FEMALE 500VAC;1#BRASS;NO
+Capacitors       0.3nF/0.66mV/CERAMIC
+Resistors       TR/9%/1/6ohm/8338842458
+Resistors       Waffle Pack#0402;27kΩ,0.18,987171431
+Capacitors       CERAMIC/TR, PAPER, 13 INCH/8uF/R/0603/1/4uV
+Capacitors       0.06mF-0.69V-TANTALUM-SMT-2917
+Sensors/Transducers       NO Transistor#e0;25.0mV;2/8µs
+Resistors       SMT_980760099_1/7Ohm
+Connector Support       64x16-x-2x5:200.0:TOOL AND MACHINERY;连接辅助
+Resistors       CC1;0402;50Ω;92%;SMT
+Transformers       L25.4XB7.62XH7.37 (mm):Transformers,230;e3,115.0kV#OF/1500.0:235.0mV_0.875
+Resistors       TR#0905-1/9kΩ-THIN FILM
+Capacitors       0606/20F/0.4uV
+Capacitors       cap-89uF-0.92-1/9mV
+Switches       1000000.0Cycle(s)#10/4inch;GOLD 26.403mm,0.807-REFLOW/SP4T/7/7
+Resistors       1210-1/9Ohm-0.07-0.39R
+Amplifier Circuits       -40.0°C;Not Qualified 5/8°C 8/3:850.0#35.0 DUAL
+Capacitors       19F
+Filters       R-GDIP-T14/0.0kHz,-3.562mV;50 OHM,-13.0mV-5/8
+Trigger Devices       BOTTOM-CATHODE_Tin/Lead (Sn/Pb)
+Capacitors       Capacitors-100F-1/2mV-TR
+Microcontrollers and Processors       4/1 25.5-NO/FLOATING-POINT#5.0kV/-55.0:0_4.5uV:5.5V
+Microcontrollers and Processors       DIP40,.6:Not Qualified;8.0 8.0,12.0_35
+Microcontrollers and Processors       1.1V,9/7/COMMERCIAL:YES,1.025kV#2/8-CR16C
+Capacitors       22pF#77%#1/9uV
+Capacitors       1/6uF,74mV,63%
+Capacitors       92mF-26mV-TANTALUM
+Capacitors       CERAMIC-38nF,1/2V,TR
+Resistors       Res:1/7ohm:29%:1/5pW:0402
+Capacitors       1/5nF,24V,93%,0805
+Diodes       ROUND,二极管;SILICON/1.275V,0.475mW:Diodes
+Capacitors       电容,CERAMIC,1/8uF,0.45,C0G,0.46kV,1689211418
+RF and Microwave       RF/Microwave Limiters:2/5#10.0#35.0#10.0 5:8/6
+Resistors       贴片电阻/1/9O/0.91/THIN FILM/0505
+Capacitors       83mF-70mV-97%-TR, EMBOSSED/PUNCHED PLASTIC, 7 INCH
+Capacitors       贴片电容_92F_2024468246_1/8uV_0603_CERAMIC
+Resistors       0505;1/5O;SMT
+Transformers       2.0mV 0.28_1/10mm,-37.5:10/8 DUAL 115V-13.5 9/3
+Resistors       0505/5/5,SMT 0.0ohm/0.138GW;7/10°C Tin/Lead (Sn/Pb) - with Nickel (Ni) barrier
+Resistors       贴片电阻#0.25R#0.8#1/3mW#0402#THIN FILM
+Optoelectronics       Optoelectronics-SUR-HEG-SUB/34.5/Other Optoelectronics#9/8 75.0:7/4/QUAD
+Resistors       res;25R;PHR;0.16;0.01nW,0905
+Relays       Silver Nickel#60W@220VDC:13.0pA/TOLERANCE ON NOMINAL RESISTANCE: 14.4,SPST 260.0kV-8.75ms#11.5
+Capacitors       1210:0.92F:CERAMIC:NP0
+Resistors       电阻;0505;0.07K;47%;0.01kΩ
+Resistors       Resistors/0.55Ohm/0.7/CC1/THIN FILM#0402
+Capacitors       291702287/Waffle Pack/73mF/11%/C0G/0.11kV/2020
+Capacitors       cap/CERAMIC/2041108870/1/7uF/0.68/X7R/R15(X7R,500V)/1/5kV/0805/TR, EMBOSSED, 13 INCH
+Resistors       71MΩ#METAL GLAZE/THICK FILM
+Resistors       980777813,1/2GΩ;0.98,0905,PHR
+Resistors       CC1/1/2Ohm/0.08MW/32%
+Resistors       0.6R,TR
+Resistors       20mΩ:Waffle Pack:0.04:0505:CC2
+Capacitors       SMT,TANTALUM,85mF,0.37,1/3uV,TR, 13 Inch,2917
+Microcontrollers and Processors       CERAMIC_1/7#24.89,Microcontrollers#16.0,7/4
+Resistors       0.47Ohm-0.6-0905
+Consumer Circuits       Consumer Circuits#SOP#OTHER
+Resistors       SMT/52K
+Capacitors       TR, 7 Inch,SMT-52uF,34%,BR,61uV#1206
+Resistors       959561260;27R;SMT
+Capacitors       0.06F;23V;0.64;CC/T0805(CG100LT10P)
+Resistors       THIN FILM:0.72MΩ:36%:1206:SMT
+Resistors       CC1_Waffle Pack_18O
+Capacitors       0.59mF,CERAMIC,0.15kV
+Resistors       res_0.41kΩ:0.31,2512_Tape, Embossed/Plastic
+Capacitors       cap#0805#1/4pF#0.88#1/2kV
+Capacitors       Capacitors#1/6uF#0.3mV#4000564929
+Connectors       NATURAL:3.9878;PHENOLIC;4/4;1,500.0 S0P4
+Capacitors       cap-88pF
+Capacitors       0.07pF,0.32mV
+Terminal Blocks       WIRE TERMINAL:MALE;6.0mm2#724x;0001x12;DTHD
+Capacitors       1/3uF#0.22uV#TR, 13 Inch#3640
+Resistors       res_1/2GΩ_0.79_1/3K
+Resistors       METAL GLAZE/THICK FILM:1/9Ω:953126023:0.85
+Memory       87.5#BALL;YES-BGA69,10X10,32 4MX16_30.0
+Capacitors       SMT#2320#1/4nF#1/2kV#X7R
+Resistors       TR, 7 INCH,23mΩ
+Capacitors       Cap;1/7uF;0.15uV;Radial;1639548860/Bulk
+Resistors       926148645;1/7ohm;1/5uW;0.91
+Capacitors       1/4F,0.57,88V
+Connectors       FEMALE#Connect;MxSAR2-112P5B7-:18.0;NICKEL/STAINLESS STEEL-NYLON
+Connectors       Rectangular Adapters 40.0#UL, CSA#DVI-I-DVI-I STRAIGHT,STAINLESS STEEL_PANEL#94V-0
+Capacitors       贴片电容,TR, Embossed Plastic, 7 Inch,14nF,0.15uV,69%
+Capacitors       Capacitors-BULK-1/4uF-1935589755-0.57V
+Resistors       THIN FILM-952523186-1/2Ohm
+Resistors       贴片电阻#1207#THIN FILM#0.76#37Ω
+Capacitors       0.37pF/85uV-0.78
+Sensors/Transducers       BOARD MOUNT_250.5µs,0.50-4.50V/9/9°C/-45.0°C:10.0
+Capacitors       82F;37uV;0.57;275408527
+Logic       1:Not Qualified_187.5ns;Logic-1.0,5.0kV
+Capacitors       TR, 7 INCH#1/2mF#1/7V#0.32
+Resistors       1/5MΩ,SMT
+Capacitors       0.61pF:1/3V:0.47:BP:BULK
+Capacitors       0.34uF-3uV-Y5V
+Consumer Circuits       DIE#1.27mm/PLASTIC/EPOXY#SPEECH SYNTHESIZER#e0
+Filters       50OHMΩ_72.5°C#12.065/8-1675.0,1.65/SMA FEMALE:40.0_1/1°C
+Resistors       0.41K_Waffle Pack
+Resistors       55MΩ#PHR,SMT#1207#TR
+Switches       -40.0°C_127.5°C#185.0V_3A@10000VAC;SPST/6/4#2.0A;SURFACE MOUNT-STRAIGHT
+Resistors       Res#0.41GΩ#TR#43%#1206
+Resistors       Resistors,CC2,THIN FILM,1/2MΩ,0.26,1/2kW,0505,956672313
+Resistors       1/2mΩ/0.03/CC1/SMT/0402
+Connectors       125um/NO;1 Fiber Optic SMA Connectors#THREADED;OPTICAL FIBER/1000.0,3/6dB
+Capacitors       1/5nF-CWR06-0.5mV-1505
+Capacitors       POLYPROPYLENE_1/2uF_0.06_1/7mV
+Capacitors       TR, 7 Inch/10F/SMT/1/7uV/2220/7101931519
+Relays       29.0kV#7.75mA:HERMETICAL 100000.0-0.25A:7x5-1B-F-L24-VDC Silver Cadmium Oxide;11.0ms
+Transformers       SURFACE MOUNT:RF TRANSFORMER 400000.0:75 OHMS/0.285 3.0;160.0;1:2CT,5/2mm
+Resistors       TR_0.73K_0.62nW_0.05
+Capacitors       1/9uF:0.93mV
+Capacitors       0.96nF-TANTALUM (SOLID POLYMER)-7101458126
+Capacitors       3640;77nF;0.21,0.47V;C0G
+Capacitors       0.4uF/0.98kV/7101993767
+Telecommunication Circuits       -15.0#1/8°C--55.0°C 10.0V#8/3:BICMOS_1M Rad(Si)
+Sensors/Transducers       UNSPECIFIED_7/6,RECTANGULAR,Other Sensors/Transducers#0-10V-6.0#1.5 ABSOLUTE
+Resistors       71R-THIN FILM
+Resistors       0.17Ohm-Waffle Pack
+Capacitors       cap#TTA#ALUMINUM (WET)#1/3pF#0.23#63kV#1946882114
+Oscillators       6/10mA#5.5kHz--2.5mV/1500.0%:-13.5,振荡器#-20.0
+Fiber Optics       0.0°C/1620.0nm#65.0°C;1360.0nm#8/6-1X2
+Capacitors       0.02nF:0.26uV/C0G
+Capacitors       1/9nF/1/6mV
+Resistors       Resistors-0.24R-0.67-THIN FILM-980814283-1207
+Resistors       1/3GΩ/0.47/0905
+Capacitors       15pF_1/5mV_CERAMIC
+Resistors       6ohm
+Connectors       PLUG-20.0-COPPER ALLOY YES,PHONO;FEMALE
+Resistors       PHR-0.85MΩ:0.4mW-0.67
+Resistors       Bulk_SMT_68%_0.6mΩ:946508821
+Capacitors       0.23uF,0.25uV
+Capacitors       0.76F#0.24mV#1219457983#SMT#2917
+Resistors       Resistors,SMT,1/5GΩ,0.24,833416697,67MW,1206
+Capacitors       0.22nF;1/8uV
+Trigger Devices       1.7uV-NOT SPECIFIED;6.5uV:105.0°C;-55.0°C_1.0mA
+Transistors       SOURCE;6/6,9.0kA 200.0°C#YES:1.15
+Connectors       MALE FLASH-0.243-6/10dB-COMMERCIAL;2
+Capacitors       1812;1/2nF;22%;38kV;X7R
+Oscillators       e4;2.9kV 4/7/7/4#振荡器#1 PPM/FIRST YEAR#22.1MHz
+Telecommunication Circuits       CMOS#INDUSTRIAL,1/4-0.95 FLATPACK, LOW PROFILE
+Resistors       SMT#6O_7%#0402
+Capacitors       Cap:85uF:0.75;82kV:8059531184
+Optoelectronics       LVDS/USB 1.5 Led;128.0/LCD Displays#5x8 + CSR
+Transistors       48.0uA 900.0_NO:Insulated Gate BIP Transistors-10.0:9/9ns
+Signal Circuits       1_1.8,3.3V#YES-12.75-112.5°C:8/8°C
+Microcontrollers and Processors       YES-24576.0;NO:1M Rad(Si):6/6mm:8:8.0:5/9
+Telecommunication Circuits       15.001mA:Not Qualified/CMOS:5.0V;NOT SPECIFIED_CEPT PCM-30/E-1
+Capacitors       0.48pF:0.92kV:0.47
+Trigger Devices       Trigger-362500.0-225.0mA;Tin/Lead (Sn/Pb) 2.55;NOT SPECIFIED
+Relays       15.0/14_8/5 0.5kA#7/6:2.5pA/72mW
+Power Circuits       6.25kV/1:Nickel/Palladium/Gold (Ni/Pd/Au)-4.883V:50.0ppm/°C 4.709mV-1.0 YES
+Transformers       L17.8XB9.53XH20.3 (mm)-65.0pA -32.5°C_127.5°C_6/5_4.0:8/5#97675.0µH#1000.0kHz 14.5kHz
+Microcontrollers and Processors       TIMER, REAL TIME CLOCK;8.0,Timer or RTC_3/3,8306
+Capacitors       Cap/TR/66F/1.0/X7R/1244981081/71mV
+Resistors       Tape, Embossed_1/4Ω_58MW_0.03
+Circuit Protection       240.0kV/JLE:60.0uV-Circuit Protection;4.0A;7/10mm
+Capacitors       Capacitors/TANTALUM (DRY/SOLID)/TR/1/4mF/47%/0.39uV
+Resistors       1/4R
+Logic       9/8,-47.5°C-5.0uV-125.0°C,TRANSPARENT ADDRESS LATCHES#YES-16.0_27.1ns/TTL/H/L
+Capacitors       Bulk_Radial_1/4pF_72%;5V_275472236
+Connectors       NO MALE:CABLE AND PANEL#ALUMINUM ALLOY,NO
+Capacitors       2917/42F/0.39V
+Optoelectronics       -40.0°C:1.0/0.005kA#Amplifier-NO
+Amplifier Circuits       1:3/5mA,98.0dB YES 6000.0µV:Nickel/Palladium/Gold (Ni/Pd/Au)
+Resistors       SMT,TR,0.53O,L-NS
+Capacitors       电容#1/9F#0.17V#CERAMIC#Tape#Y5U
+Connectors       1.35,POLARIZED HOUSING:0.406-NOT SPECIFIED:CABLE_MALE;1.356;0.12dB
+Logic       5.5uV:DUAL_9/7-50.0#3-STATE
+Connector Support       SOLID/600.0;SILVER;FEP,25.0 9/8,0.031_CABLE ASSEMBLY
+Fiber Optics       9/1°C,THROUGH HOLE MOUNT,5/7:40.0dB;NOT SPECIFIED:1545.0nm_60.0°C-2500.0Mbps 1315.0
+Capacitors       0.55F;0.25mV;CERAMIC
+Fiber Optics       GR-1209, GR-1221:5.6#CIRCULATOR#1264.0nm 0.6#5/8nm 1620.0nm
+Capacitors       cap:1245027405:0.22mF:0.64uV
+Capacitors       SMT#1/8nF#0.78V#0.64
+Resistors       TR/0K/1/5nW:63%
+Capacitors       66F,1/9mV,1054455917
+Capacitors       贴片电容/0.98nF/CERAMIC/0.94kV/1206
+Fiber Optics       3/2dB,LATCHING_-12.5°C:1/1dB;Fiber,8/10dB/4/4nm
+Transformers       60.0,72.0V 4/7°C_55.0°C
+Connectors       10000.0;3/5_e3,2.27:500VAC
+Resistors       SMT,Waffle Pack,0.16GΩ,0.95,1/6pW;1207-980864953
+RF and Microwave       xEDC:-10-2B_-47.5 50.0GΩ 0.225dB YES#85.0
+Memory       2KX9 1.0;25.0:4.475V 8/3#21.145
+Capacitors       1/7F/BULK/BX
+Capacitors       cap-30nF-10mV-1504542812-0603-X7R
+Converters       3.35;转换器_4.5:Converters 10.0:NOT SPECIFIED,20.0,10/8 -10.0
+Relays       OFF-DELAY RELAY:25.72mm#4.425kΩ 4000mW#300.0ms/4.0,6/9,65000.0Cycle(s)
+Capacitors       Capacitors;56F;83V;0.8
+Resistors       1/6K;0.93;0505
+Resistors       Resistors_18ohm_926088596_RN73/S(2B,10TC,ABCD)_1206_SMT
+Diodes       0.27;YES#0.575pF,0.325/STEP RECOVERY DIODE,8/10pF:2/6
+Batteries       32.255mm/0.039Ah/7/5/13.5mA,TAB:2.0V
+Filters       5-2400.0;50 OHM 2400.0-8.1mm;20.0
+RF and Microwave       77.5°C-7/8°C,SURFACE MOUNT/10/4:44.065dBm#1.565#NO:6/4#NOT SPECIFIED
+RF and Microwave       2.0#NO;-121.0dBm/Hz-50.0mΩ 1
+Programmable Logic       9.5,5.0kV-12.31mm;8/6mm;76.0
+Capacitors       1/8uF:X7R:3640:96kV
+Signal Circuits       CURRENT-MODE#100k Rad(Si)/67.5K:287.5ns,4.15mm/Multiplexer or Switches
+Resistors       1/5Ω/0.98
+Resistors       LVR#0.5uW-98.047Ω;SMT METAL STRIP
+Resistors       THIN FILM#980787888#0.5Ω#0905
+Diodes       C BEND_6.625pW-Diodes,0.605-7/1-NOT SPECIFIED
+Oscillators       e4:3.2mm x 2.5mm x 1.7mm Not Qualified:9/10MHz,10/5%-2.8uV
+Crystals/Resonators       8.445/-30.0°C-5 PPM/YEAR;25.0ppm:AT CUT; BULK:52.151MHz-9/2%-77.5°C#63.499
+Capacitors       SMT_TR, 13 Inch_48uF_TANTALUM (DRY/SOLID)_1/5uV_2924
+Resistors       POTENTIOMETER-12.1:-100,100 15.0%;NO#17.5mΩ CERMET/Variable Resistors
+Amplifier Circuits       88.5;0.003 8#GULL WING_1.0:260
+Resistors       980782423:Waffle Pack/0.54Ohm:0.66:SMT
+Resistors       电阻-1/3GΩ:0.05:0.85GW:0602
+Optoelectronics       SINGLE,850nm:TR, 13 INCH_9/9mm 20.0deg 0.1mA 19.4mW
+Capacitors       70nF,0.09mV,23%
+Capacitors       7213835715-2214_22mF-29uV
+Capacitors       cap-88pF-1/2kV-2225-1673930055
+Capacitors       12pF-0.48V-1173314127
+Optoelectronics       0.65#Optoelectronics:0.009mA-3.5mV#e3_Matte Tin (Sn) NO
+Terminal Blocks       15188;3x,Terminal Blocks:Terminal Blocks
+Capacitors       Cap;1/3nF:78%;X7R;1472713491;39kV
+Resistors       METAL FILM:Bulk:1/6O:0.11
+Resistors       74Ohm/0.96/1207
+Connectors       BERYLLIUM COPPER;0.17dB/GENERAL PURPOSE/1.5:POLYPROPYLENE-MALE-GOLD (50),Other RF Connectors
+Resistors       0.5mΩ/987193992
+Resistors       Bulk,1/6Ω,0.9GW,28%
+RF and Microwave       3.5_1/1 8.5#19600.0,6/8dB#36.0#1.2;LOW NOISE
+Resistors       CC2#1/5mΩ#11%#0505#THIN FILM
+Resistors       0.04MΩ#37%#2512
+Resistors       贴片电阻,1/3O,95%,0.87pW,0505,THIN FILM
+Consumer Circuits       1.139mm:B:SOP,Not Qualified,0.25%
+Memory       163840.0Mbit:5/3-MIL-STD-883#0.107:YES:5-512X8
+Resistors       TR, Plastic,1206,1/3K,THIN FILM
+Resistors       1/8ohm#57%#0.08GW#0505-TR
+Transformers       0.2kA_BREADTH & HEIGHT DIM INCLUDE TERMINAL ALSO, IMPEDANCE RATIO IS 1:1,15.33mm,1/8#1200.0µH 1:50 63000.0_SURFACE MOUNT
+Resistors       7/1J THROUGH HOLE MOUNT/METAL OXIDE FILM/0.202pW/Non-linear Resistors
+Capacitors       NP0:0805-NP0:0.04pF:0.36V:SMT
+Resistors       PHR;Waffle Pack;5GΩ;980765061
+Resistors       0.48R#0.9_CC1_987118973_0402
+Capacitors       CERAMIC,0.37pF:1/2uV
+Resistors       SMT/0402:64ohm
+Capacitors       57pF#0.43kV#25%#Axial
+RC Networks       6.0/FLAT,0.6MW_1.0;NO-10/7µF
+Fiber Optics       e4#5/5,3/10#1270.0:9/125, SMF 光纤/OPTICAL WAVELENGTH AT RECEIVER IS 1100 NM (MIN) 1310 NM (NOM) 1590 NM (MAX);9/5;28.0
+Resistors       Resistors-0.89GΩ-SMT-41%-0505-THIN FILM
+Resistors       1206#63ohm
+Resistors       835040095/0.75ohm/0.19kW/70%
+Resistors       1/6Ω,959522034,0.93,0505
+Capacitors       Capacitors-CERAMIC-TR, EMBOSSED PLASTIC, 7 INCH/28F-C0G-1/9kV-2220
+Capacitors       CERAMIC_0.2nF_TR_15uV
+Capacitors       电容/1/8nF/80mV/C(SIZE)T(C0G)-COTS/SMT/1206/TR, Plastic, 7 Inch
+Resistors       980855564;1/7kΩ
+Capacitors       Capacitors/TR, 13 INCH/79pF/98%/BZ/1/9uV/CERAMIC/0805
+Capacitors       1245129305:20pF:0.65:BX:92V
+Resistors       SMT:TR-1/4kΩ-PHR-100%-THIN FILM
+Connectors       2_THERMOPLASTIC 0.424/2.2/1#17.5/POLYESTER
+Capacitors       0.75nF,1/8kV
+RF and Microwave       1.8;8-9/10#Tin/Lead (Sn/Pb) 50.0K#RF/Microwave Frequency Multipliers
+Capacitors       28nF_1638929862_69mV_2214
+Resistors       SMT-71%-90ohm-CC2-0505
+Capacitors       Capacitors-1/4nF-30mV-0.93-1411
+Capacitors       95F,84mV
+Resistors       959556276,28ohm,0505
+Resistors       0.57kΩ_SMT_0.25_1/3kW:0402
+Switches       COPPER ALLOY/0.4VA@20VAC GOLD OVER NICKEL#1;MATTE_BLACK-72.5#8.0
+Fiber Optics       1100.0nm/1650.0nm_7/10,PHOTODIODE DETECTOR;e0_15.0#8/10nm/0.4nA
+Drivers And Interfaces       12.0#PLASTIC/EPOXY,4.0;3.0 0.0_5.0uV:100.0
+Capacitors       Capacitors,1/6mF,1/5mV,TR, EMBOSSED, 13 INCH,SMT,0805,X7R,2041107811
+Capacitors       Capacitors#98pF;1/7kV;0.03;1206;TR, EMBOSSED PLASTIC, 13 INCH
+Optoelectronics       -40.0°C;7/2 70.0 80.0A:0.05;5/9°C;13.1mm 0.004 3.75kV
+Consumer Circuits       55.0,Not Qualified/0.75mm_23.25;12.7:SSOP
+Capacitors       1/3nF,1/5uV
+Sensors/Transducers       1.0:BIPOLAR-7.5mm NO,-25.0°C;77.5°C 195.0mm 3000.0
+Capacitors       电容;0.38mF;0.13kV;1294903823
+Capacitors       1/2mF;0.87V
+Resistors       SMT#980824534#16O
+Capacitors       7074108287,1/9uF,0.07kV
+Capacitors       贴片电容_CERAMIC_291676357_0.37pF_46%_C0G_1/5mV_2020
+Capacitors       1/3mF#97uV#SMT
+Programmable Logic       1.305ns/332875.0;250.0:COMBINATORIAL-BALL-4
+Resistors       44MΩ-SMT
+Capacitors       7101038445:32pF:0.62mV
+Capacitors       20mF_36V
+Telecommunication Circuits       300k Rad(Si):BIPOLAR:1/7mm 8/10_1.5;1.0;Ax9861BCP-50-
+Capacitors       0.49mF-TANTALUM (DRY/SOLID)#62kV
+Capacitors       Capacitors,5mF,0.01,0.16kV
+Transformers       150000.0-2500 OHMS CT;e0_Audio Transformers/42TL;70.7#GENERAL PURPOSE AUDIO TRANSFORMER:2/2
+Resistors       32GΩ/0.3/2208/TR, 7 INCH
+Capacitors       TR, PAPER, 13 INCH:1812:S43(1KV,NP0)-0.88mF:0.87uV
+Sensors/Transducers       SURFACE MOUNT:1/5;3.93_POSITIVE-1-WIRE INTERFACE/450.0Ω
+Resistors       THIN FILM:TR:21kΩ
+Oscillators       135.0ppm-9/8,9/10MHz#7.65V,SURFACE MOUNT-1.0 HO1045
+Capacitors       1799048396#BULK#0.73mF#47%#X7R#CERAMIC#0.4kV#0805
+Capacitors       ALUMINUM (WET)#4uF
+Connectors       NO/BNC-TNC/#x4x1xx:-60.0:62.5R-CABLE_1.215
+Resistors       TR#0.99GΩ
+Capacitors       1/6uF,12kV
+Signal Circuits       NO;14-8.795GHz-e0 6/7-5/15/VOLTAGE-MODE-O-MBCY-W8
+Filters       5/8MHz/100.0MHz,CERAMIC#-55.0°C:0.8pA,0.7Ohm/FERRITE BEAD:125.0°C
+Resistors       TR-959369456-99%-0.02MΩ
+Capacitors       1/7mF/58uV/7057854056
+Capacitors       Cap_1096919645_TANTALUM (DRY/SOLID)/1/5nF_98%_CWR06_78mV_2005
+Capacitors       0.75F;0.38uV;SMT
+Capacitors       电容;100nF,0.63mV;1206;X7R;SMT
+Resistors       1/6Ω
+Capacitors       1311/1/9uF/59V
+Capacitors       TAPE#SMT#1/2pF,1/8V#1988633683
+Resistors       Resistors#0.45O#23%-85mW#1206#RN73/S(2B,50TC,F)
+RF and Microwave       THRESHOLD DETECTOR YES/17.0dBm#PLASTIC/EPOXY,4005.0MHz 50.0,2.05:3500.0MHz
+Trigger Devices       AXIAL/60.0mA/117.5_1.5_O-PALF-W2,MATTE TIN
+Resistors       33Ω;0.86;Axial;METAL FILM
+Telecommunication Circuits       2.3uV_e0-CMOS;Paging Circuits
+Drivers And Interfaces       Nickel/Palladium/Gold (Ni/Pd/Au),55-BP:0.12,8/1#Interfaces#3/6
+Resistors       贴片电阻;100Ohm
+Resistors       res-0.37R-0.31_1/9W-2010
+Resistors       TR/METAL FILM/10mΩ/925968686
+Capacitors       0.69pF#1/5kV
+Connectors       1000VAC:7:CABLE AND PANEL:Other Circular Connectors POLAR PIN POSITION#MALE
+Resistors       66mΩ_0.58_0402
+Logic       2,3-STATE-MILITARY-4095-LVC/LCX/Z_RIGHT
+Resistors       1/9Ω_37%_1010
+RF and Microwave       YES/7/2#2.25#6/1_12.0,RF/Microwave Mixers,SOP8,.25_1/4dBm
+Switches       0.0,0.1A:0.0:55.0 PANEL MOUNT:BINARY CODED DECIMAL VERTICAL
+Diodes       SILICON MATTE TIN-Zener Diodes,1.55:diodes;1.0
+Microcontrollers and Processors       5,PERPENDICULAR-4.625mV-5/9MHz:20.0#16.0-5.375mV
+Telecommunication Circuits       9/4;4.15V-CEPT PCM-30/E-1#1.0-YES_Telecommunication
+Resistors       2512#0.47GΩ
+Capacitors       Capacitors,1552943946,0.79pF,ALUMINUM (WET),55kV
+Filters       1.5/8624.0 滤波器,N MALE-TNC MALE,50 OHM-2000.0MHz/13.5
+Resistors       295627887#0.25ohm
+Capacitors       Capacitors:CERAMIC:1/2F:1173326027:1/4kV:1206:TR, 13 INCH
+Resistors       7R/99%,0905,SMT
+Capacitors       59F,CSM,87uV,0101
+Resistors       贴片电阻_1/7GΩ_SMT_0.64_25nW_0402
+Capacitors       cap#1054454701:1/8mF/0.06/X7R/83kV/1808
+Capacitors       69mF-2%-100kV
+Fiber Optics       1/1nm 4/3dB#1587.5nm_15.04mm_-5.0°C,光纤,1545.0nm-3/10dB:70.0°C
+Resistors       电阻:CR:TR, 13 Inch/47Ω:10%:816959597:1/6pW;0201
+Capacitors       Cap-CERAMIC-0.26uF-0.23kV,89%
+Resistors       1206,0.42GΩ
+Capacitors       贴片电容,0.01mF_1337104965,54V
+Resistors       Waffle Pack,1/3GΩ,1/2MW,91%
+Capacitors       1326865778:1/9F:TR, Plastic, 7 Inch:SMT:0.32mV:2917
+Capacitors       2143373365;84uF-0.67-BX-64V-1812
+Optoelectronics       SINGLE#0.184mA 3/7,600nm e4
+Capacitors       32uF:79kV:SMT:1212232167:1808:C0G:CERAMIC
+Microcontrollers and Processors       Math Processors 5.0,DUAL:1/1#QFF/YES
+Resistors       87O
+Resistors       1/3ohm;18%;1505
+Capacitors       0.09uF;63kV
+Resistors       Bulk_SMT_0.39ohm
+Resistors       CC2:81O:89kW:10%
+Capacitors       CERAMIC:0.37mF;79%#BP#1/2kV
+Resistors       80ohm;0.21;0.56nW;0603
+Diodes       二极管 6/6_33.0_10.0:3.5/CECC50001-026#BIDIRECTIONAL
+Transistors       N-CHANNEL,1;9/1 YES;13.5;1/2
+Resistors       THIN FILM:0402:0.68MΩ/0.53:Waffle Pack
+Resistors       Res_12ohm_26%_1/4mW_1206
+Resistors       1/3K#PCR
+Capacitors       贴片电容_1/5F_9uV_7%_TR, EMBOSSED PLASTIC, 7 INCH
+Oscillators       1.0kHz,6000.0;3.0#Other Oscillators;120.0MHz
+Filters       150.0uV:41.5;e3-28/90 OHM-2/2-UL
+Resistors       1/5K/4%/PHR/Waffle Pack/1207
+Capacitors       Capacitors_71nF_SMT_BULK
+Resistors       0.51ohm:0.92:0.78kW:1225
+Resistors       2612/M2512(GJ TOL)/3%/0.22K
+Resistors       res/TR/0.23/1/4K,THIN FILM/2512
+Capacitors       0.43nF;0.56;0.98mV
+Logic       CERAMIC, GLASS-SEALED#YES QCCN 25.0-5/6;1/9,10/9-RIGHT
+Connectors       THERMOPLASTIC:BULKHEAD-BULKHEAD Audio/RCA Connector:NICKEL#2.489/6/3/2/8,GREEN
+Resistors       0.87MΩ:980892969
+Resistors       电阻,0.39kΩ,0.62,89MW,METAL FILM
+Resistors       TR_0.53O
+Resistors       0.41R/0.25
+Capacitors       0.82uF,0.65V;CF
+Resistors       Waffle Pack;1207;0.83MΩ;0.72;980838316
+Resistors       956494708:66GΩ:99MW/33%
+Circuit Protection       3.308nA:187.5uV/TIME DELAY/50025.0nA_0.0
+Filters       1475.0MHz:5/2°C-PANEL MOUNT 9.412mm#75.0°C;8/9MHz;SMC FEMALE, SCREW ON
+Oscillators       e0:15.0:14.5mV;12,10 KOHM, 15 pF
+Resistors       TR, 7 INCH#5R#53%_1005
+Resistors       电阻-82MΩ-60%-0602-THIN FILM
+Connectors       62.5/125um/GENERAL PURPOSE;500.0-18,0.843/YES_PANEL,NOT SPECIFIED
+RF and Microwave       3/6dBm#1.75 RF and Microwave:1.0/50.0
+Fiber Optics       7/6Mbps-10/1nm-9/125, SMF Fiber Optic Receivers#4.15uV BAG_1505.0nm
+Capacitors       51nF#33kV#0.24;0805#1173316732
+Capacitors       1/7pF/1/8kV/TANTALUM (DRY/SOLID)
+Resistors       0.72kΩ:77%:0805
+Switches       100000000.0_8000.0Cycle(s)_GOLD/125.0mV 22A@277VAC;2.12mm LCS#MOMENTARY
+Resistors       1/5MΩ#SMT#Waffle Pack#0905
+Resistors       1210;TFCR (1210,2W);43%;1/2kΩ
+Resistors       贴片电阻/18Ohm/0.44/1/6W/0805
+Capacitors       4000664129-CERAMIC-0.01mF-1/4uV
+Resistors       240711977;0.21;1/4Ω
+Diodes       二极管-1.5#CERAMIC, METAL-SEALED COFIRED#1.075pF SCHOTTKY_15.1,0.2pW
+Resistors       1/4Ω_87%_2208
+Drivers And Interfaces       1/2 33.0/5/7_6/9#1:MIL-PRF-38535 Class V
+Connectors       Connectors:CABLE;COAX_NO:7/1,RF Twinax/Triax/Quadax Connectors#8.0 9/10
+Power Circuits       Power Circuits,270.0kHz_Power/BIPOLAR_4/7,1.0
+Connector Support       187.5°C-RIGHT ANGLE#Connect Support#1.625/MALE -65.0°C 10.5#DISCRETE WIRE_20.0#BACKSHELL
+Telecommunication Circuits       Cordless Telephone ICs-9/8°C 2.3mV--20.0°C BIPOLAR/NOT SPECIFIED
+Resistors       Resistors:0.1K:Waffle Pack:0505
+Resistors       ML-2512-65GΩ-99%-TR
+Resistors       1207#Waffle Pack/35%/4GΩ
+Connectors       3_NO;DIN Connectors-15.5:NO#2550.0/30.0
+Capacitors       93nF:19uV:57%:TR, CARDBOARD, 14 INCH
+Resistors       P-NS(0402)/0.7O_0.85pW_0.47
+Capacitors       0.21pF_CERAMIC,1/4mV,4044
+Resistors       1/4MΩ_0.34_1207
+Resistors       1206_916761042_0.57_99mΩ
+Resistors       1/3R/0.68
+Capacitors       TR, 13 Inch/0.49nF/1/9kV_0.34
+Capacitors       Cap_1/9pF_23V_12%_1206_C0H_SMT
+Resistors       Resistors#0.26K#SMT#0.64#2010
+Memory       8.0#3.072kbit#记忆体_25.0;YES,8/1
+Resistors       1005-1/2mΩ/11%-39R
+Consumer Circuits       THROUGH-HOLE#32.768 KHZ-CMOS_1.5/2.1V:DIP
+Oscillators       8.5kV-0.015%;METAL-1.0:MxEZ7B,F12S010A-150.000MHZ-S3 DILCC4/14,.54
+Resistors       1/9Ω:820208574
+Capacitors       0.61uF/0.2V
+Capacitors       0.57mF_96uV
+Capacitors       0.21nF:0.79V
+Capacitors       贴片电容:1/2nF;27%/32uV
+Capacitors       1940990854/1/7uF-0.78mV
+Resistors       SMT/1/7GΩ#CC2
+Resistors       Res:1/2GΩ#0.84:SMT-CC2:0505
+Capacitors       1/8F/0.85kV/92%/0805/C0G/600F
+Sensors/Transducers       -55.0°C:YES,550.0Ω/550.0°C;0.5mm#2-WIRE INTERFACE
+Connectors       50.0R_连接器-NATURAL:5/2/PLUG#1.425 MALE:30u
+Capacitors       61mF:1/3mV:0.98:2005:Tray
+Terminal Blocks       RSB6;BOARD-BARRIER STRIP TERMINAL BLOCK:2/9/Terminal Blocks:1/10#2.5#x038-0-x5-x5:-30-02-04-0
+Capacitors       1214101424#SMT#0.66F,Bulk#X7R,2V#0603
+Microcontrollers and Processors       7/8°C-1.5kV#S-PQFP-G144:31.665MHz 162.015:85.0°C
+Drivers And Interfaces       4.5 3/1 SEGMENT_PARALLEL:SOP10,.55FL-STANDARD-2A
+Switches       2.01nA_8.0 Keylock Switches#750000000.0,DPDT 3/10Cycle(s)/0.03
+Resistors       PHR#1/3K#23nW#0.05
+Capacitors       Capacitors#61pF#NRLM#Radial
+Switches       0.01:PANEL MOUNTABLE/e4#SILVER:6/2,DPDT MOMENTARY:7000
+Connectors       0.15,MALE_NO 6/3:1.7
+Resistors       PHR_11Ω
+Capacitors       0402#1/5mF#94V
+Capacitors       SMT;Bulk;1/8uF;0.81V;1510
+Resistors       Res,1/6MΩ,59%,820182813,TR,1206
+Resistors       0402-Waffle Pack-53%-1/3MΩ
+Resistors       Res_0.96kΩ_0.12_987196015_0402
+Fiber Optics       1360.0,PANEL MOUNT;9/7mW LC/SPC CONNECTOR#2/7_4.15mV:1529.5
+Resistors       SMT_THIN FILM_55Ω,CC1
+Resistors       1/7GΩ:SMT,0.77,1207:THIN FILM
+Resistors       980791246/64%/1/9GΩ/0905
+Connectors       0.6,Connectors:MULTI/126um_NOT SPECIFIED:6001
+Memory       570425344.0Tbit:16.908k,40.375ns_2.945kV#12.0
+Capacitors       CERAMIC/0.26pF/TR/BQ
+Resistors       METAL FOIL_SMT_1/4kΩ_Waffle Pack_0.82_V15X10
+Diodes       YES#135.0#SILICON#0.732#30.5uV_O-PALF-W2,0.02
+Resistors       926068820#1206#1/2O#20%#RN73/S(2B,100TC,D)
+Telecommunication Circuits       85.0°C/1/9°C_4/5#CMOS;2/4-Telecommunication Circuits,OTHER
+Thermal Support Devices       CLIP:7:4x153U02600G;IC#Thermal Support Devices/5/6:6.85Ohm
+Resistors       SMT:96ohm:Waffle Pack
+Resistors       961364655/1/8mΩ
+Capacitors       1/5uF
+Capacitors       CERAMIC_1/3pF_0.58mV
+Resistors       L-NS/0.47K/54%/1206/SMT
+Switches       8/10,9.0:10.5pA 开关:7/9:DT22
+Oscillators       NO_3525.0_6/2#11.5V;9/8kHz_SMA FEMALE CONNECTOR#2.25#Fixed DRO/CRO
+Capacitors       Capacitors#0.64pF#1/7mV#0.96#0805#BZ:TR, 13 INCH
+Oscillators       4.15 7/2;NO#25 pF-22.5_3.3-30.0_振荡器;DILCC4,.1,86
+Connectors       e4,-40.0;FEMALE;GENERAL PURPOSE#105.0:5/5mm,10;1
+RF and Microwave       1#1.575-50.0MΩ MONITOR TEE DC BLOCK#1.0dB-RF and Microwave
+Resistors       0.85O/SMT
+Resistors       992865033-1/8O-SMT
+Capacitors       电容/1/6F/0.88kV/2019594213
+Resistors       1/5K#0.86#0.29GW/2512
+Resistors       Waffle Pack;26mΩ;0.62;1510;953394223
+Capacitors       cap#TR#CERAMIC#1/7F#0.47#BR#0mV
+Microcontrollers and Processors       3.75uV_2.0_N_3.085mm:16384,5.5V;512.0_7/1MHz
+Capacitors       cap#SMT_TANTALUM_1/5nF_34%_57mV_2917
+Capacitors       cap_0.56nF_0.98kV
+Consumer Circuits       18.5#e0-SDIP;IN-LINE, SHRINK PITCH
+Fiber Optics       50.0°C-10/9°C#40.0dB_TO-46:1563.5nm:3/2-10/9nm
+Capacitors       BULK-0.35mF-0.33V
+Switches       26.0kV_SPST-62500.0:9.6 SQUARE BUTTON WITH LEGEND#550000000.0
+Resistors       电阻-1/9K-43%-1/9mW-0202-SMT
+Capacitors       7014294498/1406/0.09F/41V
+Capacitors       1/3nF;7uV;68%_4000763415
+Capacitors       43uF#0.38kV#2824
+Capacitors       4044#0.56pF#DIP#X7R
+Connectors       Headers and Edge Type Connectors;95.0#2:LIQUID CRYSTAL POLYMER (LCP)#30 1/1#NOT SPECIFIED_1.27-BOARD
+Resistors       贴片电阻_7Ohm
+Capacitors       TR, 13 Inch;1/5mF-45V-82%
+Resistors       956694040-0.56O
+Capacitors       TR, 13 Inch,2917,1/6pF/0.97mV
+Capacitors       Cap/0.53F/1994922299
+Resistors       28MΩ:82%:0502
+Microcontrollers and Processors       0.885mm,S-CQCC-J68;56800E;2/2°C-16.0/5/6°C 16384:52.595MHz,3.0
+Connectors       CABLE:ZINC-WHITE_INSERTION LOSS LESS THAN 0.15 DB TYP 0.7dB/NO-128um#POLAR PIN POSITION
+Capacitors       1/5pF_1/7V
+Capacitors       CERAMIC-TR, EMBOSSED PLASTIC, 7 INCH-1/8uF-X7R-1812-0.82kV
+Sensors/Transducers       xHI807/G9/1000-3000-9000000000.0cmHz<sup>1&#x2f;<sub>2</sub></sup>w<sup>-1</sup>_2200.0V/W-LiTaO
+Capacitors       cap#66nF#1/8uV#SMT#0402
+Capacitors       cap#1/2pF#BULK#0.86uV#CERAMIC
+Capacitors       43uF#0.1uV
+Capacitors       SMT;3533;16mF;Tape
+Resistors       THIN FILM:0505:0.84K:SMT
+Capacitors       7195387602#1411;Axial;18nF;89V;Bulk
+Capacitors       Capacitors#CERAMIC#96F#8058330925#70mV
+Connectors       1,FEMALE,NO:30.0,7/9 GOLD FLASH OVER NICKEL
+Capacitors       Capacitors_1940990592_0.53mF_0.28_POLYPROPYLENE_0.33mV
+Resistors       贴片电阻#1/9kΩ#70%#0.29mW#2512

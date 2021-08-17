@@ -1,0 +1,117 @@
+{
+    "apacitance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "3"
+    },
+    "atedDCVoltageURdc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "3"
+    },
+    "nput class": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "1"
+    },
+    "ositiveTolerance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "2"
+    },
+    "thers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "7"
+    },
+    "overall_precision": 0.0,
+    "overall_recall": 0.0,
+    "overall_f1": 0.0,
+    "overall_accuracy": 0.8865546218487395
+}{
+    "esistance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "1"
+    },
+    "olerance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "1"
+    },
+    "thers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "3"
+    },
+    "overall_precision": 0.0,
+    "overall_recall": 0.0,
+    "overall_f1": 0.0,
+    "overall_accuracy": 0.9066666666666666
+}{
+    "apacitance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "3"
+    },
+    "atedDCVoltageURdc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "3"
+    },
+    "nput class": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "1"
+    },
+    "ositiveTolerance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "2"
+    },
+    "thers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "7"
+    },
+    "overall_precision": 0.0,
+    "overall_recall": 0.0,
+    "overall_f1": 0.0,
+    "overall_accuracy": 0.8865546218487395
+}{
+    "esistance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "1"
+    },
+    "olerance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "1"
+    },
+    "thers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "number": "3"
+    },
+    "overall_precision": 0.0,
+    "overall_recall": 0.0,
+    "overall_f1": 0.0,
+    "overall_accuracy": 0.9066666666666666
+}

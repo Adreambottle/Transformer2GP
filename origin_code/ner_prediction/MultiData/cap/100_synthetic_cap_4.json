@@ -1,0 +1,2246 @@
+[
+    {
+        "description": [
+            "-55℃",
+            "POLYPROPYLENE",
+            "947u",
+            "680p",
+            "5%",
+            "Cap",
+            "85℃"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "DielectricMaterial",
+            "RatedDCVoltageURdc",
+            "Capacitance",
+            "PositiveTolerance",
+            "input class",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMin": "-55℃",
+        "DielectricMaterial": "POLYPROPYLENE",
+        "RatedDCVoltageURdc": "947u",
+        "Capacitance": "680p",
+        "PositiveTolerance": "5%",
+        "input class": "Cap",
+        "OperatingTemperatureMax": "85℃"
+    },
+    {
+        "description": [
+            "电容",
+            "9354pF",
+            "6318uV",
+            "105℃"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "input class": "电容",
+        "Capacitance": "9354pF",
+        "RatedDCVoltageURdc": "6318uV",
+        "OperatingTemperatureMax": "105℃"
+    },
+    {
+        "description": [
+            "CAP",
+            "POLYESTER",
+            "THROUGH HOLE MOUNT",
+            "1u",
+            "10%",
+            "9915kV",
+            "CWR06MH475MTB/HR"
+        ],
+        "labels": [
+            "input class",
+            "DielectricMaterial",
+            "MountingFeature",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "input class": "CAP",
+        "DielectricMaterial": "POLYESTER",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Capacitance": "1u",
+        "PositiveTolerance": "10%",
+        "RatedDCVoltageURdc": "9915kV",
+        "MfrPartNumber": "CWR06MH475MTB/HR"
+    },
+    {
+        "description": [
+            "0uF",
+            "5%",
+            "6236kV",
+            "-55℃",
+            "THROUGH HOLE MOUNT",
+            "105℃"
+        ],
+        "labels": [
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "OperatingTemperatureMin",
+            "MountingFeature",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "0uF",
+        "PositiveTolerance": "5%",
+        "RatedDCVoltageURdc": "6236kV",
+        "OperatingTemperatureMin": "-55℃",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "OperatingTemperatureMax": "105℃"
+    },
+    {
+        "description": [
+            "THROUGH HOLE MOUNT",
+            "4037n",
+            "125℃",
+            "3.5kV",
+            "02012F152Z7BP0D"
+        ],
+        "labels": [
+            "MountingFeature",
+            "Capacitance",
+            "OperatingTemperatureMax",
+            "RatedDCVoltageURdc",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Capacitance": "4037n",
+        "OperatingTemperatureMax": "125℃",
+        "RatedDCVoltageURdc": "3.5kV",
+        "MfrPartNumber": "02012F152Z7BP0D"
+    },
+    {
+        "description": [
+            "10%",
+            "6.8n",
+            "Cap",
+            "5993kV",
+            "1206"
+        ],
+        "labels": [
+            "PositiveTolerance",
+            "Capacitance",
+            "input class",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "PositiveTolerance": "10%",
+        "Capacitance": "6.8n",
+        "input class": "Cap",
+        "RatedDCVoltageURdc": "5993kV",
+        "SizeCode": "1206"
+    },
+    {
+        "description": [
+            "贴片电容",
+            "150nF",
+            "9597m",
+            "POLYPROPYLENE",
+            "MKT1817-510-065-W",
+            "THROUGH HOLE MOUNT"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "DielectricMaterial",
+            "MfrPartNumber",
+            "MountingFeature"
+        ],
+        "class": "Capacitors",
+        "input class": "贴片电容",
+        "Capacitance": "150nF",
+        "RatedDCVoltageURdc": "9597m",
+        "DielectricMaterial": "POLYPROPYLENE",
+        "MfrPartNumber": "MKT1817-510-065-W",
+        "MountingFeature": "THROUGH HOLE MOUNT"
+    },
+    {
+        "description": [
+            "9605nF",
+            "6333uV",
+            "POLYCARBONATE",
+            "EKM05DG122NE09"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "DielectricMaterial",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "9605nF",
+        "RatedDCVoltageURdc": "6333uV",
+        "DielectricMaterial": "POLYCARBONATE",
+        "MfrPartNumber": "EKM05DG122NE09"
+    },
+    {
+        "description": [
+            "Cap",
+            "1984nF",
+            "125000000uV",
+            "75%"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "input class": "Cap",
+        "Capacitance": "1984nF",
+        "RatedDCVoltageURdc": "125000000uV",
+        "PositiveTolerance": "75%"
+    },
+    {
+        "description": [
+            "Cap",
+            "THROUGH HOLE MOUNT",
+            "22000n",
+            "85℃",
+            "ALUMINUM (WET)",
+            "450V"
+        ],
+        "labels": [
+            "input class",
+            "MountingFeature",
+            "Capacitance",
+            "OperatingTemperatureMax",
+            "DielectricMaterial",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "input class": "Cap",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Capacitance": "22000n",
+        "OperatingTemperatureMax": "85℃",
+        "DielectricMaterial": "ALUMINUM (WET)",
+        "RatedDCVoltageURdc": "450V"
+    },
+    {
+        "description": [
+            "-40℃",
+            "ALUMINUM (WET)",
+            "2288pF",
+            "9383m"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "DielectricMaterial",
+            "Capacitance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMin": "-40℃",
+        "DielectricMaterial": "ALUMINUM (WET)",
+        "Capacitance": "2288pF",
+        "RatedDCVoltageURdc": "9383m"
+    },
+    {
+        "description": [
+            "瓷片电容",
+            "6800000n",
+            "1286u",
+            "50%",
+            "-40℃"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "PositiveTolerance",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Capacitors",
+        "input class": "瓷片电容",
+        "Capacitance": "6800000n",
+        "RatedDCVoltageURdc": "1286u",
+        "PositiveTolerance": "50%",
+        "OperatingTemperatureMin": "-40℃"
+    },
+    {
+        "description": [
+            "CA0508JRX7R8B182",
+            "16000000u",
+            "THROUGH HOLE MOUNT",
+            "335"
+        ],
+        "labels": [
+            "MfrPartNumber",
+            "RatedDCVoltageURdc",
+            "MountingFeature",
+            "Capacitance"
+        ],
+        "class": "Capacitors",
+        "MfrPartNumber": "CA0508JRX7R8B182",
+        "RatedDCVoltageURdc": "16000000u",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Capacitance": "335"
+    },
+    {
+        "description": [
+            "7328u",
+            "30%",
+            "330000000000pF",
+            "CHASSIS MOUNT"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "PositiveTolerance",
+            "Capacitance",
+            "MountingFeature"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "7328u",
+        "PositiveTolerance": "30%",
+        "Capacitance": "330000000000pF",
+        "MountingFeature": "CHASSIS MOUNT"
+    },
+    {
+        "description": [
+            "9730k",
+            "THROUGH HOLE MOUNT",
+            "ALUMINUM (WET)",
+            "3.3uF"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "MountingFeature",
+            "DielectricMaterial",
+            "Capacitance"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "9730k",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "DielectricMaterial": "ALUMINUM (WET)",
+        "Capacitance": "3.3uF"
+    },
+    {
+        "description": [
+            "105℃",
+            "-55℃",
+            "16000000u",
+            "Capacitors",
+            "270000000000p"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "OperatingTemperatureMin",
+            "RatedDCVoltageURdc",
+            "input class",
+            "Capacitance"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMax": "105℃",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedDCVoltageURdc": "16000000u",
+        "input class": "Capacitors",
+        "Capacitance": "270000000000p"
+    },
+    {
+        "description": [
+            "3300u",
+            "20%",
+            "400V",
+            "ALUMINUM (WET)"
+        ],
+        "labels": [
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "DielectricMaterial"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "3300u",
+        "PositiveTolerance": "20%",
+        "RatedDCVoltageURdc": "400V",
+        "DielectricMaterial": "ALUMINUM (WET)"
+    },
+    {
+        "description": [
+            "THROUGH HOLE MOUNT",
+            "2437p",
+            "4064u",
+            "ALUMINUM (WET)"
+        ],
+        "labels": [
+            "MountingFeature",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "DielectricMaterial"
+        ],
+        "class": "Capacitors",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Capacitance": "2437p",
+        "RatedDCVoltageURdc": "4064u",
+        "DielectricMaterial": "ALUMINUM (WET)"
+    },
+    {
+        "description": [
+            "贴片电容",
+            "359uF",
+            "250V",
+            "ALUMINUM (WET)",
+            "259P273X9440S03",
+            "105℃"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "DielectricMaterial",
+            "MfrPartNumber",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "input class": "贴片电容",
+        "Capacitance": "359uF",
+        "RatedDCVoltageURdc": "250V",
+        "DielectricMaterial": "ALUMINUM (WET)",
+        "MfrPartNumber": "259P273X9440S03",
+        "OperatingTemperatureMax": "105℃"
+    },
+    {
+        "description": [
+            "THROUGH HOLE MOUNT",
+            "瓷片电容",
+            "4784uF",
+            "+/-20%",
+            "3737V"
+        ],
+        "labels": [
+            "MountingFeature",
+            "input class",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "input class": "瓷片电容",
+        "Capacitance": "4784uF",
+        "PositiveTolerance": "+/-20%",
+        "NegativeTolerance": "+/-20%",
+        "RatedDCVoltageURdc": "3737V"
+    },
+    {
+        "description": [
+            "电容",
+            "0.06kV",
+            "20%",
+            "5683u",
+            "20%"
+        ],
+        "labels": [
+            "input class",
+            "RatedDCVoltageURdc",
+            "NegativeTolerance",
+            "Capacitance",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "input class": "电容",
+        "RatedDCVoltageURdc": "0.06kV",
+        "NegativeTolerance": "20%",
+        "Capacitance": "5683u",
+        "PositiveTolerance": "20%"
+    },
+    {
+        "description": [
+            "100u",
+            "8669kV",
+            "20%",
+            "-40℃"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "PositiveTolerance",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "100u",
+        "RatedDCVoltageURdc": "8669kV",
+        "PositiveTolerance": "20%",
+        "OperatingTemperatureMin": "-40℃"
+    },
+    {
+        "description": [
+            "电容",
+            "THROUGH HOLE MOUNT",
+            "-40℃",
+            "7312n",
+            "W3A43A331J4Z4A",
+            "9939V"
+        ],
+        "labels": [
+            "input class",
+            "MountingFeature",
+            "OperatingTemperatureMin",
+            "Capacitance",
+            "MfrPartNumber",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "input class": "电容",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "OperatingTemperatureMin": "-40℃",
+        "Capacitance": "7312n",
+        "MfrPartNumber": "W3A43A331J4Z4A",
+        "RatedDCVoltageURdc": "9939V"
+    },
+    {
+        "description": [
+            "4530pF",
+            "7236V",
+            "CA064C560K8GAC",
+            "POLYPROPYLENE"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "MfrPartNumber",
+            "DielectricMaterial"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "4530pF",
+        "RatedDCVoltageURdc": "7236V",
+        "MfrPartNumber": "CA064C560K8GAC",
+        "DielectricMaterial": "POLYPROPYLENE"
+    },
+    {
+        "description": [
+            "15000nF",
+            "瓷片电容",
+            "900V",
+            "STUD MOUNT",
+            "C091330KCG1"
+        ],
+        "labels": [
+            "Capacitance",
+            "input class",
+            "RatedDCVoltageURdc",
+            "MountingFeature",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "15000nF",
+        "input class": "瓷片电容",
+        "RatedDCVoltageURdc": "900V",
+        "MountingFeature": "STUD MOUNT",
+        "MfrPartNumber": "C091330KCG1"
+    },
+    {
+        "description": [
+            "741pF",
+            "Capacitors",
+            "-40℃",
+            "CA052C331J1RAL"
+        ],
+        "labels": [
+            "Capacitance",
+            "input class",
+            "OperatingTemperatureMin",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "741pF",
+        "input class": "Capacitors",
+        "OperatingTemperatureMin": "-40℃",
+        "MfrPartNumber": "CA052C331J1RAL"
+    },
+    {
+        "description": [
+            "Cap",
+            "400000m",
+            "20%",
+            "820n(824)",
+            "3199GN824T016DJA"
+        ],
+        "labels": [
+            "input class",
+            "RatedDCVoltageURdc",
+            "PositiveTolerance",
+            "Capacitance",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "input class": "Cap",
+        "RatedDCVoltageURdc": "400000m",
+        "PositiveTolerance": "20%",
+        "Capacitance": "820n(824)",
+        "MfrPartNumber": "3199GN824T016DJA"
+    },
+    {
+        "description": [
+            "-55℃",
+            "16000000pF",
+            "0.55",
+            "X7R",
+            "50V"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "Capacitance",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMin": "-55℃",
+        "Capacitance": "16000000pF",
+        "PositiveTolerance": "0.55",
+        "TemperatureCharacteristicsCode": "X7R",
+        "RatedDCVoltageURdc": "50V"
+    },
+    {
+        "description": [
+            "7507V",
+            "X7R",
+            "125℃",
+            "4.7u",
+            "T86C155M035ESBL",
+            "-/+20%"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "TemperatureCharacteristicsCode",
+            "OperatingTemperatureMax",
+            "Capacitance",
+            "MfrPartNumber",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "7507V",
+        "TemperatureCharacteristicsCode": "X7R",
+        "OperatingTemperatureMax": "125℃",
+        "Capacitance": "4.7u",
+        "MfrPartNumber": "T86C155M035ESBL",
+        "NegativeTolerance": "-/+20%",
+        "PositiveTolerance": "-/+20%"
+    },
+    {
+        "description": [
+            "2879nF",
+            "100000m",
+            "VJ0805G153MFXAC2L",
+            "CERAMIC"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "MfrPartNumber",
+            "DielectricMaterial"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "2879nF",
+        "RatedDCVoltageURdc": "100000m",
+        "MfrPartNumber": "VJ0805G153MFXAC2L",
+        "DielectricMaterial": "CERAMIC"
+    },
+    {
+        "description": [
+            "-55℃",
+            "15%",
+            "1k",
+            "681",
+            "5%",
+            "X7R"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "TemperatureCoefficient",
+            "RatedDCVoltageURdc",
+            "Capacitance",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "15%",
+        "RatedDCVoltageURdc": "1k",
+        "Capacitance": "681",
+        "PositiveTolerance": "5%",
+        "TemperatureCharacteristicsCode": "X7R"
+    },
+    {
+        "description": [
+            "362kV",
+            "C0G",
+            "30ppm/Cel",
+            "4376n",
+            "VJ0805Y681KXJAC2M",
+            "20%",
+            "THROUGH HOLE MOUNT",
+            "瓷片电容",
+            "20%"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "TemperatureCharacteristicsCode",
+            "TemperatureCoefficient",
+            "Capacitance",
+            "MfrPartNumber",
+            "NegativeTolerance",
+            "MountingFeature",
+            "input class",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "362kV",
+        "TemperatureCharacteristicsCode": "C0G",
+        "TemperatureCoefficient": "30ppm/Cel",
+        "Capacitance": "4376n",
+        "MfrPartNumber": "VJ0805Y681KXJAC2M",
+        "NegativeTolerance": "20%",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "input class": "瓷片电容",
+        "PositiveTolerance": "20%"
+    },
+    {
+        "description": [
+            "-/+5%",
+            "1941V",
+            "X7R",
+            "15%",
+            "1.2uF"
+        ],
+        "labels": [
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "TemperatureCharacteristicsCode",
+            "TemperatureCoefficient",
+            "Capacitance"
+        ],
+        "class": "Capacitors",
+        "NegativeTolerance": "-/+5%",
+        "PositiveTolerance": "-/+5%",
+        "RatedDCVoltageURdc": "1941V",
+        "TemperatureCharacteristicsCode": "X7R",
+        "TemperatureCoefficient": "15%",
+        "Capacitance": "1.2uF"
+    },
+    {
+        "description": [
+            "CERAMIC",
+            "0.16u",
+            "125℃",
+            "C0G",
+            "200V"
+        ],
+        "labels": [
+            "DielectricMaterial",
+            "Capacitance",
+            "OperatingTemperatureMax",
+            "TemperatureCharacteristicsCode",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "DielectricMaterial": "CERAMIC",
+        "Capacitance": "0.16u",
+        "OperatingTemperatureMax": "125℃",
+        "TemperatureCharacteristicsCode": "C0G",
+        "RatedDCVoltageURdc": "200V"
+    },
+    {
+        "description": [
+            "cap",
+            "8.2uF",
+            "15%",
+            "VJ1206A270KBAMC"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "TemperatureCoefficient",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "input class": "cap",
+        "Capacitance": "8.2uF",
+        "TemperatureCoefficient": "15%",
+        "MfrPartNumber": "VJ1206A270KBAMC"
+    },
+    {
+        "description": [
+            "4187n",
+            "CERAMIC",
+            "Cap",
+            "30ppm/Cel",
+            "4476uV",
+            "C0G",
+            "-55℃"
+        ],
+        "labels": [
+            "Capacitance",
+            "DielectricMaterial",
+            "input class",
+            "TemperatureCoefficient",
+            "RatedDCVoltageURdc",
+            "TemperatureCharacteristicsCode",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "4187n",
+        "DielectricMaterial": "CERAMIC",
+        "input class": "Cap",
+        "TemperatureCoefficient": "30ppm/Cel",
+        "RatedDCVoltageURdc": "4476uV",
+        "TemperatureCharacteristicsCode": "C0G",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "125℃",
+            "CERAMIC",
+            "100V",
+            "359u",
+            "C0G"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "DielectricMaterial",
+            "RatedDCVoltageURdc",
+            "Capacitance",
+            "TemperatureCharacteristicsCode"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMax": "125℃",
+        "DielectricMaterial": "CERAMIC",
+        "RatedDCVoltageURdc": "100V",
+        "Capacitance": "359u",
+        "TemperatureCharacteristicsCode": "C0G"
+    },
+    {
+        "description": [
+            "1.5u",
+            "C0G",
+            "125℃",
+            "200000000u"
+        ],
+        "labels": [
+            "Capacitance",
+            "TemperatureCharacteristicsCode",
+            "OperatingTemperatureMax",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "1.5u",
+        "TemperatureCharacteristicsCode": "C0G",
+        "OperatingTemperatureMax": "125℃",
+        "RatedDCVoltageURdc": "200000000u"
+    },
+    {
+        "description": [
+            "-55℃",
+            "THROUGH HOLE MOUNT",
+            "16u",
+            "125℃",
+            "X7R",
+            "MA5Y1H333MAAX",
+            "9118mV"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "MountingFeature",
+            "Capacitance",
+            "OperatingTemperatureMax",
+            "TemperatureCharacteristicsCode",
+            "MfrPartNumber",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMin": "-55℃",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Capacitance": "16u",
+        "OperatingTemperatureMax": "125℃",
+        "TemperatureCharacteristicsCode": "X7R",
+        "MfrPartNumber": "MA5Y1H333MAAX",
+        "RatedDCVoltageURdc": "9118mV"
+    },
+    {
+        "description": [
+            "C0G",
+            "595D397X9004D4T",
+            "5621mV",
+            "125℃",
+            "-55℃",
+            "THROUGH HOLE MOUNT",
+            "2uF"
+        ],
+        "labels": [
+            "TemperatureCharacteristicsCode",
+            "MfrPartNumber",
+            "RatedDCVoltageURdc",
+            "OperatingTemperatureMax",
+            "OperatingTemperatureMin",
+            "MountingFeature",
+            "Capacitance"
+        ],
+        "class": "Capacitors",
+        "TemperatureCharacteristicsCode": "C0G",
+        "MfrPartNumber": "595D397X9004D4T",
+        "RatedDCVoltageURdc": "5621mV",
+        "OperatingTemperatureMax": "125℃",
+        "OperatingTemperatureMin": "-55℃",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Capacitance": "2uF"
+    },
+    {
+        "description": [
+            "THROUGH HOLE MOUNT",
+            "1500000p",
+            "10%",
+            "C0G",
+            "4182V",
+            "C094821JX7R5LF"
+        ],
+        "labels": [
+            "MountingFeature",
+            "Capacitance",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode",
+            "RatedDCVoltageURdc",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Capacitance": "1500000p",
+        "PositiveTolerance": "10%",
+        "TemperatureCharacteristicsCode": "C0G",
+        "RatedDCVoltageURdc": "4182V",
+        "MfrPartNumber": "C094821JX7R5LF"
+    },
+    {
+        "description": [
+            "100V",
+            "10%",
+            "24u(246)",
+            "10%"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "NegativeTolerance",
+            "Capacitance",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "100V",
+        "NegativeTolerance": "10%",
+        "Capacitance": "24u(246)",
+        "PositiveTolerance": "10%"
+    },
+    {
+        "description": [
+            "30ppm/Cel",
+            "1.3u",
+            "61%",
+            "0.51",
+            "4594V"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "Capacitance",
+            "PositiveTolerance",
+            "NegativeTolerance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "TemperatureCoefficient": "30ppm/Cel",
+        "Capacitance": "1.3u",
+        "PositiveTolerance": "61%",
+        "NegativeTolerance": "0.51",
+        "RatedDCVoltageURdc": "4594V"
+    },
+    {
+        "description": [
+            "20V",
+            "183pF",
+            "TCN0901X472MTB",
+            "CJ2412",
+            "5%",
+            "-55℃",
+            "Cap",
+            "5%"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "Capacitance",
+            "MfrPartNumber",
+            "SizeCode",
+            "NegativeTolerance",
+            "OperatingTemperatureMin",
+            "input class",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "20V",
+        "Capacitance": "183pF",
+        "MfrPartNumber": "TCN0901X472MTB",
+        "SizeCode": "CJ2412",
+        "NegativeTolerance": "5%",
+        "OperatingTemperatureMin": "-55℃",
+        "input class": "Cap",
+        "PositiveTolerance": "5%"
+    },
+    {
+        "description": [
+            "贴片电容",
+            "C2917",
+            "1234k",
+            "10%",
+            "8152pF",
+            "10%"
+        ],
+        "labels": [
+            "input class",
+            "SizeCode",
+            "RatedDCVoltageURdc",
+            "NegativeTolerance",
+            "Capacitance",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "input class": "贴片电容",
+        "SizeCode": "C2917",
+        "RatedDCVoltageURdc": "1234k",
+        "NegativeTolerance": "10%",
+        "Capacitance": "8152pF",
+        "PositiveTolerance": "10%"
+    },
+    {
+        "description": [
+            "-55℃",
+            "7980uF",
+            "1084mV",
+            "±10%"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMin": "-55℃",
+        "Capacitance": "7980uF",
+        "RatedDCVoltageURdc": "1084mV",
+        "PositiveTolerance": "±10%",
+        "NegativeTolerance": "±10%"
+    },
+    {
+        "description": [
+            "TANTALUM (DRY/SOLID)",
+            "6543nF",
+            "20%",
+            "6000000uV",
+            "2915"
+        ],
+        "labels": [
+            "DielectricMaterial",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "Capacitance": "6543nF",
+        "PositiveTolerance": "20%",
+        "RatedDCVoltageURdc": "6000000uV",
+        "SizeCode": "2915"
+    },
+    {
+        "description": [
+            "6311uF",
+            "0.01k",
+            "MA5Y1C473ZZGX",
+            "C1510"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "MfrPartNumber",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "6311uF",
+        "RatedDCVoltageURdc": "0.01k",
+        "MfrPartNumber": "MA5Y1C473ZZGX",
+        "SizeCode": "C1510"
+    },
+    {
+        "description": [
+            "贴片磁片电容",
+            "SURFACE MOUNT",
+            "6.8uF(685)",
+            "CWR16DC685JTBC/TR",
+            "0.01kV",
+            "C2010",
+            "125℃"
+        ],
+        "labels": [
+            "input class",
+            "MountingFeature",
+            "Capacitance",
+            "MfrPartNumber",
+            "RatedDCVoltageURdc",
+            "SizeCode",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "input class": "贴片磁片电容",
+        "MountingFeature": "SURFACE MOUNT",
+        "Capacitance": "6.8uF(685)",
+        "MfrPartNumber": "CWR16DC685JTBC/TR",
+        "RatedDCVoltageURdc": "0.01kV",
+        "SizeCode": "C2010",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "description": [
+            "1005",
+            "105",
+            "±10%",
+            "3948k"
+        ],
+        "labels": [
+            "SizeCode",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "SizeCode": "1005",
+        "Capacitance": "105",
+        "PositiveTolerance": "±10%",
+        "NegativeTolerance": "±10%",
+        "RatedDCVoltageURdc": "3948k"
+    },
+    {
+        "description": [
+            "2611",
+            "10u",
+            "10%",
+            "25V"
+        ],
+        "labels": [
+            "SizeCode",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "SizeCode": "2611",
+        "Capacitance": "10u",
+        "PositiveTolerance": "10%",
+        "RatedDCVoltageURdc": "25V"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "CB1510",
+            "6.8u",
+            "4719u",
+            "10%"
+        ],
+        "labels": [
+            "MountingFeature",
+            "SizeCode",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "CB1510",
+        "Capacitance": "6.8u",
+        "RatedDCVoltageURdc": "4719u",
+        "PositiveTolerance": "10%"
+    },
+    {
+        "description": [
+            "7027p",
+            "2005",
+            "-55℃",
+            "0.01k",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "Capacitance",
+            "SizeCode",
+            "OperatingTemperatureMin",
+            "RatedDCVoltageURdc",
+            "MountingFeature"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "7027p",
+        "SizeCode": "2005",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedDCVoltageURdc": "0.01k",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "C2010",
+            "125℃",
+            "7816n",
+            "7313V",
+            "-55℃"
+        ],
+        "labels": [
+            "SizeCode",
+            "OperatingTemperatureMax",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Capacitors",
+        "SizeCode": "C2010",
+        "OperatingTemperatureMax": "125℃",
+        "Capacitance": "7816n",
+        "RatedDCVoltageURdc": "7313V",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "9790uF",
+            "10V",
+            "2915",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "SizeCode",
+            "MountingFeature"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "9790uF",
+        "RatedDCVoltageURdc": "10V",
+        "SizeCode": "2915",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "TANTALUM (DRY/SOLID)",
+            "220u",
+            "5%",
+            "-55℃",
+            "10V",
+            "2915"
+        ],
+        "labels": [
+            "DielectricMaterial",
+            "Capacitance",
+            "PositiveTolerance",
+            "OperatingTemperatureMin",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "Capacitance": "220u",
+        "PositiveTolerance": "5%",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedDCVoltageURdc": "10V",
+        "SizeCode": "2915"
+    },
+    {
+        "description": [
+            "579p",
+            "0.02kV",
+            "CB1510",
+            "125℃"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "SizeCode",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "579p",
+        "RatedDCVoltageURdc": "0.02kV",
+        "SizeCode": "CB1510",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "description": [
+            "+/-10%",
+            "25V",
+            "CJ2005",
+            "SURFACE MOUNT",
+            "3648pF",
+            "贴片磁片电容"
+        ],
+        "labels": [
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "SizeCode",
+            "MountingFeature",
+            "Capacitance",
+            "input class"
+        ],
+        "class": "Capacitors",
+        "NegativeTolerance": "+/-10%",
+        "PositiveTolerance": "+/-10%",
+        "RatedDCVoltageURdc": "25V",
+        "SizeCode": "CJ2005",
+        "MountingFeature": "SURFACE MOUNT",
+        "Capacitance": "3648pF",
+        "input class": "贴片磁片电容"
+    },
+    {
+        "description": [
+            "电容",
+            "SURFACE MOUNT",
+            "47uF",
+            "10%",
+            "15000mV",
+            "C2412"
+        ],
+        "labels": [
+            "input class",
+            "MountingFeature",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "input class": "电容",
+        "MountingFeature": "SURFACE MOUNT",
+        "Capacitance": "47uF",
+        "PositiveTolerance": "10%",
+        "RatedDCVoltageURdc": "15000mV",
+        "SizeCode": "C2412"
+    },
+    {
+        "description": [
+            "2916",
+            "6800000p",
+            "25V",
+            "TANTALUM (DRY/SOLID)"
+        ],
+        "labels": [
+            "SizeCode",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "DielectricMaterial"
+        ],
+        "class": "Capacitors",
+        "SizeCode": "2916",
+        "Capacitance": "6800000p",
+        "RatedDCVoltageURdc": "25V",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)"
+    },
+    {
+        "description": [
+            "C1005",
+            "2.2u",
+            "-/+20%",
+            "6465u"
+        ],
+        "labels": [
+            "SizeCode",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "SizeCode": "C1005",
+        "Capacitance": "2.2u",
+        "PositiveTolerance": "-/+20%",
+        "NegativeTolerance": "-/+20%",
+        "RatedDCVoltageURdc": "6465u"
+    },
+    {
+        "description": [
+            "TANTALUM (DRY/SOLID)",
+            "8031p",
+            "5%",
+            "10V",
+            "SURFACE MOUNT",
+            "2214"
+        ],
+        "labels": [
+            "DielectricMaterial",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "MountingFeature",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "Capacitance": "8031p",
+        "PositiveTolerance": "5%",
+        "RatedDCVoltageURdc": "10V",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "2214"
+    },
+    {
+        "description": [
+            "9894n",
+            "CKCA43C0G1H102K(100AA)",
+            "99kV",
+            "2010"
+        ],
+        "labels": [
+            "Capacitance",
+            "MfrPartNumber",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "9894n",
+        "MfrPartNumber": "CKCA43C0G1H102K(100AA)",
+        "RatedDCVoltageURdc": "99kV",
+        "SizeCode": "2010"
+    },
+    {
+        "description": [
+            "-750+/-120ppm/Cel",
+            "3090n",
+            "8763m",
+            "CERAMIC",
+            "THROUGH HOLE MOUNT"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "DielectricMaterial",
+            "MountingFeature"
+        ],
+        "class": "Capacitors",
+        "TemperatureCoefficient": "-750+/-120ppm/Cel",
+        "Capacitance": "3090n",
+        "RatedDCVoltageURdc": "8763m",
+        "DielectricMaterial": "CERAMIC",
+        "MountingFeature": "THROUGH HOLE MOUNT"
+    },
+    {
+        "description": [
+            "2220",
+            "24n",
+            "0.86",
+            "0.29",
+            "0.1k"
+        ],
+        "labels": [
+            "SizeCode",
+            "Capacitance",
+            "PositiveTolerance",
+            "NegativeTolerance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "SizeCode": "2220",
+        "Capacitance": "24n",
+        "PositiveTolerance": "0.86",
+        "NegativeTolerance": "0.29",
+        "RatedDCVoltageURdc": "0.1k"
+    },
+    {
+        "description": [
+            "TANTALUM (DRY/SOLID)",
+            "4700000p",
+            "C2917",
+            "50V"
+        ],
+        "labels": [
+            "DielectricMaterial",
+            "Capacitance",
+            "SizeCode",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "Capacitance": "4700000p",
+        "SizeCode": "C2917",
+        "RatedDCVoltageURdc": "50V"
+    },
+    {
+        "description": [
+            "20%",
+            "680000pF(684)",
+            "电容",
+            "100V"
+        ],
+        "labels": [
+            "PositiveTolerance",
+            "Capacitance",
+            "input class",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "PositiveTolerance": "20%",
+        "Capacitance": "680000pF(684)",
+        "input class": "电容",
+        "RatedDCVoltageURdc": "100V"
+    },
+    {
+        "description": [
+            "CAP",
+            "605",
+            "SURFACE MOUNT",
+            "C141333KX7R5LF"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "MountingFeature",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "input class": "CAP",
+        "Capacitance": "605",
+        "MountingFeature": "SURFACE MOUNT",
+        "MfrPartNumber": "C141333KX7R5LF"
+    },
+    {
+        "description": [
+            "7777n",
+            "SURFACE MOUNT",
+            "2917",
+            "35V"
+        ],
+        "labels": [
+            "Capacitance",
+            "MountingFeature",
+            "SizeCode",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "7777n",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "2917",
+        "RatedDCVoltageURdc": "35V"
+    },
+    {
+        "description": [
+            "100u",
+            "125℃",
+            "2917",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "Capacitance",
+            "OperatingTemperatureMax",
+            "SizeCode",
+            "MountingFeature"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "100u",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "2917",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "125℃",
+            "C2412",
+            "10uF",
+            "20V"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "SizeCode",
+            "Capacitance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "C2412",
+        "Capacitance": "10uF",
+        "RatedDCVoltageURdc": "20V"
+    },
+    {
+        "description": [
+            "±10%",
+            "400000mV",
+            "POLYESTER",
+            "10000pF",
+            "CAP"
+        ],
+        "labels": [
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "DielectricMaterial",
+            "Capacitance",
+            "input class"
+        ],
+        "class": "Capacitors",
+        "NegativeTolerance": "±10%",
+        "PositiveTolerance": "±10%",
+        "RatedDCVoltageURdc": "400000mV",
+        "DielectricMaterial": "POLYESTER",
+        "Capacitance": "10000pF",
+        "input class": "CAP"
+    },
+    {
+        "description": [
+            "9979uV",
+            "68uF",
+            "5%",
+            "125℃",
+            "2412",
+            "TANTALUM (DRY/SOLID)"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "Capacitance",
+            "PositiveTolerance",
+            "OperatingTemperatureMax",
+            "SizeCode",
+            "DielectricMaterial"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "9979uV",
+        "Capacitance": "68uF",
+        "PositiveTolerance": "5%",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "2412",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "CF0402",
+            "6855uF",
+            "4246kV"
+        ],
+        "labels": [
+            "MountingFeature",
+            "SizeCode",
+            "Capacitance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "CF0402",
+        "Capacitance": "6855uF",
+        "RatedDCVoltageURdc": "4246kV"
+    },
+    {
+        "description": [
+            "100V",
+            "1599nF",
+            "105℃",
+            "20%"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "Capacitance",
+            "OperatingTemperatureMax",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "100V",
+        "Capacitance": "1599nF",
+        "OperatingTemperatureMax": "105℃",
+        "PositiveTolerance": "20%"
+    },
+    {
+        "description": [
+            "CERAMIC",
+            "2930uF",
+            "125℃",
+            "CH"
+        ],
+        "labels": [
+            "DielectricMaterial",
+            "Capacitance",
+            "OperatingTemperatureMax",
+            "TemperatureCharacteristicsCode"
+        ],
+        "class": "Capacitors",
+        "DielectricMaterial": "CERAMIC",
+        "Capacitance": "2930uF",
+        "OperatingTemperatureMax": "125℃",
+        "TemperatureCharacteristicsCode": "CH"
+    },
+    {
+        "description": [
+            "瓷片电容",
+            "180pF",
+            "4958m",
+            "5%"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "PositiveTolerance"
+        ],
+        "class": "Capacitors",
+        "input class": "瓷片电容",
+        "Capacitance": "180pF",
+        "RatedDCVoltageURdc": "4958m",
+        "PositiveTolerance": "5%"
+    },
+    {
+        "description": [
+            "Cap",
+            "ALUMINUM (WET)",
+            "220u(227)",
+            "-40℃",
+            "25V"
+        ],
+        "labels": [
+            "input class",
+            "DielectricMaterial",
+            "Capacitance",
+            "OperatingTemperatureMin",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "input class": "Cap",
+        "DielectricMaterial": "ALUMINUM (WET)",
+        "Capacitance": "220u(227)",
+        "OperatingTemperatureMin": "-40℃",
+        "RatedDCVoltageURdc": "25V"
+    },
+    {
+        "description": [
+            "瓷片电容",
+            "7414pF",
+            "50V",
+            "125℃",
+            "15%",
+            "CD2220",
+            "X7R",
+            "CERAMIC"
+        ],
+        "labels": [
+            "input class",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "OperatingTemperatureMax",
+            "TemperatureCoefficient",
+            "SizeCode",
+            "TemperatureCharacteristicsCode",
+            "DielectricMaterial"
+        ],
+        "class": "Capacitors",
+        "input class": "瓷片电容",
+        "Capacitance": "7414pF",
+        "RatedDCVoltageURdc": "50V",
+        "OperatingTemperatureMax": "125℃",
+        "TemperatureCoefficient": "15%",
+        "SizeCode": "CD2220",
+        "TemperatureCharacteristicsCode": "X7R",
+        "DielectricMaterial": "CERAMIC"
+    },
+    {
+        "description": [
+            "330000nF",
+            "5%",
+            "C2915",
+            "3145uV",
+            "125℃"
+        ],
+        "labels": [
+            "Capacitance",
+            "PositiveTolerance",
+            "SizeCode",
+            "RatedDCVoltageURdc",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "330000nF",
+        "PositiveTolerance": "5%",
+        "SizeCode": "C2915",
+        "RatedDCVoltageURdc": "3145uV",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "Cap",
+            "-55℃",
+            "4673m",
+            "2214",
+            "7303n",
+            "125℃"
+        ],
+        "labels": [
+            "MountingFeature",
+            "input class",
+            "OperatingTemperatureMin",
+            "RatedDCVoltageURdc",
+            "SizeCode",
+            "Capacitance",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "MountingFeature": "SURFACE MOUNT",
+        "input class": "Cap",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedDCVoltageURdc": "4673m",
+        "SizeCode": "2214",
+        "Capacitance": "7303n",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "description": [
+            "TANTALUM (DRY/SOLID)",
+            "-55℃",
+            "6.8uF",
+            "5%",
+            "5089m",
+            "C2214"
+        ],
+        "labels": [
+            "DielectricMaterial",
+            "OperatingTemperatureMin",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "OperatingTemperatureMin": "-55℃",
+        "Capacitance": "6.8uF",
+        "PositiveTolerance": "5%",
+        "RatedDCVoltageURdc": "5089m",
+        "SizeCode": "C2214"
+    },
+    {
+        "description": [
+            "6.8u",
+            "9265k",
+            "2225H0630154JBR",
+            "TANTALUM (DRY/SOLID)",
+            "CJ2214"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "MfrPartNumber",
+            "DielectricMaterial",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "6.8u",
+        "RatedDCVoltageURdc": "9265k",
+        "MfrPartNumber": "2225H0630154JBR",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "SizeCode": "CJ2214"
+    },
+    {
+        "description": [
+            "7288u",
+            "CK2611",
+            "125℃",
+            "贴片电容",
+            "SURFACE MOUNT",
+            "5208k"
+        ],
+        "labels": [
+            "Capacitance",
+            "SizeCode",
+            "OperatingTemperatureMax",
+            "input class",
+            "MountingFeature",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "7288u",
+        "SizeCode": "CK2611",
+        "OperatingTemperatureMax": "125℃",
+        "input class": "贴片电容",
+        "MountingFeature": "SURFACE MOUNT",
+        "RatedDCVoltageURdc": "5208k"
+    },
+    {
+        "description": [
+            "125℃",
+            "100000nF",
+            "-/+20%",
+            "10000000u"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMax": "125℃",
+        "Capacitance": "100000nF",
+        "PositiveTolerance": "-/+20%",
+        "NegativeTolerance": "-/+20%",
+        "RatedDCVoltageURdc": "10000000u"
+    },
+    {
+        "description": [
+            "2611",
+            "TANTALUM (DRY/SOLID)",
+            "15u",
+            "7758u",
+            "125℃"
+        ],
+        "labels": [
+            "SizeCode",
+            "DielectricMaterial",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Capacitors",
+        "SizeCode": "2611",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "Capacitance": "15u",
+        "RatedDCVoltageURdc": "7758u",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "description": [
+            "50000000uV",
+            "5215n",
+            "-55℃",
+            "20%",
+            "Cap"
+        ],
+        "labels": [
+            "RatedDCVoltageURdc",
+            "Capacitance",
+            "OperatingTemperatureMin",
+            "PositiveTolerance",
+            "input class"
+        ],
+        "class": "Capacitors",
+        "RatedDCVoltageURdc": "50000000uV",
+        "Capacitance": "5215n",
+        "OperatingTemperatureMin": "-55℃",
+        "PositiveTolerance": "20%",
+        "input class": "Cap"
+    },
+    {
+        "description": [
+            "电容",
+            "SURFACE MOUNT",
+            "6035uF",
+            "-55℃",
+            "10V",
+            "2611"
+        ],
+        "labels": [
+            "input class",
+            "MountingFeature",
+            "Capacitance",
+            "OperatingTemperatureMin",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "input class": "电容",
+        "MountingFeature": "SURFACE MOUNT",
+        "Capacitance": "6035uF",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedDCVoltageURdc": "10V",
+        "SizeCode": "2611"
+    },
+    {
+        "description": [
+            "1021uF",
+            "C2915",
+            "125℃",
+            "SURFACE MOUNT",
+            "20V"
+        ],
+        "labels": [
+            "Capacitance",
+            "SizeCode",
+            "OperatingTemperatureMax",
+            "MountingFeature",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "1021uF",
+        "SizeCode": "C2915",
+        "OperatingTemperatureMax": "125℃",
+        "MountingFeature": "SURFACE MOUNT",
+        "RatedDCVoltageURdc": "20V"
+    },
+    {
+        "description": [
+            "Cap",
+            "TANTALUM (DRY/SOLID)",
+            "SURFACE MOUNT",
+            "330u",
+            "10%",
+            "0.01k",
+            "C2915",
+            "T83C684M050CZSL"
+        ],
+        "labels": [
+            "input class",
+            "DielectricMaterial",
+            "MountingFeature",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "SizeCode",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "input class": "Cap",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "MountingFeature": "SURFACE MOUNT",
+        "Capacitance": "330u",
+        "PositiveTolerance": "10%",
+        "RatedDCVoltageURdc": "0.01k",
+        "SizeCode": "C2915",
+        "MfrPartNumber": "T83C684M050CZSL"
+    },
+    {
+        "description": [
+            "5602u",
+            "-/+20%",
+            "TCN0709X153MCB",
+            "8516V",
+            "2915"
+        ],
+        "labels": [
+            "Capacitance",
+            "PositiveTolerance",
+            "MfrPartNumber",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "5602u",
+        "PositiveTolerance": "-/+20%",
+        "NegativeTolerance": "-/+20%",
+        "MfrPartNumber": "TCN0709X153MCB",
+        "RatedDCVoltageURdc": "8516V",
+        "SizeCode": "2915"
+    },
+    {
+        "description": [
+            "电容",
+            "TANTALUM (DRY/SOLID)",
+            "220uF",
+            "5%",
+            "2110k",
+            "2915",
+            "CWR16DB156JBEB/HR"
+        ],
+        "labels": [
+            "input class",
+            "DielectricMaterial",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc",
+            "SizeCode",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "input class": "电容",
+        "DielectricMaterial": "TANTALUM (DRY/SOLID)",
+        "Capacitance": "220uF",
+        "PositiveTolerance": "5%",
+        "RatedDCVoltageURdc": "2110k",
+        "SizeCode": "2915",
+        "MfrPartNumber": "CWR16DB156JBEB/HR"
+    },
+    {
+        "description": [
+            "125℃",
+            "9328k",
+            "7633p",
+            "10%",
+            "1505",
+            "贴片电容",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "RatedDCVoltageURdc",
+            "Capacitance",
+            "PositiveTolerance",
+            "SizeCode",
+            "input class",
+            "MountingFeature"
+        ],
+        "class": "Capacitors",
+        "OperatingTemperatureMax": "125℃",
+        "RatedDCVoltageURdc": "9328k",
+        "Capacitance": "7633p",
+        "PositiveTolerance": "10%",
+        "SizeCode": "1505",
+        "input class": "贴片电容",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "2548p",
+            "电容",
+            "VJ0603Y153KLJAC2M"
+        ],
+        "labels": [
+            "MountingFeature",
+            "Capacitance",
+            "input class",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "MountingFeature": "SURFACE MOUNT",
+        "Capacitance": "2548p",
+        "input class": "电容",
+        "MfrPartNumber": "VJ0603Y153KLJAC2M"
+    },
+    {
+        "description": [
+            "贴片磁片电容",
+            "-55℃",
+            "1206",
+            "1500000pF(155)",
+            "8281uV"
+        ],
+        "labels": [
+            "input class",
+            "OperatingTemperatureMin",
+            "SizeCode",
+            "Capacitance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "input class": "贴片磁片电容",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1206",
+        "Capacitance": "1500000pF(155)",
+        "RatedDCVoltageURdc": "8281uV"
+    },
+    {
+        "description": [
+            "1253nF",
+            "10V",
+            "20%",
+            "-55℃"
+        ],
+        "labels": [
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "PositiveTolerance",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "1253nF",
+        "RatedDCVoltageURdc": "10V",
+        "PositiveTolerance": "20%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "Cap",
+            "-55℃",
+            "125℃",
+            "685",
+            "4837kV",
+            "2611"
+        ],
+        "labels": [
+            "input class",
+            "OperatingTemperatureMin",
+            "OperatingTemperatureMax",
+            "Capacitance",
+            "RatedDCVoltageURdc",
+            "SizeCode"
+        ],
+        "class": "Capacitors",
+        "input class": "Cap",
+        "OperatingTemperatureMin": "-55℃",
+        "OperatingTemperatureMax": "125℃",
+        "Capacitance": "685",
+        "RatedDCVoltageURdc": "4837kV",
+        "SizeCode": "2611"
+    },
+    {
+        "description": [
+            "CD2214",
+            "7105uF",
+            "+/-20%",
+            "10V"
+        ],
+        "labels": [
+            "SizeCode",
+            "Capacitance",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc"
+        ],
+        "class": "Capacitors",
+        "SizeCode": "CD2214",
+        "Capacitance": "7105uF",
+        "PositiveTolerance": "+/-20%",
+        "NegativeTolerance": "+/-20%",
+        "RatedDCVoltageURdc": "10V"
+    },
+    {
+        "description": [
+            "157",
+            "cap",
+            "2611",
+            "4V",
+            "CWR06JH105JBA/FA"
+        ],
+        "labels": [
+            "Capacitance",
+            "input class",
+            "SizeCode",
+            "RatedDCVoltageURdc",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "157",
+        "input class": "cap",
+        "SizeCode": "2611",
+        "RatedDCVoltageURdc": "4V",
+        "MfrPartNumber": "CWR06JH105JBA/FA"
+    },
+    {
+        "description": [
+            "6829u",
+            "Cap",
+            "2611",
+            "10000000u",
+            "SURFACE MOUNT",
+            "TRJB154M010R"
+        ],
+        "labels": [
+            "Capacitance",
+            "input class",
+            "SizeCode",
+            "RatedDCVoltageURdc",
+            "MountingFeature",
+            "MfrPartNumber"
+        ],
+        "class": "Capacitors",
+        "Capacitance": "6829u",
+        "input class": "Cap",
+        "SizeCode": "2611",
+        "RatedDCVoltageURdc": "10000000u",
+        "MountingFeature": "SURFACE MOUNT",
+        "MfrPartNumber": "TRJB154M010R"
+    }
+]

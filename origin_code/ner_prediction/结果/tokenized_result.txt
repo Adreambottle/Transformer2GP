@@ -1,0 +1,69 @@
+text: ['1206', 'SMT', '0kΩ', '0.61']
+tokenized result: ['120', '##6', 'sm', '##t', '0', '##k', '##ω', '0', '.', '61', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['SizeCode', 'PackageStyle', 'Resistance', 'Tolerance']
+labels: ['SizeCode', 'SizeCode', 'PackageStyle', 'PackageStyle', 'Resistance', 'Resistance', 'Resistance', 'Tolerance', 'Tolerance', 'Tolerance', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['509uV', '12n', '-55℃', '85℃']
+tokenized result: ['50', '##9', '##u', '##v', '12', '##n', '-', '[UNK]', '[UNK]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['RatedDCVoltageURdc', 'Capacitance', 'OperatingTemperatureMin', 'OperatingTemperatureMax']
+labels: ['RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'Capacitance', 'Capacitance', 'OperatingTemperatureMin', 'OperatingTemperatureMin', 'OperatingTemperatureMax', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['101Ohm', '80%', 'R0402', '125℃', '1/16W', '贴片电阻']
+tokenized result: ['101', '##oh', '##m', '80', '%', 'r', '##0', '##40', '##2', '[UNK]', '1', '/', '16', '##w', '[UNK]', '[UNK]', '[UNK]', '[UNK]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['Resistance', 'Tolerance', 'SizeCode', 'OperatingTemperatureMax', 'RatedPowerDissipationP', 'input class']
+labels: ['Resistance', 'Resistance', 'Resistance', 'Tolerance', 'Tolerance', 'SizeCode', 'SizeCode', 'SizeCode', 'SizeCode', 'OperatingTemperatureMax', 'RatedPowerDissipationP', 'RatedPowerDissipationP', 'RatedPowerDissipationP', 'RatedPowerDissipationP', 'input class', 'input class', 'input class', 'input class', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['贴片电容', '250V', '3497p', '2824', 'SURFACE MOUNT']
+tokenized result: ['[UNK]', '[UNK]', '[UNK]', '[UNK]', '250', '##v', '34', '##9', '##7', '##p', '282', '##4', 'surface', 'mount', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['input class', 'RatedDCVoltageURdc', 'Capacitance', 'SizeCode', 'MountingFeature']
+labels: ['input class', 'input class', 'input class', 'input class', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'Capacitance', 'Capacitance', 'Capacitance', 'Capacitance', 'SizeCode', 'SizeCode', 'MountingFeature', 'MountingFeature', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['4962Ohm', '2%', '1/20W', '-100,100', 'SMT', '-55℃', '电阻', '0402']
+tokenized result: ['49', '##6', '##2', '##oh', '##m', '2', '%', '1', '/', '20', '##w', '-', '100', ',', '100', 'sm', '##t', '-', '[UNK]', '[UNK]', '[UNK]', '04', '##0', '##2']
+labels_before_split: ['Resistance', 'Tolerance', 'RatedPowerDissipationP', 'TemperatureCoefficient', 'PackageStyle', 'OperatingTemperatureMin', 'input class', 'SizeCode']
+labels: ['Resistance', 'Resistance', 'Resistance', 'Resistance', 'Resistance', 'Tolerance', 'Tolerance', 'RatedPowerDissipationP', 'RatedPowerDissipationP', 'RatedPowerDissipationP', 'RatedPowerDissipationP', 'TemperatureCoefficient', 'TemperatureCoefficient', 'TemperatureCoefficient', 'TemperatureCoefficient', 'PackageStyle', 'PackageStyle', 'OperatingTemperatureMin', 'OperatingTemperatureMin', 'input class', 'input class', 'SizeCode', 'SizeCode', 'SizeCode']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['5000000pF', '200V']
+tokenized result: ['5000', '##00', '##0', '##pf', '200', '##v', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['Capacitance', 'RatedDCVoltageURdc']
+labels: ['Capacitance', 'Capacitance', 'Capacitance', 'Capacitance', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['812u', '85℃', '20%', '9890uV']
+tokenized result: ['81', '##2', '##u', '[UNK]', '20', '%', '98', '##90', '##u', '##v', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['Capacitance', 'OperatingTemperatureMax', 'PositiveTolerance', 'RatedDCVoltageURdc']
+labels: ['Capacitance', 'Capacitance', 'Capacitance', 'OperatingTemperatureMax', 'PositiveTolerance', 'PositiveTolerance', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['3269V', '105℃', '869nF']
+tokenized result: ['326', '##9', '##v', '[UNK]', '86', '##9', '##n', '##f', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['RatedDCVoltageURdc', 'OperatingTemperatureMax', 'Capacitance']
+labels: ['RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'OperatingTemperatureMax', 'Capacitance', 'Capacitance', 'Capacitance', 'Capacitance', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['8uF', '10%']
+tokenized result: ['8', '##uf', '10', '%', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['Capacitance', 'PositiveTolerance']
+labels: ['Capacitance', 'Capacitance', 'PositiveTolerance', 'PositiveTolerance', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%
+
+text: ['125℃', '68000000p', 'C2412', 'SURFACE MOUNT', '1977uV']
+tokenized result: ['[UNK]', '680', '##00', '##00', '##0', '##p', 'c2', '##41', '##2', 'surface', 'mount', '1977', '##u', '##v', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]', '[PAD]']
+labels_before_split: ['OperatingTemperatureMax', 'Capacitance', 'SizeCode', 'MountingFeature', 'RatedDCVoltageURdc']
+labels: ['OperatingTemperatureMax', 'Capacitance', 'Capacitance', 'Capacitance', 'Capacitance', 'Capacitance', 'SizeCode', 'SizeCode', 'SizeCode', 'MountingFeature', 'MountingFeature', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', 'RatedDCVoltageURdc', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100', '-100']
+
+%%%%%%%%%%%%%%%%%%%%%

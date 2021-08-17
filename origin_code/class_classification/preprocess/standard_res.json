@@ -1,0 +1,4002 @@
+[
+    {
+        "description": "9958M:9%_1209#SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "3.01kΩ#14%#1/8W#1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#3.32K_1/8W#58%",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻#0GΩ#SMT#0.17#1/5W#1209",
+        "class": "Resistors"
+    },
+    {
+        "description": "14.2kΩ/13%#1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "1380mΩ;SMT#1209#-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res/-100,100/1110000mΩ,0.02/R3825;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "73%-105GΩ/-50,50/3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "1209/6445O/0.63/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "1650mΩ/0.87#1/8W/1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25#92%;482MΩ#R1209",
+        "class": "Resistors"
+    },
+    {
+        "description": "3825_1670mΩ:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃:2640mΩ:-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "1775mΩ_0.89_SMT_125℃_3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,3783mΩ_62%,R3825,125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "50G/155℃/2%/1209/-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:1206_6502Kohm,0.92,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "5230mΩ#-25,25#0.93#1/5W#R1209",
+        "class": "Resistors"
+    },
+    {
+        "description": "1209,0MΩ,61%,0M",
+        "class": "Resistors"
+    },
+    {
+        "description": "-15,15;2810kΩ:75%,R2912;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "5727G/2%-1/10W_1915-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/0303/911Ohm_-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "150℃:SMT:1.42kΩ:4021",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,2.7kΩ#5030",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES:1915:33.6kΩ:37%,405G",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻/0.78kΩ/-250,250/-55℃-1915/125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:1.5K:0.1:R0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃_7623MΩ/32%#0303_-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/-55℃-459Ω-R5030",
+        "class": "Resistors"
+    },
+    {
+        "description": "0303:284000Ω:0.58/284000Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻:-55℃:51%:3740O:4029",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻/817Ω/125℃/R4427/-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "2148GΩ:125℃,0.63,7810",
+        "class": "Resistors"
+    },
+    {
+        "description": "4436mΩ#88%#7810",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100:0GΩ#0.4_4427,125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res;6967K_125℃_10%_1/10W_R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,R7810,3087kΩ,75%,4.32kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃-358GΩ-125℃-12%",
+        "class": "Resistors"
+    },
+    {
+        "description": "54.9kΩ;0.96_4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "2008Ω;0.37;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res-0G--55℃;61%-4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "3.83K;15%;7810",
+        "class": "Resistors"
+    },
+    {
+        "description": "SIP,-50,50/226O,0.45",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,5620Ω,125℃,46%,1/10W:4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-7320O#-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,49.9kΩ,0.04_125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100-164Ohm:90%:1/10W:4427:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,2500Ω,125℃-0.51;7810",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_SMT#0.81#7627Kohm#-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "res#54.2kΩ:SMT/0.66-4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "8029,32.8Kohm,0.94,32.8kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "9039kΩ#86%;R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,-50,50:3416mΩ#125℃,10%",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.54kΩ--50,50--55℃:R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,125℃,7%,7.5K,SIP/R7810",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,2369M,SIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻-0GΩ#-55℃#R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "DIP,1180000mΩ-1/10W,71%",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻,5.05kΩ,64%,SMT,-50,50,4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "45%;9789Ω:-50,50/5810",
+        "class": "Resistors"
+    },
+    {
+        "description": "4425Ω,62%,-100,100,125℃,4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:4302Ω:39%",
+        "class": "Resistors"
+    },
+    {
+        "description": "1087kΩ/-300,300/5810/SIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "469MΩ_0.56_9810--300,300",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10;3772O;96%;R4427;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻_4466GΩ-27%-4427--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT;125℃;8%;4005MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/5643mΩ;5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "SIP_4990M_2%;4012-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10;4427;0M",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors,2350MΩ,125℃,10%;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100_125℃_6147mΩ_R0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.07MΩ-125℃--55℃-0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427/41%/6110mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "4082mΩ-SMT-R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10#100%_13K#-55℃;R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "9.31kΩ;-10,10;3825;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:9455GΩ:SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "R0303#SMT:92%#3240000mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-0MΩ-R0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "48.1kΩ#91%#4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#3825#2.71kΩ#-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES;SMT;-55℃;0GΩ_0.3;0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "25kΩ#2W/10%",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST_150000mΩ:10%:2W:125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻#0GΩ#10%#-1000,1000",
+        "class": "Resistors"
+    },
+    {
+        "description": "-1000,1000/10%/250kΩ/PCB Mount",
+        "class": "Resistors"
+    },
+    {
+        "description": "-40℃/250000Ω-PCB Mount:10%:-1000,1000",
+        "class": "Resistors"
+    },
+    {
+        "description": "PCB Mount--1000,1000-1000O-20%-1/2W-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res-PCB Mount-10%-1677mΩ-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "res-10000Ω-10%--1000,1000",
+        "class": "Resistors"
+    },
+    {
+        "description": "2951Ω,10%,1kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻#125℃#1147Ω#10%#PCB Mount#1/2W",
+        "class": "Resistors"
+    },
+    {
+        "description": "250kΩ#10%#-150,150#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-40℃;7457M/PCB Mount",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors;50000Ω;125℃_-1000,1000",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,2933MΩ_-5,5_0.82_155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors-1090mΩ/0.66-1206;155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "res,1206,0.12,2972GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,10.2Ohm,98%",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST/SMT:379Ω/0.1_-55℃/1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25;R0805-0M;155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "45kΩ_155℃,1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "0MΩ;45%;155℃,-10,10/0808",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃:2020:4691G:26%:-5,5",
+        "class": "Resistors"
+    },
+    {
+        "description": "8071Ω:SMT:48%-1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res#8262kΩ#45%-R1206#-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res#1206_6571MΩ#0.38;9856Ohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻_0808,0MΩ,0.15,7201mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES_155℃_0.85;5348mΩ_0808",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃#1183kΩ-0808",
+        "class": "Resistors"
+    },
+    {
+        "description": "9259mΩ-81%;1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "6925M;77%-0808",
+        "class": "Resistors"
+    },
+    {
+        "description": "9271GΩ:SMT:4%:0808",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃-1205M;0.41;1206;-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻-0805--25,25-0.14-3320Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/SMT-692GΩ-73%/1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT;232000mΩ;0.45",
+        "class": "Resistors"
+    },
+    {
+        "description": "417Ohm:48%,0808,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "10.5Ω:-55℃:53%:2020_SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "2020:1417GΩ:0.83:-5,5",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#0.33#357000mΩ#155℃,0808",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/-25,25/2160GΩ/94%",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST-1206;4.75Kohm,84%;4750Ohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,0808_39.7Ω,0.85,155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "6260kΩ;32%_-5,5_1010",
+        "class": "Resistors"
+    },
+    {
+        "description": "312Ω;-5,5#0.78;R2020;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃,407Ω,SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:R0808/1230Ω,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "4971MΩ-SMT-155℃_1206/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res-1206--10,10-52%-397Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res;6739O;155℃-5%;R7210;-200,200",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST;5180Ω/2%;1/8W",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_155℃_37%_680kΩ#SIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,R3415/7935kΩ,-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "21.5kΩ_0.86_DIP_R3415",
+        "class": "Resistors"
+    },
+    {
+        "description": "3798mΩ_45%_3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "1307#6477GΩ#97%#1430000mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/6987kΩ/0.69/1/10W/3535:-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "8727mΩ_-50,50_-55℃_R2010",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100/125℃,35%#9776mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "49%:0GΩ#-55℃/2010",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors/673Ω,SMT,83%,1/10W,2010",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻-4113mΩ;SMT-5%-R0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST_7677Ω;-55℃,125℃_2010",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.16M/0.95/R1915",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻#9274Ω#51%;1/20W#3915",
+        "class": "Resistors"
+    },
+    {
+        "description": "0303_7945MΩ-83%_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻:2.46K/0.85#1W:125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES:2740Ω:0.16:1W",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25℃,0MΩ,125℃,75%",
+        "class": "Resistors"
+    },
+    {
+        "description": "0MΩ,0.6:0505",
+        "class": "Resistors"
+    },
+    {
+        "description": "-5,5#0.17kΩ#99%",
+        "class": "Resistors"
+    },
+    {
+        "description": "-5,5/22100O:33%#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "8716mΩ#-25℃#0.46#PCB Mount",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_9103mΩ_.063W_0.4",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES/2302MΩ/-25℃/125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "0G-0.42-125℃,1W--25℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "2020:176000000mΩ:78%-176kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "82.5kΩ#56%,125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-5,5#459Ω/-25℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻:0MΩ_19%:1W/-25℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "PCB Mount:41mΩ-51%;-25℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "7975MΩ-0%--25℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25℃_4856Ω-71%",
+        "class": "Resistors"
+    },
+    {
+        "description": "res,-55℃#15.2kΩ,0.22,SMT;2020;155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "R0505;2282O;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/0505#2006GΩ:0.21",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES_357mΩ#9%_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT;160Ohm;0.99#0505;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES,6707MΩ-5%,SMT-3415",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors:1.6K;2%;4/5W;R3915",
+        "class": "Resistors"
+    },
+    {
+        "description": "68kΩ:4/5W#5%",
+        "class": "Resistors"
+    },
+    {
+        "description": "R3415/3757MΩ-5%-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "7203Ω;79%:9110;SIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃_1.8kΩ;5%",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors_SIP:2%:5651MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃-3219Ω_2%_1915",
+        "class": "Resistors"
+    },
+    {
+        "description": "9100Ω/5%/3/5W/R3415/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25/-55℃:2%/120Ohm:SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10:SMT;0.47_10000Ohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#750000mΩ#1W#17%",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,R1915-0M,27%,-250,250",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/802K;-50,50;0.38",
+        "class": "Resistors"
+    },
+    {
+        "description": "4700000mΩ-34%;4307",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST/R4307_9325MΩ_33%_919GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.16kΩ_0.09_1/8W_1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res;97%;156Ω,155℃;1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "3612-97%-2382GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃-718G_1/5W:94%",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-125℃-0.21,852GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "res#2633mΩ#22%#-10,10:125℃#R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors-7897Ohm;57%/2/25W#7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻;9115kΩ;0.72-125℃-R1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_167R,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "9179Ω,0.99,R1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "R8025:2180000mΩ:33%:200℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors,438GΩ:66%:1/8W:R1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "536Ohm--25,25_-55℃-1105-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25#7645mΩ#R1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.05MΩ:125℃:42%:1/8W_R1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "39Ω_5%#1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "320MΩ;5%-1105-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.02M:0.07;7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.64/2071MΩ;DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res-30100mΩ/-55℃/0.46/1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/5047Ohm/7%",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50-69%;622GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "150℃,-25,25/32.4kΩ,3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻-1.89Kohm-0.09:R1105--25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res/R1105:0.7/1476mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SIP:10.2K:2/25W/0.03",
+        "class": "Resistors"
+    },
+    {
+        "description": "R1105,0.22/2305Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "4272Ω,5%:3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "7025--100,100:0.71:5358Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻#0.5kΩ,94%#-100,100#7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25-2217mΩ-1/8W-88%",
+        "class": "Resistors"
+    },
+    {
+        "description": "796Ohm--55℃-93%-R1105-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "806O,-25,25_1105;125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:1105:74100Ω:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "4250mΩ;36%_1105_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors/-25,25:0.33#16kΩ;125℃;R1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "1103mΩ#SMT--25,25#R1105#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#125℃#0.64#0MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST;200℃/16.7K/85%;2/25W#8025/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "DIP;-25,25;33K;2%;2/25W/R7025#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_-25,25_56000Ohm-R1105",
+        "class": "Resistors"
+    },
+    {
+        "description": "9344MΩ/-25,25/1105;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25_2.08Kohm#0.22",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/51%_2174G/-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427:1740000mΩ/0.79:1740Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427;21.5kΩ#4%#21.5K",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_SMT_77%_2342Ω/-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-R3825-4638M-0.77_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "9162Ω:10%,1/10W/3206",
+        "class": "Resistors"
+    },
+    {
+        "description": "207mΩ/155℃#0.62/3206/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-1.91kΩ-4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10#4427#8850mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#0.02MΩ#4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors/4060G,SMT;2%/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻:R4427:768Ω:0.68:1255Ohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻;4427--55℃-2%-8436R",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:560000Ω:0.31/0603:50",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃_93%;562000mΩ;-55℃;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST_562Ω/SMT_4427_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10_0.04MΩ/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻,0603,50;3%,6810mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-35%/1099Ω-1010",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃/0.02MΩ/35%",
+        "class": "Resistors"
+    },
+    {
+        "description": "2440MΩ_0.13,R1010",
+        "class": "Resistors"
+    },
+    {
+        "description": "DIP#125℃#1466kΩ:0.39#1/10W#3825,-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.98kΩ#42%/1/10W/3825#DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "50#155℃,200R,-55℃:0.44",
+        "class": "Resistors"
+    },
+    {
+        "description": "8884K:0.07:4040,SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "936kΩ-24%#1/10W#R1010#-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "8867mΩ,-25,25,125℃,R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "res:6921mΩ;-55℃,99%#4019",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10-3825-26700Ohm-DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "2248mΩ,56%,3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "2178Ω_0.32-3825_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res,-.2,.2,8881kΩ-0%,125℃,1/10W,2016",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res_31200Ω_46%_1/10W#R3825_125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.04kΩ/0.85/0303:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100/0.92/43.2kΩ/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "464000mΩ,54%,.063W,R0603_SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "604000mΩ;29%;155℃;SURFACE MOUNT;R0603",
+        "class": "Resistors"
+    },
+    {
+        "description": "10%-2.7kΩ-125℃-R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES:2.7Kohm-10%-1/10W#3825--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻_9K:0.54:R4019",
+        "class": "Resistors"
+    },
+    {
+        "description": "res/2910:-55℃:95%:800Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻;3825:125℃,0.92,7960G",
+        "class": "Resistors"
+    },
+    {
+        "description": "5400K_-25,25:0.43;3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#R0906#0.78-8579GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors,5461GΩ,-50,50,84%-1/20W,R0906",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/-55℃/4750O/39%_SMT/1/10W/4112",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:4112;47500000mΩ-38%",
+        "class": "Resistors"
+    },
+    {
+        "description": "9575Ohm,155℃:SMT:4112--100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10/-55℃/25500000mΩ/61%",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#6952kΩ;0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "7742mΩ;2%/0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "7952GΩ;-100,100;0.27;0303;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "res/SMT/9892Ω#28%/3W:3512/50",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors-3512;0GΩ-0.3;4568GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "2112GΩ:-55℃_SURFACE MOUNT-0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "1608M/155℃_0.23/1/10W/R0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors#6959Ω#2%#0502#SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "51Ohm;5%;1/10W;0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "82Ohm#2%#0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-1789mΩ;5%-3512--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT-68%-209kΩ-R3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "res-SMT-200,1463mΩ-50%#3W-3512/150℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "9747GΩ-0.89#3512#SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "115K/0.42#3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃:-100,100:16%:78.7kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:38.8Kohm_1/10W_63%",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻#-250,250#125℃#4270O#63%#SMT#1/20W#R3415",
+        "class": "Resistors"
+    },
+    {
+        "description": "res#2820M_125℃#61%_3415;-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "9282R#41%-3117",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST-213Ohm_0.77:1/20W-3415",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃;-50,50:21%;3576GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-206Ω-1/20W/0.25",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻-994GΩ-84%-1/20W-3415",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES/SMT/-55℃/5169K/69%;1/20W/3415",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻/6196Ω--55℃_13%:1/10W-3117",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻#6676M_150℃#0.84/3512/SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#3512_891MΩ_0.54:SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "150℃;SMT/0.6;95.3MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "200,7462mΩ,3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#3512;0.14MΩ;SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors_301K_100_38%/3W_R3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors#22600000Ohm/-55℃/200/2010/150℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors,150℃,10%,693mΩ,SURFACE MOUNT;R0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "0502-9069kΩ/0.12;SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT#100-510000mΩ-5%-150℃-1/20W:R0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "9628Ohm_0.38#100;0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT#2010/39.2MΩ:1%:SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "6835K,15%,1/8W,1206,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT:0MΩ:3/4W:42%",
+        "class": "Resistors"
+    },
+    {
+        "description": "740Ω;100;22%;3512#150℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "150℃,5421GΩ,0.07#3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "150℃,50.5MΩ;1W;0.33",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/6271mΩ;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:0502:109Ω_155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻#9287kΩ#28%,SURFACE MOUNT;R0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻,0502,SURFACE MOUNT,0.44,9922O",
+        "class": "Resistors"
+    },
+    {
+        "description": "3512#8749MΩ#18%#4057M",
+        "class": "Resistors"
+    },
+    {
+        "description": "5595MΩ;60%,150℃,200_3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-150℃-4498M:R3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_1.65M-15%-3512-150℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻;SURFACE MOUNT;SMT;4355MΩ,68%#25_3W;3512;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:155℃:9752mΩ:0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "5887MΩ,20%;R0502;155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻;3394GΩ;-55℃#67%:R3512;SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "3050000O_150℃-86%,R3512/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,100,7.5MΩ,2%:3W,3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/SURFACE MOUNT/5558G;150℃-70%/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "9180G-SURFACE MOUNT-94%-1/10W-R0502",
+        "class": "Resistors"
+    },
+    {
+        "description": "8322mΩ#0.42#R0502#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "959Ω/11%/1/10W_0502_155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "100_9745mΩ_20%_R1206_SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#100_9883K#0.81#3W#R3512",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT,125℃,4177Ω,0.28,SMT_1/8W,0505",
+        "class": "Resistors"
+    },
+    {
+        "description": "100-SURFACE MOUNT-6.19kΩ:0505",
+        "class": "Resistors"
+    },
+    {
+        "description": "34MΩ/2%/1/8W/0505/125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "412K;SMT;2108",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors#151K,0.75-0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "56000000mΩ#10%#4427#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "64900Ohm#91%,R0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "2645kΩ:-55℃-SMT:0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,0303,3198K,20%-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100-SMT-6242G-R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "7756MΩ,SMT,4427,-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "5736GΩ:0.11#0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,SMT,0MΩ,0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "res#2080Ω#0.9,0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-5.36kΩ-0.14:R4427:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻/3827MΩ;-10,10#0.01#R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res:9666mΩ_-25,25_45%_4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "44.2kΩ:0.19:R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res,0G#0.77#4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻-SMT/125℃/5880MΩ-0.61;-55℃-4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "1206,0.9:7754K",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃_0805,8732MΩ#3%#-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "R0805#0.08kΩ;51%;0.08kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25-1010-8323O;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-5,5-1206:18000mΩ-0.84--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors/SMT-0.98/108mΩ/1010",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_20.5Ω_1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:0G/0.2:3512/150℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/1.82kΩ/0.27/R1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_R1010;7622mΩ_155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "107Ω#93%/1010:-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,569Ω,-5,5",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻#1206/-55℃/0.27-6933GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES,1960GΩ;0.41,R1010,SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.05kΩ;SMT#28%;1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "res--25,25-SMT-0M#66%-1010",
+        "class": "Resistors"
+    },
+    {
+        "description": "58.3Ohm;0%/R0805",
+        "class": "Resistors"
+    },
+    {
+        "description": "-5,5_9.53kΩ-0.66",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;4339mΩ;0.56",
+        "class": "Resistors"
+    },
+    {
+        "description": "0805_3.7kΩ_94%_3700000mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻_R0805--55℃_85%_379Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃;SMT:4020000mΩ,R1010",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,0.46kΩ,1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_9132GΩ_49%_1010",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-92%,1257MΩ,155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "1206-925mΩ_155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "1010#32400000mΩ,0.8,32.4K",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25_SMT_1.78kΩ_22%",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻_0.02kΩ_0.4_1206#SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "0805;361000mΩ;0.99:361Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES_35.2kΩ-0.65-1010",
+        "class": "Resistors"
+    },
+    {
+        "description": "2.46kΩ:0.15;-55℃;5030",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃-SMT:17.4kΩ-125℃-12%",
+        "class": "Resistors"
+    },
+    {
+        "description": "1206/665GΩ#0.37#7770kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "res,5609K,-55℃,3415",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃#4030_274Ohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25_901Ω;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "5030,5.1kΩ;2%;5100Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "8708mΩ/0.04/1/10W/R4030",
+        "class": "Resistors"
+    },
+    {
+        "description": "61.2K-0.67-2707",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃;0.41MΩ-0.49-1/5W-5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "80600R#72%#1/20W#3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "23700Ohm_-10,10_32%;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors#2kΩ#37%#-10,10#-55℃#R5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "1430000mΩ_2%_3206",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/-10,10:27%:9829mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/155℃-9247mΩ/5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃#4918GΩ#93%",
+        "class": "Resistors"
+    },
+    {
+        "description": "895mΩ#21%#1/8W#R2707",
+        "class": "Resistors"
+    },
+    {
+        "description": "1640000mΩ/-10,10/0.86;1/8W:R2707",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.04MΩ;57%-1/5W;5012;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#8572GΩ#4%#5012#155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻/-10,10/155℃/0.32MΩ/18%_1/5W/5012;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "777Kohm:155℃;55%;1/5W;R2212",
+        "class": "Resistors"
+    },
+    {
+        "description": "0GΩ:66%:R2212",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-5012-1492R-38%--10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:SMT#72%,5292MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "6680kΩ,0.85,3535,SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors#SMT#-55℃_453Ω#35%#1/20W:3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "8924Ω#0.24:R3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "291Ω,37%,125℃,3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors-267O/-55℃-19%/R3206#155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res_155℃_-10,10_0.03MΩ:54%_1/10W;R3206_SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/619Ω/0.52/5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃,0M;1/8W,43%",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,2707-0MΩ-0.42--10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "9269MΩ-43%_2707_-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,3535,0.06MΩ:0.53,59kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "8870MΩ:0.93:5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "6120M_0.1_2707",
+        "class": "Resistors"
+    },
+    {
+        "description": "2640000mΩ_37%_1/8W-2707",
+        "class": "Resistors"
+    },
+    {
+        "description": "4288GΩ:SMT:0.79:1/10W:3206",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors-668K#-10,10-5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "7987mΩ:28%:1/10W:R2806",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST;R3207-137Ohm-0.03-6607GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#0.42K#-10,10#2806#155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_3535_132O_0.2_125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,1401Ω,-55℃,39%,3535;-300,300",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors:-10,10;0.77_0.44kΩ-5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10:9253GΩ:1/5W:49%",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,7016Ohm;-55℃-0.83_R3206-155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#3880000mΩ#0.98#4427#-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427:2651mΩ_SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/569Ω-0.36",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:11000000mΩ_-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#R4427_11K#0.14#11000Ohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10:-55℃_2%:6874GΩ:125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_9769Ω_-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors-4427-4145MΩ-66%-7062mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "36.1kΩ--55℃-125℃-R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "62.6K-77%#R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "9463mΩ,0.39,2406",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻-6.42kΩ#49%#1/10W;R3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,R3825,9296M#-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/3825#9629G#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "res,3825,4206kΩ-0.84,250Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:125℃-0MΩ-3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "172Kohm-6%#1/10W#1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10_155℃-8041K-62%-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃_4038Ω,1/10W,99%",
+        "class": "Resistors"
+    },
+    {
+        "description": "174000000mΩ-55%-2406--10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "6180kΩ#24%#1/10W#3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "7042kΩ#SMT/0.25/R3207/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "4077MΩ/83%/1/10W/3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,11.5kΩ,70%,R3825;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "0GΩ#3%#3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "86.6kΩ:0.5:3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "4407mΩ,40%,1/16W,R0603",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-3367kΩ--100,100-9%-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES_0603:9200mΩ_75%_0MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "2281mΩ;-55℃/34%_R3825_-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "0603#0.24_3924mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.34K#-55℃#-50,50#0603",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST-7327M-75%-0603--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "147Ω:31%-SMT-R2107",
+        "class": "Resistors"
+    },
+    {
+        "description": "1082G#0.68#3825#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "851GΩ#0.59#0603",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors;6801K;0.37#R3825/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#9736kΩ_1/16W/64%",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/0603-4546mΩ:15%:155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50;9673kΩ;67%;3825;125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427--55℃_0.44-1.47K",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST:R0603:2904kΩ:88%:0.01M",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-2052GΩ#0.46",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100#R3825#0.65K",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors#0603#2141mΩ#0.49#6447Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "7648MΩ:-55℃-100%-3825-DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "19.6kΩ/DIP/76%/1/10W,3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST;DIP_25%;3766GΩ_-55℃_3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES,2400mΩ,69%,155℃,-50,50:0603",
+        "class": "Resistors"
+    },
+    {
+        "description": "22300000mΩ;SMT;0.7/R0603;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/SMT/34.8kΩ/0603",
+        "class": "Resistors"
+    },
+    {
+        "description": "72Ω#66%;R0603",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.07MΩ:1/16W:41%",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST;-55℃;-50,50;744mΩ;0.67,1/16W;0603-155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "3825;0.0-9121mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "9317kΩ:19%/R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/SURFACE MOUNT/4191kΩ/33%",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors_8747Ohm/80%/125℃/3415",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors,27.7kΩ-37%-4040;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃;SMT;7059mΩ,11%;1/20W;4040;-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#-25,25_1.01kΩ_-55℃-66%_125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "909kΩ/0.85/0804/-200,200",
+        "class": "Resistors"
+    },
+    {
+        "description": "0804-9.53kΩ-0.35-5658M",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,R1606,10Kohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻-5611Ohm-0.14-1407--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25:R7810:5510K:125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "490Ohm:-55℃:21%,1/4W:R1407",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_4216GΩ:1407",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST,1470Ω,0.73,1407-155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃;300K,1/20W:42%",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#3351MΩ#-55℃#0.85/4040#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:125℃:20500000mΩ:0.99/1/20W:4040",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_61.9kΩ_-10,10-0.61_1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#0.88;61.9kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃-9224kΩ/0.01;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.74#0M#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "7193Ω;14%,125℃/1412",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_1107_0GΩ_73%:0GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100-DIP,0.64,7019mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃;673000mΩ;75%",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES_9081Ω_155℃_0.21_R1206_SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,2039M_125℃#66%--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:40%_0MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;785mΩ;R0404",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10:3825-15.6K/28%",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,1.6kΩ:65%#R3825/DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃,-10,10,201GΩ,2912",
+        "class": "Resistors"
+    },
+    {
+        "description": "1107/85.6K:93%/4657K",
+        "class": "Resistors"
+    },
+    {
+        "description": "8.98K_9%#1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_3707,0.2kΩ,41%_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "5875mΩ;68%;1510",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.16MΩ_155℃_3707",
+        "class": "Resistors"
+    },
+    {
+        "description": "6074mΩ_1/8W_0.49",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/R1607_8131Ω/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "9411GΩ,-10,10,155℃,R3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#1107#0M,SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "3240O,42%:1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors-1412-7911G-5%-4568G",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.14kΩ,-55℃_15%,1607,155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "17.6kΩ/0.28/3707",
+        "class": "Resistors"
+    },
+    {
+        "description": "R3707-3717GΩ/0.46;4682kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "0GΩ#-55℃_155℃_3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "1780Ω;0.3;1/10W;0806;-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "res/4676K/8%-2707/155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "27.1kΩ;SMT_43%/1/8W/R1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "3207#SMT#0.5/3666M",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;1607#0MΩ/0.66",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/SMT/0MΩ;0.89/-10,10/1/8W/2707",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/R3707/7834Ω;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10,1607_2.49K_0.98",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃_-10,10_0.35_17.6K#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "6134Ω:27%-1/8W:3707",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃-4145Ω/0.42/3207/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST,155℃,0.29,109Ω,R1607",
+        "class": "Resistors"
+    },
+    {
+        "description": "30kΩ:5%/R2025/-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50,0GΩ/0.7",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻,3.09K,0.18-1606,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST-1.76K:155℃:0.42:1/10W:2406",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#0GΩ#0.48#-10,10#3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻#1.62kΩ#0.1#3825#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50_125℃_40%_8294M",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃_-50,50_0.28-111kΩ_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#0303_3697Ω-0.63-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "5663Ω,65%,3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST,SMT;-100,100/0MΩ,5%/3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "res-4925kΩ-86%/3825-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "3825,87GΩ;48%;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-3825#9717kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res,-55℃#252GΩ,55%,R3825,125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻;120kΩ;0.06/-10,10_5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃-2796MΩ;0.98,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;215℃;2537GΩ;38%;-15,15",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.05MΩ,SMT,0.11;3825/125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "1300Ω,72%,SMT,-50,50,R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:4705mΩ;3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "1330Ω:-10,10_69%:1/10W:5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#93%;6515Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,-100,100_0.05MΩ_R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "1249kΩ:0.32,125℃;-55℃;3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃--10,10-49%-0.49K",
+        "class": "Resistors"
+    },
+    {
+        "description": "0MΩ;0.23;R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻/0MΩ_90%/-10,10/R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES;3825;-55℃;5%;0MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,SMT,0.38,3369Ω:125℃#3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_-25,25:2700kΩ;0.46#125℃_3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃--100,100-3116Ω-0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,0303/246000Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-1.62kΩ--55℃-58%-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res-89mΩ/-55℃/3825_125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃/12000mΩ,5%,7910#-250,250",
+        "class": "Resistors"
+    },
+    {
+        "description": "9079mΩ_-25,25_R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#5012,7607GΩ/98%#20kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "0MΩ#27%_-55℃#R0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "2.58K;53%-R0303;125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "3825-17.4K-27%,1285GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,3825,6888GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.67kΩ/-55℃/-50,50_3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100#3825#6746G#0.02",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#6301Ω#3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "7804GΩ-7%/0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10_7170MΩ_1/10W-17%",
+        "class": "Resistors"
+    },
+    {
+        "description": "res/758Ω;24%;1/10W;R2806;-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10#SMT#4852M#0.64",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;7057Ω;0.44;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,9514kΩ_-100,100:0.7:SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "10kΩ_10%_2W/-40℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-40℃-1315Ω;-150,150",
+        "class": "Resistors"
+    },
+    {
+        "description": "50000000mΩ#2W#20%",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-0GΩ_-40℃_10%",
+        "class": "Resistors"
+    },
+    {
+        "description": "6878kΩ-10%-9617R",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_453Ω;48%:125℃_-10,10_3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "4.12kΩ-50%#7025_DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "6852MΩ--55℃,19%-3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES:-55℃:7644kΩ#18%:1/40W:3825;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.01M-36%:3615",
+        "class": "Resistors"
+    },
+    {
+        "description": "405mΩ,100:-55℃:2512",
+        "class": "Resistors"
+    },
+    {
+        "description": "150℃,1%,6553G,SMT,R3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "R1005#3032Ω:5%:946G",
+        "class": "Resistors"
+    },
+    {
+        "description": "100-SMT-5%-2.7kΩ-155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_R8025_5.36kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,15000000mΩ,5%/-55℃,1/4W-1005",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT#1010#407000000mΩ#155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "9327kΩ#-25,25#0.19_3535#SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.65kΩ-2/25W:0.0",
+        "class": "Resistors"
+    },
+    {
+        "description": "8411MΩ:DIP/0.94:2/25W:7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,63%,1870G,8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "3535#7159MΩ#2%#22kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,6.04kΩ:0.93:2/25W#8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10-5991kΩ-1/25W;56%",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#6663MΩ#DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25-SMT;25500000mΩ/63%-1/10W-3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "5844MΩ,0.18;3825,125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "30.5K,60%,-55℃,-25,25,R3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "150℃-SMT_2.15kΩ-0.01--25,25-1/10W-3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "6.73Kohm_30%_3825_125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:1591mΩ:2/25W_55%",
+        "class": "Resistors"
+    },
+    {
+        "description": "9527Ω#-100,100#3825#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res:7.32kΩ/0.11,-50,50:SMT:R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_SMT-457kΩ_62%_3825_-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "10.6K,-55℃_SMT/3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃:2449K:36%",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃;-50,50;293Ohm;5%;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "5682Ω#-100,100:0.34/R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES:536Ohm;125℃-3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "8489kΩ-1%-R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;SMT;4.02kΩ;125℃;55%",
+        "class": "Resistors"
+    },
+    {
+        "description": "4537G-SMT;0.55;3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃/4.64kΩ/0%/R3825/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "0MΩ/0.01/4427/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-9252Ω/60%",
+        "class": "Resistors"
+    },
+    {
+        "description": "82.5Ω:88%:1/8W:R0606",
+        "class": "Resistors"
+    },
+    {
+        "description": "2010-0MΩ-45%-2786mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "976000mΩ#96%#0606",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST:887O:3%:-50,50:0606",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻_8322kΩ_61%_1/2W_2010_SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "4307-8216MΩ_0.79,124000000mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "4307_0.16_824MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "619Ohm:48%#1/10W,R4427-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃-4427-8513Ohm-0.32",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES;619Ω;0.21;125℃;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10;3309M-65%,1607,155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/0.2,4529K_-55℃_R1607",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.49kΩ#SMT;77%#R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "res/8985G#10%/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "5.9kΩ/76%#R4427#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃#0.9,70.6K,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "res-1317MΩ--55℃-100/0805-SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/3707/69K/0.55/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors/1607/-55℃_4%/552mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT;11%;511Ω;SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors;R4427;-10,10;0.48,259G",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25#4427#7988Ω#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;125℃_8339mΩ-67%",
+        "class": "Resistors"
+    },
+    {
+        "description": "9085GΩ#5%:4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "res#1607#1407mΩ#0.97;2553mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10,1572Ohm;1/8W,81%",
+        "class": "Resistors"
+    },
+    {
+        "description": "1230O-0.07-R3707",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻_3707/0.39_7407GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "4307:13.2kΩ-0.79:8980mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10#-55℃#9536MΩ#73%",
+        "class": "Resistors"
+    },
+    {
+        "description": "9467kΩ#100#38%_0805_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50_-55℃;4943K;0.35",
+        "class": "Resistors"
+    },
+    {
+        "description": "res-125℃-65%-14.3K-SMT;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES#59700O-100%--50,50_4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃-8180Kohm_-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "16.7kΩ-71%,4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res-2454mΩ,0.08-R4427-DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES#2893Ohm#125℃#94%/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "DIP-R4427#6223kΩ-70%",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10:8921O:1/8W:92%",
+        "class": "Resistors"
+    },
+    {
+        "description": "R3707,-10,10#80%_2826GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT--55℃_39%-6845MΩ-100",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT;R1607/102000Ohm/63%",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-5952mΩ--100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃;SMT,1993M;0.46;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,5057M;64%",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻;82500000mΩ:0.34;1/8W;3707;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃;1107#2184M#-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_249kΩ-0.86_3707_-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/25%/0.01MΩ/R0805",
+        "class": "Resistors"
+    },
+    {
+        "description": "100#SMT#768kΩ#155℃#14%",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_SURFACE MOUNT,6427kΩ;R0805",
+        "class": "Resistors"
+    },
+    {
+        "description": "32.4kΩ;1/40W;0.81",
+        "class": "Resistors"
+    },
+    {
+        "description": "4620Ω#-55℃,125℃:3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT/4%/0MΩ/155℃/R1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,5801GΩ--55℃,3825,125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "4.02kΩ/-55℃#0.84#8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃,15,0MΩ-SURFACE MOUNT,0.67,SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-4.75K:3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "0MΩ:42%,1206",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT/R1210-127000mΩ;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,1206,0.4K;0.46,402Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/-55℃/3457kΩ-67%,1/4W/1210/15",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃#0.02MΩ#0.62#1/10W#R3825#-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃/30.9kΩ/14%/3827",
+        "class": "Resistors"
+    },
+    {
+        "description": "457Kohm/1/5W/5%",
+        "class": "Resistors"
+    },
+    {
+        "description": "R7909#SIP,15%,8841Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "SIP-3971kΩ/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃#SMT;2940000mΩ:0.34/1/20W;3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25_0.87_30.1K",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.04M_53%;R4429",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100,5%_4370GΩ_DIP_R4429",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/SMT#620Ω/2%/-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "45MΩ/8%/R2512",
+        "class": "Resistors"
+    },
+    {
+        "description": "DIP_1.65kΩ_-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "res;R0303_4703kΩ/75%/9177MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻/R1909_1558Ω,67%#0M",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50_3401Ω_SIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#5085MΩ#1/4W#0.45",
+        "class": "Resistors"
+    },
+    {
+        "description": "R5012-2423MΩ_0.4_155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻,5012,523Ω/22%_3315K",
+        "class": "Resistors"
+    },
+    {
+        "description": "12K_10%_3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "res;2930R/SMT:45%:1/4W:1909",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors_-50,50-5147Ohm,0.47_SMT_1/2W_2512:155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "2912#-55℃#0.93#8896mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "56.2kΩ#0.2#7810",
+        "class": "Resistors"
+    },
+    {
+        "description": "6764GΩ/73%_R2512",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃_13kΩ_SMT_34%",
+        "class": "Resistors"
+    },
+    {
+        "description": "2646kΩ_0.33_R7810_SIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,34%,324kΩ,-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻-0GΩ-0.78-R5810--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:54%:44.2kΩ:SIP,5810",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10;SMT;95%;8223M",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-5428mΩ-0.03--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻#5.49kΩ#64%#4427--55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-R4312:2960M#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT-475Ω#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "1119mΩ_0.44_R2208,SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST/1.29kΩ/SMT/28%/4/5W/2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/0.26/6.65kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors;1490Ohm,0.35;4/5W;2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10_3612_158kΩ:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.72kΩ:0.91:R2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_671mΩ_-55℃_94%_3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST/2.15kΩ/SURFACE MOUNT/0.95#4/5W#2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "15;2208:7270GΩ:0.45:SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT/43%:9880Ω:SMT#2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "5490Ω/2%/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors/673kΩ_-10,10;58%_1/10W_R5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_673000mΩ;0.56;1/10W:5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#0.34;5302Ω;SMT/5012",
+        "class": "Resistors"
+    },
+    {
+        "description": "5707GΩ/5810/-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "1936mΩ_0.35-2912",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻:9052mΩ/-55℃,0.25#3612/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10-6816GΩ_R5712",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃-732K--10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻#9309MΩ#59%#0303#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "res/5245GΩ#125℃;0.18;3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "13.5kΩ,0.5;4427,125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "2370000mΩ#39%;125℃#-55℃;R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors,23.7Kohm,0.01,3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻,88.7kΩ#97%,3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "3.79kΩ_SMT/99%_4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST_2.87kΩ_SMT_R4427_125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors#33.2kΩ-0.78#4427#SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃_R4427_0.03M_10%_-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25_125℃_2252mΩ_87%:DIP",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#125℃#806Ohm,3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,R3825,20500000mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "7899kΩ-19%-4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "9870mΩ:0.51;4427;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "6591mΩ;0.99#4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10/62%/619Ω/SMT/R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.02MΩ,0.34,3825/-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻#72300000mΩ/125℃,0.03/R3825_SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25#1385G#4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "8.06kΩ/83%/3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃;0.04MΩ;0.84;4427;SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "res:-55℃:0.17:6490000mΩ:125℃:3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃-3825-6490000mΩ--50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50/4427_2916kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "56.9K/SMT/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃/56.9Kohm/6%/-10,10/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃,3825,4994mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_125℃:2482mΩ;R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃/0.3/4664GΩ:-50,50/R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "73.2kΩ_SMT_0.78_3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10/3963G/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻-1474kΩ--55℃-0.38-4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT:4427#4263mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "2324GΩ;61%;4427;-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "2.18kΩ/34%/-55℃/R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10#-55℃,8647M,0.32",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;7512Ω,125℃;20%",
+        "class": "Resistors"
+    },
+    {
+        "description": "20kΩ;-55℃;-50,50-4427_SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,-25,25,801G,SMT#0.11",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors:125℃:0GΩ:77%:R4427:-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100_R4427_757GΩ_61%:SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "0GΩ_-10,10_2806",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/-55℃/36%/0.02MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT;0.67_787Ohm;-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "6.73kΩ:0.31:1/10W_2806:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "19.6Kohm;-100,100;59%;4427;125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "2712GΩ/58%/155℃/3206",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST--50,50-SMT-851MΩ,50%/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "23.4kΩ;SMT;46%;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "res,9880GΩ,0.62,R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "res#R4427#17.6kΩ#40%#3076GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "2806/8.66kΩ/-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50;125℃#22100Ω#SMT;80%",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.64kΩ#0.97/3825/125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_6319GΩ_-55℃_0.8",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻#0MΩ#0.78#R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST_3825_4232mΩ_0.82_2622GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors;19.6kΩ/75%/4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "876Ohm,0.33,4427:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25-2.1kΩ-0.17-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES;4427;0.01MΩ;80%,6641Kohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "1704mΩ-69%:4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/7026G/86%/R4427/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "7928Ohm/155℃-2806",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES#2806#155℃#0.33:7600kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100,SIP/2.32kΩ,0.68,200℃,2/25W,5807,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻/8587mΩ/-55℃:-100,100-5807",
+        "class": "Resistors"
+    },
+    {
+        "description": "7.32kΩ;79%;8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "DIP/4874Ω:0.29:7025:200℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "234K:88%#8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻:7816GΩ/0.73:2/25W:7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors:R7025:DIP:57%:5566MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.74-4.7K-7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "DIP--55℃-383O;R7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100:2342GΩ/5807",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES,-100,100-0.09#6796kΩ-DIP-7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "2840000mΩ/DIP/200℃/7025/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST,0.02M,52%,2/25W_7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻;8211R/40%/1/10W:3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻,487Ω,-25,25:200℃,7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "8025/-55℃#84%/9171MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻;0.76:8984O:200℃-R7025",
+        "class": "Resistors"
+    },
+    {
+        "description": "4976Ω;-55℃;57%;8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "DIP;368kΩ;8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST--55℃-DIP-377MΩ;86%;2/25W-8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "200℃:2115mΩ_8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻,124O,2%#1/10W,3535",
+        "class": "Resistors"
+    },
+    {
+        "description": "150℃;75R;1/10W;2%",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻#3535#85%/78.7Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻_80600mΩ/SMT/12%;3535/150℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻/7025-7650mΩ-0.76-0MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res-7772G/100%/155℃:-55℃/R2512",
+        "class": "Resistors"
+    },
+    {
+        "description": "2.98kΩ,71%,8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "R7025/-55℃,0.13:8.66kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.04K,155℃,88%,1909,SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "42200mΩ_97%;2512",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res:155G:23%:1/4W:1909",
+        "class": "Resistors"
+    },
+    {
+        "description": "200℃;-55℃_3264kΩ,0.07",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST/7025/-55℃/0.68;0GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,42.2Ω,1/2W#0.44",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃_8757MΩ_8025",
+        "class": "Resistors"
+    },
+    {
+        "description": "200℃#1.49kΩ_72%/8025#-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_R8025_-25,25_42%_3.57kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100/90%#0M#5807",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES-1909--55℃_0.57-42.2Ohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST/SMT:42.2O:0.75,155℃:1/2W,2512",
+        "class": "Resistors"
+    },
+    {
+        "description": "6410G#28%#1909",
+        "class": "Resistors"
+    },
+    {
+        "description": "8025#16.7kΩ#16%#200℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻-8349Ω#23%;7025#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT#3147G#R2512",
+        "class": "Resistors"
+    },
+    {
+        "description": "R1909_7168mΩ_155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES/0GΩ/DIP/0.19/8025/200℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100:9690MΩ_2/25W:0.62",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,0GΩ#2/25W,8%",
+        "class": "Resistors"
+    },
+    {
+        "description": "0G;22%;0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "0.84;87600000mΩ;-55℃-0303",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25,0.63,9005kΩ,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT;777Ω;98%",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427_7857MΩ_0.85_2228MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃-125℃,2471Ohm_0.58",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃:4427,12.4K",
+        "class": "Resistors"
+    },
+    {
+        "description": "6603Ω;38%;R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "1494Ohm,2%;-55℃#4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427,7763mΩ,0.75,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "res,4427;48%;511000mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res_3442MΩ,-55℃,0.15;3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃#54.9kΩ#R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100#5415kΩ/0.61_3825#SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "3825:4098kΩ:84%:9420mΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,125℃,8.25K,R3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100:4427:2.77kΩ:1.0:SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10;125℃,48.7Kohm;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res-42kΩ,100%-R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "2208;285MΩ;65%;3874G",
+        "class": "Resistors"
+    },
+    {
+        "description": "9214G#59%#4427#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#5547M_-10,10-4427_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SURFACE MOUNT-R2208-5105kΩ-0.35-15",
+        "class": "Resistors"
+    },
+    {
+        "description": "7747M:155℃/50:2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "3825/-10,10/0.74/122GΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-25,25-125℃;6263mΩ;62%;R3825;-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST#3825-7151MΩ-0.12#5719Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES:1022Ω;58%:SMT:4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻/9670Ω/54%,4427/SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res,1.56kΩ,125℃:-55℃,4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#R3825#2481O/51%#-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427_5.11kΩ:0.34#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "R4427;-50,50,0.39/3714M",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃/388Kohm/0.46/2208/SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,155℃,9020Ω,2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "1547kΩ,2%:4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃,4427,44800Ohm,0.8,-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃#SMT#18%#54.9kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100,SMT,8.25Kohm,0.26",
+        "class": "Resistors"
+    },
+    {
+        "description": "电阻;0GΩ;2%,125℃;3825",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427:6603mΩ-46%#2.8kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT,34.4K#24%/4427/-50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100-125℃-0.05MΩ,4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃:4427:9067GΩ:0.09:-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "9590GΩ,0.69,4/5W,2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.01MΩ;0.32#R2208#25",
+        "class": "Resistors"
+    },
+    {
+        "description": "res_961mΩ-125℃_-55℃_4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "4224GΩ,0.17,-50,50#-55℃,4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "540kΩ_63%_3825_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "4439O#20%-R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-100,100:SMT:5326kΩ;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "0MΩ/0.85/-25,25",
+        "class": "Resistors"
+    },
+    {
+        "description": "4419GΩ-155℃-30%-2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "1034mΩ,SMT,32%,2208,SURFACE MOUNT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10:1412#2.98K#61%",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors_0.02kΩ;11%;155℃;SURFACE MOUNT;R2208",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427-2.91kΩ-125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "3669Kohm_95%_-10,10_SMT_1412",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors;412kΩ,54%;1/5W:1412",
+        "class": "Resistors"
+    },
+    {
+        "description": "2388MΩ-0.46-4/5W-2208-155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "125℃;3910:0MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES-5712,155℃;0.09;1.2kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃--10,10_415Ohm_R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT-6721Ω-52%-R3825/-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors;742MΩ/0.19:4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃:0.62:796O:-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻-6871R;20%-4427#-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "RES_9678Ω_0.41_5712_-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_493000000mΩ_5712",
+        "class": "Resistors"
+    },
+    {
+        "description": "1.74kΩ,18%,R4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_4427;15.6kΩ#0.2#125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors,SMT_-55℃_8448MΩ_0.16_R4427_125℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "R4427:0.87:2077Kohm",
+        "class": "Resistors"
+    },
+    {
+        "description": "R3535;5399MΩ;36%;0.02K",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻-7272kΩ-0.26-4040--50,50",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT_4418Ω;22%;1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10_732Ω_1/10W-0.59",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃#SMT#2469mΩ#R3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10;-55℃#0.12#9155MΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "贴片电阻/SMT/114K/0.85;-55℃/1/8W;R3707",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST_3207:SMT/10%-562Ω",
+        "class": "Resistors"
+    },
+    {
+        "description": "5345mΩ;0.45;R3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "5381mΩ,62%,R3207,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "1886M;1/10W;62%",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/1466M/0.61/2806/-10,10",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10--55℃-5%-30.1kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "R4427,1070000mΩ#0.65_1.07kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors-0MΩ-78%;4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST:0GΩ#72%/1/10W/R3206",
+        "class": "Resistors"
+    },
+    {
+        "description": "SMT/R3206/62.6kΩ:-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "Resistors:-10,10:48%#9514MΩ:SMT:4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "2142M_0.16:R1606_155℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "res;31.2K;0.52;1/8W;1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res,3207,SMT,16%,7.87kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "424kΩ/125℃/SMT#4427/-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "1856mΩ#12%;3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "1573K;19%,-55℃,125℃#4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃,2006;7546O_90%",
+        "class": "Resistors"
+    },
+    {
+        "description": "155℃;3707-114kΩ_18%",
+        "class": "Resistors"
+    },
+    {
+        "description": "8256MΩ:0.29:1/8W,1107",
+        "class": "Resistors"
+    },
+    {
+        "description": "6632mΩ#0.98:3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "7431MΩ_0.45_-55℃_-10,10_3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "1780000mΩ,-10,10_-55℃_R3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10:3207:2.52kΩ:0.79",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10,4929kΩ,SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "-10,10#-55℃-3847kΩ#0.06",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res;-55℃;155℃;1.1kΩ;39%--10,10_1/8W;R3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "9600M,0.12,1/10W,R3206,-55℃",
+        "class": "Resistors"
+    },
+    {
+        "description": "-50,50;-55℃_0.03MΩ:4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "36.5kΩ/71%/4427/-100,100",
+        "class": "Resistors"
+    },
+    {
+        "description": "-55℃;2006,8886MΩ,12%",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res_5685mΩ_76%_1/8W_3207",
+        "class": "Resistors"
+    },
+    {
+        "description": "3143MΩ#0.11#-10,10#1/8W,R3207#SMT",
+        "class": "Resistors"
+    },
+    {
+        "description": "29.1kΩ-54%-4427",
+        "class": "Resistors"
+    },
+    {
+        "description": "4427#7801mΩ,21%#10.7kΩ",
+        "class": "Resistors"
+    },
+    {
+        "description": "RST;1606,4648Ω;0.8;0M",
+        "class": "Resistors"
+    },
+    {
+        "description": "Res/7784kΩ,95%;155℃;R1107",
+        "class": "Resistors"
+    }
+]

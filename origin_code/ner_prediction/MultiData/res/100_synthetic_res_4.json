@@ -1,0 +1,2121 @@
+[
+    {
+        "description": [
+            "贴片电阻",
+            "25ppm/cel",
+            "CFQM12JT3M00",
+            "32.4O",
+            "94%",
+            "175℃",
+            "1/10W",
+            "THROUGH HOLE MOUNT"
+        ],
+        "labels": [
+            "input class",
+            "TemperatureCoefficient",
+            "MfrPartNumber",
+            "Resistance",
+            "Tolerance",
+            "OperatingTemperatureMax",
+            "RatedPowerDissipationP",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "TemperatureCoefficient": "25ppm/cel",
+        "MfrPartNumber": "CFQM12JT3M00",
+        "Resistance": "32.4O",
+        "Tolerance": "94%",
+        "OperatingTemperatureMax": "175℃",
+        "RatedPowerDissipationP": "1/10W",
+        "MountingFeature": "THROUGH HOLE MOUNT"
+    },
+    {
+        "description": [
+            "2.2M",
+            "1/2W",
+            "5%",
+            "THROUGH HOLE MOUNT"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "Resistance": "2.2M",
+        "RatedPowerDissipationP": "1/2W",
+        "Tolerance": "5%",
+        "MountingFeature": "THROUGH HOLE MOUNT"
+    },
+    {
+        "description": [
+            "32M",
+            "0.83",
+            "1206",
+            "-55℃"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "SizeCode",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "Resistance": "32M",
+        "Tolerance": "0.83",
+        "SizeCode": "1206",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "7231GΩ",
+            "55%",
+            "SMT"
+        ],
+        "labels": [
+            "MountingFeature",
+            "Resistance",
+            "Tolerance",
+            "PackageStyle"
+        ],
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "7231GΩ",
+        "Tolerance": "55%",
+        "PackageStyle": "SMT"
+    },
+    {
+        "description": [
+            "16.2O",
+            "73%",
+            "1005",
+            "-55℃"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "SizeCode",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "Resistance": "16.2O",
+        "Tolerance": "73%",
+        "SizeCode": "1005",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "-55℃",
+            "70%",
+            "452G",
+            "M55342M12B3J90RS6"
+        ],
+        "labels": [
+            "MountingFeature",
+            "OperatingTemperatureMin",
+            "Tolerance",
+            "Resistance",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "70%",
+        "Resistance": "452G",
+        "MfrPartNumber": "M55342M12B3J90RS6"
+    },
+    {
+        "description": [
+            "155℃",
+            "THROUGH HOLE MOUNT",
+            "2289Ohm",
+            "R8915"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "MountingFeature",
+            "Resistance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Resistance": "2289Ohm",
+        "SizeCode": "R8915"
+    },
+    {
+        "description": [
+            "200ppm",
+            "7812mΩ",
+            "0.21",
+            "-55℃",
+            "SMT"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "Resistance",
+            "Tolerance",
+            "OperatingTemperatureMin",
+            "PackageStyle"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "200ppm",
+        "Resistance": "7812mΩ",
+        "Tolerance": "0.21",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT"
+    },
+    {
+        "description": [
+            "SMT",
+            "2870mΩ",
+            "0.09",
+            "RG1206",
+            "155℃"
+        ],
+        "labels": [
+            "PackageStyle",
+            "Resistance",
+            "Tolerance",
+            "SizeCode",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "2870mΩ",
+        "Tolerance": "0.09",
+        "SizeCode": "RG1206",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "description": [
+            "-55℃",
+            "CHP1020L1023DNT",
+            "1290Ω",
+            "R0805"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "MfrPartNumber",
+            "Resistance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "MfrPartNumber": "CHP1020L1023DNT",
+        "Resistance": "1290Ω",
+        "SizeCode": "R0805"
+    },
+    {
+        "description": [
+            "7660GΩ",
+            "1/4W",
+            "1206",
+            "贴片电阻",
+            "SMT",
+            "48%"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "input class",
+            "PackageStyle",
+            "Tolerance"
+        ],
+        "class": "Resistors",
+        "Resistance": "7660GΩ",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206",
+        "input class": "贴片电阻",
+        "PackageStyle": "SMT",
+        "Tolerance": "48%"
+    },
+    {
+        "description": [
+            "0.78",
+            "-55℃",
+            "M8340103M6801JBD05",
+            "2940mΩ",
+            "RB1206",
+            "1/4W"
+        ],
+        "labels": [
+            "Tolerance",
+            "OperatingTemperatureMin",
+            "MfrPartNumber",
+            "Resistance",
+            "SizeCode",
+            "RatedPowerDissipationP"
+        ],
+        "class": "Resistors",
+        "Tolerance": "0.78",
+        "OperatingTemperatureMin": "-55℃",
+        "MfrPartNumber": "M8340103M6801JBD05",
+        "Resistance": "2940mΩ",
+        "SizeCode": "RB1206",
+        "RatedPowerDissipationP": "1/4W"
+    },
+    {
+        "description": [
+            "-55℃",
+            "0805",
+            "1.32kΩ",
+            "68%",
+            "RNX0382K21FKEE"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "SizeCode",
+            "Resistance",
+            "Tolerance",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0805",
+        "Resistance": "1.32kΩ",
+        "Tolerance": "68%",
+        "MfrPartNumber": "RNX0382K21FKEE"
+    },
+    {
+        "description": [
+            "-55℃",
+            "SURFACE MOUNT",
+            "R0805",
+            "9047G"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "MountingFeature",
+            "SizeCode",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "R0805",
+        "Resistance": "9047G"
+    },
+    {
+        "description": [
+            "8362R",
+            "54%",
+            "1/10W",
+            "0805",
+            "25ppm"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "Resistance": "8362R",
+        "Tolerance": "54%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0805",
+        "TemperatureCoefficient": "25ppm"
+    },
+    {
+        "description": [
+            "27%",
+            "SURFACE MOUNT",
+            "ROX1006K80JNEES",
+            "4542K",
+            "0805",
+            "1/10W",
+            "155℃"
+        ],
+        "labels": [
+            "Tolerance",
+            "MountingFeature",
+            "MfrPartNumber",
+            "Resistance",
+            "SizeCode",
+            "RatedPowerDissipationP",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Resistors",
+        "Tolerance": "27%",
+        "MountingFeature": "SURFACE MOUNT",
+        "MfrPartNumber": "ROX1006K80JNEES",
+        "Resistance": "4542K",
+        "SizeCode": "0805",
+        "RatedPowerDissipationP": "1/10W",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "description": [
+            "WATF3AN-4R530F-HWUTR",
+            "2218mΩ",
+            "RES",
+            "-55℃",
+            "R1206"
+        ],
+        "labels": [
+            "MfrPartNumber",
+            "Resistance",
+            "input class",
+            "OperatingTemperatureMin",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "MfrPartNumber": "WATF3AN-4R530F-HWUTR",
+        "Resistance": "2218mΩ",
+        "input class": "RES",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R1206"
+    },
+    {
+        "description": [
+            "贴片电阻",
+            "3666mΩ",
+            "0.62",
+            "1/4W",
+            "RF1206",
+            "-55℃"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "3666mΩ",
+        "Tolerance": "0.62",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "RF1206",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "9139mΩ",
+            "58%",
+            "1/4W",
+            "R1206",
+            "155℃"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Resistors",
+        "Resistance": "9139mΩ",
+        "Tolerance": "58%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1206",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "description": [
+            "155℃",
+            "-55℃",
+            "46%",
+            "1640000mΩ",
+            "WCLB00864201C"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "OperatingTemperatureMin",
+            "Tolerance",
+            "Resistance",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "46%",
+        "Resistance": "1640000mΩ",
+        "MfrPartNumber": "WCLB00864201C"
+    },
+    {
+        "description": [
+            "贴片电阻",
+            "1.26K",
+            "-55℃",
+            "35%",
+            "1/10W",
+            "R0805"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "OperatingTemperatureMin",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "1.26K",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "35%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "R0805"
+    },
+    {
+        "description": [
+            "Resistors",
+            "9%",
+            "205kΩ",
+            "-55℃",
+            "1206"
+        ],
+        "labels": [
+            "input class",
+            "Tolerance",
+            "Resistance",
+            "OperatingTemperatureMin",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Tolerance": "9%",
+        "Resistance": "205kΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1206"
+    },
+    {
+        "description": [
+            "R0805",
+            "-55℃",
+            "0.63",
+            "2.21K"
+        ],
+        "labels": [
+            "SizeCode",
+            "OperatingTemperatureMin",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "SizeCode": "R0805",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.63",
+        "Resistance": "2.21K"
+    },
+    {
+        "description": [
+            "SMT",
+            "-55℃",
+            "R0805",
+            "8627mΩ"
+        ],
+        "labels": [
+            "PackageStyle",
+            "OperatingTemperatureMin",
+            "SizeCode",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R0805",
+        "Resistance": "8627mΩ"
+    },
+    {
+        "description": [
+            "-55℃",
+            "5ppm",
+            "3378Ω",
+            "24%",
+            "M55342K02W680HR-TR"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "TemperatureCoefficient",
+            "Resistance",
+            "Tolerance",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "5ppm",
+        "Resistance": "3378Ω",
+        "Tolerance": "24%",
+        "MfrPartNumber": "M55342K02W680HR-TR"
+    },
+    {
+        "description": [
+            "1206",
+            "-55℃",
+            "0.97",
+            "1430mΩ"
+        ],
+        "labels": [
+            "SizeCode",
+            "OperatingTemperatureMin",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "SizeCode": "1206",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.97",
+        "Resistance": "1430mΩ"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "155℃",
+            "58%",
+            "1.84kΩ",
+            "PT-10-LV568KA2020"
+        ],
+        "labels": [
+            "MountingFeature",
+            "OperatingTemperatureMax",
+            "Tolerance",
+            "Resistance",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "58%",
+        "Resistance": "1.84kΩ",
+        "MfrPartNumber": "PT-10-LV568KA2020"
+    },
+    {
+        "description": [
+            "5914Kohm",
+            "1/10W",
+            "0.53",
+            "-55℃"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "Resistance": "5914Kohm",
+        "RatedPowerDissipationP": "1/10W",
+        "Tolerance": "0.53",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "电阻",
+            "50ppm",
+            "65%",
+            "3977kΩ"
+        ],
+        "labels": [
+            "input class",
+            "TemperatureCoefficient",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "input class": "电阻",
+        "TemperatureCoefficient": "50ppm",
+        "Tolerance": "65%",
+        "Resistance": "3977kΩ"
+    },
+    {
+        "description": [
+            "电阻",
+            "THROUGH HOLE MOUNT",
+            "43%",
+            "0.13Kohm"
+        ],
+        "labels": [
+            "input class",
+            "MountingFeature",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "input class": "电阻",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Tolerance": "43%",
+        "Resistance": "0.13Kohm"
+    },
+    {
+        "description": [
+            "Resistors",
+            "50ppm",
+            "0.85",
+            "0.35Kohm"
+        ],
+        "labels": [
+            "input class",
+            "TemperatureCoefficient",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "input class": "Resistors",
+        "TemperatureCoefficient": "50ppm",
+        "Tolerance": "0.85",
+        "Resistance": "0.35Kohm"
+    },
+    {
+        "description": [
+            "165℃",
+            "0.42kΩ",
+            "0.65",
+            "50ppm/℃"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "Resistance",
+            "Tolerance",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMax": "165℃",
+        "Resistance": "0.42kΩ",
+        "Tolerance": "0.65",
+        "TemperatureCoefficient": "50ppm/℃"
+    },
+    {
+        "description": [
+            "7517K",
+            "THROUGH HOLE MOUNT",
+            "Axial",
+            "VPR220S5K56000.05%T"
+        ],
+        "labels": [
+            "Resistance",
+            "MountingFeature",
+            "PackageStyle",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "Resistance": "7517K",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "PackageStyle": "Axial",
+        "MfrPartNumber": "VPR220S5K56000.05%T"
+    },
+    {
+        "description": [
+            "res",
+            "2kΩ",
+            "98%",
+            "1/2W",
+            "50ppm/cel"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "2kΩ",
+        "Tolerance": "98%",
+        "RatedPowerDissipationP": "1/2W",
+        "TemperatureCoefficient": "50ppm/cel"
+    },
+    {
+        "description": [
+            "THROUGH HOLE MOUNT",
+            "res",
+            "9%",
+            "9616O"
+        ],
+        "labels": [
+            "MountingFeature",
+            "input class",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "input class": "res",
+        "Tolerance": "9%",
+        "Resistance": "9616O"
+    },
+    {
+        "description": [
+            "贴片电阻",
+            "71.5kΩ",
+            "68%",
+            "1/2W",
+            "-55℃"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "71.5kΩ",
+        "Tolerance": "68%",
+        "RatedPowerDissipationP": "1/2W",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "82.5K",
+            "1/2W",
+            "0.63",
+            "-55℃"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "Resistance": "82.5K",
+        "RatedPowerDissipationP": "1/2W",
+        "Tolerance": "0.63",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "THROUGH HOLE MOUNT",
+            "196K",
+            "0.19",
+            "SSN16A1692FSLF13"
+        ],
+        "labels": [
+            "MountingFeature",
+            "Resistance",
+            "Tolerance",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "MountingFeature": "THROUGH HOLE MOUNT",
+        "Resistance": "196K",
+        "Tolerance": "0.19",
+        "MfrPartNumber": "SSN16A1692FSLF13"
+    },
+    {
+        "description": [
+            "-55℃",
+            "0.62",
+            "100ppm",
+            "0MΩ",
+            "R1206"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "Tolerance",
+            "TemperatureCoefficient",
+            "Resistance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.62",
+        "TemperatureCoefficient": "100ppm",
+        "Resistance": "0MΩ",
+        "SizeCode": "R1206"
+    },
+    {
+        "description": [
+            "9240MΩ",
+            "78%",
+            "1/5W",
+            "0705"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "9240MΩ",
+        "Tolerance": "78%",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "0705"
+    },
+    {
+        "description": [
+            "1433M",
+            "92%",
+            "M55342K05B1L50PT04",
+            "RW1505"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "MfrPartNumber",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "1433M",
+        "Tolerance": "92%",
+        "MfrPartNumber": "M55342K05B1L50PT04",
+        "SizeCode": "RW1505"
+    },
+    {
+        "description": [
+            "14.3G",
+            "电阻",
+            "3/5W",
+            "RD2510",
+            "99%"
+        ],
+        "labels": [
+            "Resistance",
+            "input class",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "Tolerance"
+        ],
+        "class": "Resistors",
+        "Resistance": "14.3G",
+        "input class": "电阻",
+        "RatedPowerDissipationP": "3/5W",
+        "SizeCode": "RD2510",
+        "Tolerance": "99%"
+    },
+    {
+        "description": [
+            "3467Ω",
+            "2%",
+            "3/5W",
+            "R2510"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "3467Ω",
+        "Tolerance": "2%",
+        "RatedPowerDissipationP": "3/5W",
+        "SizeCode": "R2510"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "59.7R",
+            "1/5W",
+            "0805",
+            "0.33"
+        ],
+        "labels": [
+            "MountingFeature",
+            "Resistance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "Tolerance"
+        ],
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "59.7R",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "0805",
+        "Tolerance": "0.33"
+    },
+    {
+        "description": [
+            "25ppm/℃",
+            "61.2R",
+            "18%",
+            "0805",
+            "250℃"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "Resistance",
+            "Tolerance",
+            "SizeCode",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "25ppm/℃",
+        "Resistance": "61.2R",
+        "Tolerance": "18%",
+        "SizeCode": "0805",
+        "OperatingTemperatureMax": "250℃"
+    },
+    {
+        "description": [
+            "167000mΩ",
+            "5ppm",
+            "R0402",
+            "5ppm"
+        ],
+        "labels": [
+            "Resistance",
+            "TemperatureCoefficient",
+            "SizeCode",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "Resistance": "167000mΩ",
+        "TemperatureCoefficient": "5ppm",
+        "SizeCode": "R0402"
+    },
+    {
+        "description": [
+            "4987MΩ",
+            "175℃",
+            "50ppm/cel",
+            "M55342M06B120KPWB"
+        ],
+        "labels": [
+            "Resistance",
+            "OperatingTemperatureMax",
+            "TemperatureCoefficient",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "Resistance": "4987MΩ",
+        "OperatingTemperatureMax": "175℃",
+        "TemperatureCoefficient": "50ppm/cel",
+        "MfrPartNumber": "M55342M06B120KPWB"
+    },
+    {
+        "description": [
+            "0M",
+            "1/8W",
+            "Resistors",
+            "0.28",
+            "RK0603"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "input class",
+            "Tolerance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "0M",
+        "RatedPowerDissipationP": "1/8W",
+        "input class": "Resistors",
+        "Tolerance": "0.28",
+        "SizeCode": "RK0603"
+    },
+    {
+        "description": [
+            "电阻",
+            "5436MΩ",
+            "0.92",
+            "1/8W",
+            "0505",
+            "300ppm/cel"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "5436MΩ",
+        "Tolerance": "0.92",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0505",
+        "TemperatureCoefficient": "300ppm/cel"
+    },
+    {
+        "description": [
+            "2133G",
+            "1/4W",
+            "R1005",
+            "89%"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "Tolerance"
+        ],
+        "class": "Resistors",
+        "Resistance": "2133G",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1005",
+        "Tolerance": "89%"
+    },
+    {
+        "description": [
+            "Resistors",
+            "50.5M",
+            "25ppm",
+            "P11P3FAGGSA105005%AE3"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "TemperatureCoefficient",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "50.5M",
+        "TemperatureCoefficient": "25ppm",
+        "MfrPartNumber": "P11P3FAGGSA105005%AE3"
+    },
+    {
+        "description": [
+            "RES",
+            "64.2O",
+            "50ppm/cel",
+            "50ppm/cel",
+            "0805",
+            "SP100BA431PA4"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "TemperatureCoefficient",
+            "TemperatureCoefficient",
+            "SizeCode",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "64.2O",
+        "TemperatureCoefficient": "50ppm/cel",
+        "SizeCode": "0805",
+        "MfrPartNumber": "SP100BA431PA4"
+    },
+    {
+        "description": [
+            "电阻",
+            "1299kΩ",
+            "0.33",
+            "1299kΩ"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "1299kΩ",
+        "Tolerance": "0.33"
+    },
+    {
+        "description": [
+            "65700mΩ",
+            "0.25",
+            "1/5W",
+            "RG0805",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "Resistance": "65700mΩ",
+        "Tolerance": "0.25",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "RG0805",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "167000mΩ",
+            "60%",
+            "D55342K07B30B9RT14",
+            "SMT",
+            "RJ0402"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "MfrPartNumber",
+            "PackageStyle",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "167000mΩ",
+        "Tolerance": "60%",
+        "MfrPartNumber": "D55342K07B30B9RT14",
+        "PackageStyle": "SMT",
+        "SizeCode": "RJ0402"
+    },
+    {
+        "description": [
+            "200ppm/cel",
+            "155℃",
+            "RB0505",
+            "0M"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "OperatingTemperatureMax",
+            "SizeCode",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "200ppm/cel",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "RB0505",
+        "Resistance": "0M"
+    },
+    {
+        "description": [
+            "R1214G-D224L-30KQ",
+            "0.71",
+            "R2208",
+            "100ppm/cel",
+            "6073G"
+        ],
+        "labels": [
+            "MfrPartNumber",
+            "Tolerance",
+            "SizeCode",
+            "TemperatureCoefficient",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "MfrPartNumber": "R1214G-D224L-30KQ",
+        "Tolerance": "0.71",
+        "SizeCode": "R2208",
+        "TemperatureCoefficient": "100ppm/cel",
+        "Resistance": "6073G"
+    },
+    {
+        "description": [
+            "R0805",
+            "5563K",
+            "0.31",
+            "5563K"
+        ],
+        "labels": [
+            "SizeCode",
+            "Resistance",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "SizeCode": "R0805",
+        "Resistance": "5563K",
+        "Tolerance": "0.31"
+    },
+    {
+        "description": [
+            "4522G",
+            "SMT",
+            "0805",
+            "250℃"
+        ],
+        "labels": [
+            "Resistance",
+            "PackageStyle",
+            "SizeCode",
+            "OperatingTemperatureMax"
+        ],
+        "class": "Resistors",
+        "Resistance": "4522G",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805",
+        "OperatingTemperatureMax": "250℃"
+    },
+    {
+        "description": [
+            "R0805",
+            "83%",
+            "0.07K",
+            "Res",
+            "-55℃"
+        ],
+        "labels": [
+            "SizeCode",
+            "Tolerance",
+            "Resistance",
+            "input class",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "SizeCode": "R0805",
+        "Tolerance": "83%",
+        "Resistance": "0.07K",
+        "input class": "Res",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "0.82",
+            "155℃",
+            "SP85AA241GA3",
+            "1.2M",
+            "R0805",
+            "100ppm",
+            "1/8W"
+        ],
+        "labels": [
+            "Tolerance",
+            "OperatingTemperatureMax",
+            "MfrPartNumber",
+            "Resistance",
+            "SizeCode",
+            "TemperatureCoefficient",
+            "RatedPowerDissipationP"
+        ],
+        "class": "Resistors",
+        "Tolerance": "0.82",
+        "OperatingTemperatureMax": "155℃",
+        "MfrPartNumber": "SP85AA241GA3",
+        "Resistance": "1.2M",
+        "SizeCode": "R0805",
+        "TemperatureCoefficient": "100ppm",
+        "RatedPowerDissipationP": "1/8W"
+    },
+    {
+        "description": [
+            "0.06kΩ",
+            "250℃",
+            "0.89",
+            "1/5W",
+            "R0805"
+        ],
+        "labels": [
+            "Resistance",
+            "OperatingTemperatureMax",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "0.06kΩ",
+        "OperatingTemperatureMax": "250℃",
+        "Tolerance": "0.89",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "R0805"
+    },
+    {
+        "description": [
+            "50ppm",
+            "0805",
+            "0.06kΩ",
+            "50ppm"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "SizeCode",
+            "Resistance",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "50ppm",
+        "SizeCode": "0805",
+        "Resistance": "0.06kΩ"
+    },
+    {
+        "description": [
+            "RST",
+            "R0805",
+            "250℃",
+            "1%",
+            "69R"
+        ],
+        "labels": [
+            "input class",
+            "SizeCode",
+            "OperatingTemperatureMax",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "input class": "RST",
+        "SizeCode": "R0805",
+        "OperatingTemperatureMax": "250℃",
+        "Tolerance": "1%",
+        "Resistance": "69R"
+    },
+    {
+        "description": [
+            "9474GΩ",
+            "1/4W",
+            "6%",
+            "200ppm"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "Resistance": "9474GΩ",
+        "RatedPowerDissipationP": "1/4W",
+        "Tolerance": "6%",
+        "TemperatureCoefficient": "200ppm"
+    },
+    {
+        "description": [
+            "Resistors",
+            "SURFACE MOUNT",
+            "40650.9650.1LF",
+            "82.5K",
+            "41%",
+            "1/4W",
+            "R1206"
+        ],
+        "labels": [
+            "input class",
+            "MountingFeature",
+            "MfrPartNumber",
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "input class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "MfrPartNumber": "40650.9650.1LF",
+        "Resistance": "82.5K",
+        "Tolerance": "41%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1206"
+    },
+    {
+        "description": [
+            "100ppm/℃",
+            "11%",
+            "150℃",
+            "59K",
+            "1210"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "Tolerance",
+            "OperatingTemperatureMax",
+            "Resistance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "100ppm/℃",
+        "Tolerance": "11%",
+        "OperatingTemperatureMax": "150℃",
+        "Resistance": "59K",
+        "SizeCode": "1210"
+    },
+    {
+        "description": [
+            "592mΩ",
+            "155℃",
+            "50ppm/℃",
+            "0402",
+            "RWR71S1290DPBSL"
+        ],
+        "labels": [
+            "Resistance",
+            "OperatingTemperatureMax",
+            "TemperatureCoefficient",
+            "SizeCode",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "Resistance": "592mΩ",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "50ppm/℃",
+        "SizeCode": "0402",
+        "MfrPartNumber": "RWR71S1290DPBSL"
+    },
+    {
+        "description": [
+            "SURFACE MOUNT",
+            "0402",
+            "6162mΩ",
+            "100ppm/℃"
+        ],
+        "labels": [
+            "MountingFeature",
+            "SizeCode",
+            "Resistance",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "0402",
+        "Resistance": "6162mΩ",
+        "TemperatureCoefficient": "100ppm/℃"
+    },
+    {
+        "description": [
+            "SMT",
+            "7242M",
+            "电阻",
+            ".063W",
+            "RW0402",
+            "0%"
+        ],
+        "labels": [
+            "PackageStyle",
+            "Resistance",
+            "input class",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "Tolerance"
+        ],
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "7242M",
+        "input class": "电阻",
+        "RatedPowerDissipationP": ".063W",
+        "SizeCode": "RW0402",
+        "Tolerance": "0%"
+    },
+    {
+        "description": [
+            "10ppm/℃",
+            "0402",
+            "9073Kohm",
+            "SMT"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "SizeCode",
+            "Resistance",
+            "PackageStyle"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "10ppm/℃",
+        "SizeCode": "0402",
+        "Resistance": "9073Kohm",
+        "PackageStyle": "SMT"
+    },
+    {
+        "description": [
+            "NS1/20R105FB12",
+            "44%",
+            "0402",
+            "SURFACE MOUNT",
+            "15K"
+        ],
+        "labels": [
+            "MfrPartNumber",
+            "Tolerance",
+            "SizeCode",
+            "MountingFeature",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "MfrPartNumber": "NS1/20R105FB12",
+        "Tolerance": "44%",
+        "SizeCode": "0402",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "15K"
+    },
+    {
+        "description": [
+            "SMT",
+            "6076G",
+            "100ppm/℃",
+            "0.46"
+        ],
+        "labels": [
+            "PackageStyle",
+            "Resistance",
+            "TemperatureCoefficient",
+            "Tolerance"
+        ],
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "6076G",
+        "TemperatureCoefficient": "100ppm/℃",
+        "Tolerance": "0.46"
+    },
+    {
+        "description": [
+            "0.02MΩ",
+            "SMT",
+            "0.74",
+            "0402",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "Resistance",
+            "PackageStyle",
+            "Tolerance",
+            "SizeCode",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "Resistance": "0.02MΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.74",
+        "SizeCode": "0402",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "-55℃",
+            "68%",
+            "9278GΩ",
+            "10ppm",
+            "0402"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "Tolerance",
+            "Resistance",
+            "TemperatureCoefficient",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "68%",
+        "Resistance": "9278GΩ",
+        "TemperatureCoefficient": "10ppm",
+        "SizeCode": "0402"
+    },
+    {
+        "description": [
+            "50ppm/cel",
+            "RM0402",
+            "0.5kΩ",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "SizeCode",
+            "Resistance",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "50ppm/cel",
+        "SizeCode": "RM0402",
+        "Resistance": "0.5kΩ",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "155℃",
+            "SURFACE MOUNT",
+            "499Ohm",
+            "0.85",
+            "-55℃"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "MountingFeature",
+            "Resistance",
+            "Tolerance",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "499Ohm",
+        "Tolerance": "0.85",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "3147M",
+            "-55℃",
+            "0.26",
+            ".063W",
+            "R0402"
+        ],
+        "labels": [
+            "Resistance",
+            "OperatingTemperatureMin",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "3147M",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.26",
+        "RatedPowerDissipationP": ".063W",
+        "SizeCode": "R0402"
+    },
+    {
+        "description": [
+            "155℃",
+            "7960kΩ",
+            "34%",
+            "-55℃",
+            "SMT"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "Resistance",
+            "Tolerance",
+            "OperatingTemperatureMin",
+            "PackageStyle"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "7960kΩ",
+        "Tolerance": "34%",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT"
+    },
+    {
+        "description": [
+            "SMT",
+            "505Ohm",
+            ".063W",
+            "83%"
+        ],
+        "labels": [
+            "PackageStyle",
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance"
+        ],
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "505Ohm",
+        "RatedPowerDissipationP": ".063W",
+        "Tolerance": "83%"
+    },
+    {
+        "description": [
+            "155℃",
+            "SURFACE MOUNT",
+            "7163MΩ",
+            "0402"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "MountingFeature",
+            "Resistance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "7163MΩ",
+        "SizeCode": "0402"
+    },
+    {
+        "description": [
+            "-55℃",
+            "0402",
+            "4536mΩ",
+            "34%",
+            "VSSR2401392FTF"
+        ],
+        "labels": [
+            "OperatingTemperatureMin",
+            "SizeCode",
+            "Resistance",
+            "Tolerance",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0402",
+        "Resistance": "4536mΩ",
+        "Tolerance": "34%",
+        "MfrPartNumber": "VSSR2401392FTF"
+    },
+    {
+        "description": [
+            "511Ω",
+            ".063W",
+            "56%",
+            "0402"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "511Ω",
+        "RatedPowerDissipationP": ".063W",
+        "Tolerance": "56%",
+        "SizeCode": "0402"
+    },
+    {
+        "description": [
+            "10ppm/cel",
+            "0.36",
+            "893mΩ",
+            "R0402"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "Tolerance",
+            "Resistance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "10ppm/cel",
+        "Tolerance": "0.36",
+        "Resistance": "893mΩ",
+        "SizeCode": "R0402"
+    },
+    {
+        "description": [
+            "8610kΩ",
+            ".063W",
+            "53%",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "Resistance": "8610kΩ",
+        "RatedPowerDissipationP": ".063W",
+        "Tolerance": "53%",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "NCT06EF2R4G389TRF",
+            "12%",
+            "511Ohm",
+            "SMT",
+            "RD0402"
+        ],
+        "labels": [
+            "MfrPartNumber",
+            "Tolerance",
+            "Resistance",
+            "PackageStyle",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "MfrPartNumber": "NCT06EF2R4G389TRF",
+        "Tolerance": "12%",
+        "Resistance": "511Ohm",
+        "PackageStyle": "SMT",
+        "SizeCode": "RD0402"
+    },
+    {
+        "description": [
+            "155℃",
+            "Resistors",
+            "0.53",
+            "0.51kΩ",
+            "R0402"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "input class",
+            "Tolerance",
+            "Resistance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "input class": "Resistors",
+        "Tolerance": "0.53",
+        "Resistance": "0.51kΩ",
+        "SizeCode": "R0402"
+    },
+    {
+        "description": [
+            "Res",
+            "8255MΩ",
+            "99%",
+            "RB1206",
+            "-55℃"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "Tolerance",
+            "SizeCode",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "8255MΩ",
+        "Tolerance": "99%",
+        "SizeCode": "RB1206",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "RES",
+            "RJ1206",
+            "7171M",
+            "15%",
+            "7171M"
+        ],
+        "labels": [
+            "input class",
+            "SizeCode",
+            "Resistance",
+            "Tolerance",
+            "Resistance"
+        ],
+        "class": "Resistors",
+        "input class": "RES",
+        "SizeCode": "RJ1206",
+        "Resistance": "7171M",
+        "Tolerance": "15%"
+    },
+    {
+        "description": [
+            "1.78MΩ",
+            "0.58",
+            "1/4W",
+            "R1206"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "1.78MΩ",
+        "Tolerance": "0.58",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1206"
+    },
+    {
+        "description": [
+            "0.56MΩ",
+            "1/4W",
+            "2%",
+            "100ppm"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance",
+            "TemperatureCoefficient"
+        ],
+        "class": "Resistors",
+        "Resistance": "0.56MΩ",
+        "RatedPowerDissipationP": "1/4W",
+        "Tolerance": "2%",
+        "TemperatureCoefficient": "100ppm"
+    },
+    {
+        "description": [
+            "100ppm",
+            "1206",
+            "26100000mΩ",
+            "-55℃"
+        ],
+        "labels": [
+            "TemperatureCoefficient",
+            "SizeCode",
+            "Resistance",
+            "OperatingTemperatureMin"
+        ],
+        "class": "Resistors",
+        "TemperatureCoefficient": "100ppm",
+        "SizeCode": "1206",
+        "Resistance": "26100000mΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "description": [
+            "8828kΩ",
+            "5%",
+            "R1215G-B152L-30KC",
+            "-55℃",
+            "R1206"
+        ],
+        "labels": [
+            "Resistance",
+            "Tolerance",
+            "MfrPartNumber",
+            "OperatingTemperatureMin",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "8828kΩ",
+        "Tolerance": "5%",
+        "MfrPartNumber": "R1215G-B152L-30KC",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R1206"
+    },
+    {
+        "description": [
+            "RJ0502",
+            "0kΩ",
+            "10%",
+            "Y07956K26000C0W"
+        ],
+        "labels": [
+            "SizeCode",
+            "Resistance",
+            "Tolerance",
+            "MfrPartNumber"
+        ],
+        "class": "Resistors",
+        "SizeCode": "RJ0502",
+        "Resistance": "0kΩ",
+        "Tolerance": "10%",
+        "MfrPartNumber": "Y07956K26000C0W"
+    },
+    {
+        "description": [
+            "8022K",
+            "1/20W",
+            "Resistors",
+            "10%",
+            "R0502"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "input class",
+            "Tolerance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "8022K",
+        "RatedPowerDissipationP": "1/20W",
+        "input class": "Resistors",
+        "Tolerance": "10%",
+        "SizeCode": "R0502"
+    },
+    {
+        "description": [
+            "res",
+            "2200000Ω",
+            "10%",
+            "1/20W",
+            "0502",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "input class",
+            "Resistance",
+            "Tolerance",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "2200000Ω",
+        "Tolerance": "10%",
+        "RatedPowerDissipationP": "1/20W",
+        "SizeCode": "0502",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "Y006221K8000V9L",
+            "res",
+            "2%",
+            "300Kohm",
+            "100ppm/℃",
+            "RW0502"
+        ],
+        "labels": [
+            "MfrPartNumber",
+            "input class",
+            "Tolerance",
+            "Resistance",
+            "TemperatureCoefficient",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "MfrPartNumber": "Y006221K8000V9L",
+        "input class": "res",
+        "Tolerance": "2%",
+        "Resistance": "300Kohm",
+        "TemperatureCoefficient": "100ppm/℃",
+        "SizeCode": "RW0502"
+    },
+    {
+        "description": [
+            "7870mΩ",
+            "1/20W",
+            "15%",
+            "RM0502"
+        ],
+        "labels": [
+            "Resistance",
+            "RatedPowerDissipationP",
+            "Tolerance",
+            "SizeCode"
+        ],
+        "class": "Resistors",
+        "Resistance": "7870mΩ",
+        "RatedPowerDissipationP": "1/20W",
+        "Tolerance": "15%",
+        "SizeCode": "RM0502"
+    },
+    {
+        "description": [
+            "贴片电阻",
+            "150℃",
+            "SPD14A4751DS",
+            "8547O",
+            "0.44",
+            "100ppm/℃",
+            "1/20W",
+            "0502",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "input class",
+            "OperatingTemperatureMax",
+            "MfrPartNumber",
+            "Resistance",
+            "Tolerance",
+            "TemperatureCoefficient",
+            "RatedPowerDissipationP",
+            "SizeCode",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "OperatingTemperatureMax": "150℃",
+        "MfrPartNumber": "SPD14A4751DS",
+        "Resistance": "8547O",
+        "Tolerance": "0.44",
+        "TemperatureCoefficient": "100ppm/℃",
+        "RatedPowerDissipationP": "1/20W",
+        "SizeCode": "0502",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "description": [
+            "155℃",
+            "1.74MΩ",
+            "96%",
+            "SURFACE MOUNT"
+        ],
+        "labels": [
+            "OperatingTemperatureMax",
+            "Resistance",
+            "Tolerance",
+            "MountingFeature"
+        ],
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "1.74MΩ",
+        "Tolerance": "96%",
+        "MountingFeature": "SURFACE MOUNT"
+    }
+]

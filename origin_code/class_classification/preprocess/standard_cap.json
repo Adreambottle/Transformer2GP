@@ -1,0 +1,3878 @@
+[
+    {
+        "description": "电容#SMT-C1206-33nF-475uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "18nF-142kV/125℃/CERAMIC/1808",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;22pF;10000000uV;125℃;1808",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1978pF#10V-125℃-SURFACE MOUNT:1808",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0805-0uF;2%-16V/X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;15%:1.8nF:5%_X7R:100000000uV:1210",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors-9885u-5647uV--55℃,15%-1210:X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,6220nF,4466kV,1808",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1210:15%:5997p:9394kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2220nF:9013V;CERAMIC;125℃;2221",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15%;7447nF-10%#X7R#9725m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-7796pF:THROUGH HOLE MOUNT:C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT-9698uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:9888uF#1055uV/10%#C0G/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6920uF_-55℃_125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT#0u_500V-X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP/125℃/33nF/250000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容:8298p#1k:20%:X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "879pF_2kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "30ppm/Cel/1906p/6007V/C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-3724pF-7757u-5%-THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0uF#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_1365uF#50000000u_C2225",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CERAMIC,30ppm/Cel-47nF-66%-C0G-1083k,2225",
+        "class": "Capacitors"
+    },
+    {
+        "description": "82pF,7354kV,-55℃,30ppm/Cel,C1812,C0G,150℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0u:500V_1210",
+        "class": "Capacitors"
+    },
+    {
+        "description": "30ppm/Cel/180pF/2%/C0G/8089uV/SURFACE MOUNT/C1808",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1808:6230uF-5760V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "30ppm/Cel_CERAMIC,1.2n-7065V--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#1986p#SURFACE MOUNT#CERAMIC",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15%#620nF/5%:X7R:5270V#2225",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15%_7262pF,X7R_C1812_7101uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0u,219k,5%,2225,C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0.01uF_6111uV,15%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "30ppm/Cel#2225#6858nF#SURFACE MOUNT#C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-SURFACE MOUNT,8287p,5%,X7R,3000V,C1812",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors;2178u;125℃;15%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT-1726nF-10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2967n:16V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP_ALUMINUM (WET)_7984n_2469mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4700uF;20%;50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#3392nF_1229V#105℃#THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:ALUMINUM (WET)_6996nF:20%:7158m;105℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1642nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4.7u,250V,20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_10u,315000000uV_20%_ALUMINUM (WET)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33000000pF/35V/-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1077pF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-105℃_6946uF_THROUGH HOLE MOUNT_160V_-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_100uF/4948uV/C2412/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/-55℃;9193pF;10%:4280uV;TANTALUM (DRY/SOLID);2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "68u#2917#6V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap_100uF/10V:125℃/2412--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT#1005-9978p--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2010-2370p-5447uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1411/7341pF-8490kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap/-55℃/4.7u/5%/6V_1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1411;3677pF_15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2200nF#-55℃#1411#4326mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors,TANTALUM (DRY/SOLID),125℃,3300nF,SURFACE MOUNT;5908m,2214",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6.8uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,680000pF:5955kV:125℃,-55℃_1510",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/33000000pF/5441mV/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4700000pF;15V/-55℃/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_353n:20%:TANTALUM (DRY/SOLID)-7029k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/-55℃/8028uF_10%/15000mV/2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#9445uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1475uF:50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1505#9710nF-20%-20V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#1505:7742n-5%#20000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "220uF-4051mV--55℃-2917_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容:4.7uF,15V_TANTALUM (DRY/SOLID):SURFACE MOUNT/1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,6208nF;6V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/1055pF/6681V/-55℃/TANTALUM (DRY/SOLID)/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9774pF;4V_125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors,SURFACE MOUNT,7507nF/3376m,5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-68000000pF-125℃-1243mV-C2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8743u:3901mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2.2u,1019uV,20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1000nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "330000000p/4V/125℃#SURFACE MOUNT/2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:2915,47000000p-125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID),4457uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,125℃,9075nF:10V#5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1466uF;10%;25000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_3300n_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3264pF/4226mV/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容:330000pF:20%:6566kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)_8865n_35V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#4213nF:TANTALUM (DRY/SOLID):SURFACE MOUNT:1411:4000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃;470000pF/SURFACE MOUNT/1411_7690k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,7415nF,125℃--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2347pF;3962uV;-55℃;SURFACE MOUNT:2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_2412_6729u_10%_0.02kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:9436pF:6169mV:2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6800nF_-55℃_1411_5361V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容#TANTALUM (DRY/SOLID)#10uF#128k#5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_1000000p_1510-35V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;6800000pF#50000000uV;5%;2917#125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:C1206:8287pF:16V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6641u_16V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,125℃-2592uF-5%-3049kV:-55℃-2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors;397pF;SURFACE MOUNT;9253V#2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap:-55℃/0.68uF:20%/25000mV-1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "127nF_6253mV_-55℃_2917_125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;2841uF-2439V-10%-2917,SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2412;100uF,4623kV;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;10000n_5497mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33000000p#TANTALUM (DRY/SOLID)-0kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap/-55℃/470nF/8802kV:10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2412-TANTALUM (DRY/SOLID)-2647nF-8556mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8154pF-TANTALUM (DRY/SOLID)-SURFACE MOUNT-6V-2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,100u_15V_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-1344pF:15000000u#2915-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#-55℃#8813nF#20%#35V#C2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#-55℃#22000000pF#7175uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;2611;68uF;5%:6000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#125℃;4065nF,-55℃_6672kV-2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT-2005/10uF/0.01k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-TANTALUM (DRY/SOLID)-7810nF-1927uV,SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap_2915_986pF;10%:8299V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1510;1500000pF:25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/2.2uF/3232kV-TANTALUM (DRY/SOLID);125℃/2010",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1048pF,8631uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1005-8101uF-15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,C1411/TANTALUM (DRY/SOLID):2561n,528kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap/100uF/4V/5%/1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/-55℃/TANTALUM (DRY/SOLID)/3300000pF/5%/3947V/1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "22000nF:0.01kV#20%-1411#125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_1206#470nF;5574mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1505#-55℃#330n#2135uV#SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP_C2214_15000nF/5%/10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容#5964p#9785kV#10%#C2915#125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,125℃,TANTALUM (DRY/SOLID),7930nF;10%,6954kV-2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2915;3784n;10%:4V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)_125℃:8636uF;5%_0.04kV_2917_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP-2917-33000000p-5%,25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2915:3452uF:10000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容-7255uF_6609mV#SURFACE MOUNT_2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4594uF:25V;10%:C2915:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2200nF-3987uV-10%-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT-TANTALUM (DRY/SOLID):2200000pF-5%:10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap:125℃:SURFACE MOUNT:7871nF:20%:6042m,-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "680nF#SURFACE MOUNT#4393V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/6.8uF/125℃/TANTALUM (DRY/SOLID)#25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:9058nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors#-55℃-3.3u-TANTALUM (DRY/SOLID),125℃-4351kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT-497pF-20V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7828pF#3463mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-2418pF;3712uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;3782n;5519mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,100nF,9428mV,20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,1uF,25000mV,-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1270nF_-55℃_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;TANTALUM (DRY/SOLID);SURFACE MOUNT;3.3uF:5%;6V;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:2617pF:2693mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:SURFACE MOUNT:8121nF:1505#10000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT;2010_5949uF_10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;9334nF#20V#-55℃/C2915#SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9928pF-15V#10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1510-9033pF,5%#5130uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;47uF;0.01kV;5%;C2611",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,3244n,2779mV,TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID),125℃:4119p:20%:20V;2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_22u_TANTALUM (DRY/SOLID)_1956V_2412:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/9292uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-2036pF--55℃-16V-2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap#5261uF_10%;35000000uV#2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,125℃#760pF#10%#4V#C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1505-0.33uF-9008V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1348nF#4686mV,20%,C2917,TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "100n_0.04kV/1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "22u-4703kV-TANTALUM (DRY/SOLID)-2917-SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1411_7343pF/16000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-15uF#2412#16V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,2.2uF:16000000uV,5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:2917:9135u:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-TANTALUM (DRY/SOLID)-125℃;15u-10%_-55℃-20V-2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap--55℃-3463nF-9395kV-2210-125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-SURFACE MOUNT--55℃-33000000pF-5%-16V-C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors,2412;15uF,20%;4480uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#2412:47uF;3381u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-47uF-7761kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#125℃:SURFACE MOUNT#47u#10%#6489mV#2611",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,125℃,7107nF,25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors_2917_7004nF_5%_25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:10u:5%:5349mV:-55℃:C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#-55℃#TANTALUM (DRY/SOLID)#1.5uF#10%#5209mV#2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8715pF-4V-5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID),SURFACE MOUNT,5727pF,1411,0kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1uF_5681V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,SURFACE MOUNT,503nF,5%,581uV,1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#1u,35000m,5%,125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_SURFACE MOUNT:22000000p:5%:10V:1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_7556nF_25V_10%-SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap:SURFACE MOUNT#7930pF:5772mV/10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors-33000000p_TANTALUM (DRY/SOLID)--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:C2917:33uF-10%/9578mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:33uF_5465V-SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃;7576nF;20%;10V;1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,680n,C1510:671V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_SURFACE MOUNT_5650uF_-55℃_8710mV_1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "22uF,10000000uV_1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_2214/100uF_5%_6111m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors,125℃,2214,8225pF,4V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7920u:5879k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,0805,9928p_4856m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0805;0.68u;7504m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;1610nF,0.01kV;-55℃,2611",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1206-8860p:4544V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)/1411,1368uF#4065V/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2917_125℃_5025pF_0.02kV_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;390n-75V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#8459nF#5151kV#125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP;1.5uF;15V;125℃;1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;470nF;50V:SURFACE MOUNT;-55℃;C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470n#4565V#5%#C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap/3401nF/TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/1048uF/TANTALUM (DRY/SOLID):SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_SURFACE MOUNT_2917_1874uF_2142mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容,8254uF,3067m,5%,2917,-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,2917,4.7uF,4201kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors-125℃-SURFACE MOUNT:150000nF:5%:8047mV:2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "68000nF-9929V-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT;68u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "680nF:20V,10%,C1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,125℃,2164uF,TANTALUM (DRY/SOLID),SURFACE MOUNT#10000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/33uF-5%-10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors;4556n;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-1411-3300000pF/15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1411-330n;10%;50000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容:15000n:20000000uV:-55℃:2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/33uF-20%/2393u,2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP-10uF-4462V--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9802nF-7319uV,5%-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1000nF#5%#35000mV-1510--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_4700nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6821pF;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap:942pF#TANTALUM (DRY/SOLID):175℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_-55℃;68000000p#5%#4948uV#2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#SURFACE MOUNT/15000000pF#5471k_C1411#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP_SURFACE MOUNT_1411_5525uF_1435V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9231uF,7077m:SURFACE MOUNT/2917-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;TANTALUM (DRY/SOLID)_C2917;4326nF;2551kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,3300000pF,5%,565V,1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4939uF/0.02kV/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7867n_35V_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8885uF_8099V_SURFACE MOUNT_1411_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-470uF/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors_33000000pF:1585u;10%:2412#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:1411:15uF#5890mV,175℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7690uF/16000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1206_1000000pF-20%_25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID),2.2uF,1206;8873kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_4988pF/SURFACE MOUNT_2233k_2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)/2917-1175uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/SURFACE MOUNT-TANTALUM (DRY/SOLID)/22000nF;25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)#125℃#3588pF#15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#-55℃#7146n;0.01kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2917/396nF:16V--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "150000000p_10V_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1411/4.7uF;3546V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4.7uF,16V,SURFACE MOUNT:1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors/6339pF/16000000uV/-55℃/C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1411_SURFACE MOUNT_1000nF_50000mV_-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,SURFACE MOUNT,2917,220uF,0k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470n#35V/-55℃,125℃#1411:SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9529nF,1728k;10%,1206,-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-2917-47uF;5%:0.01kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1206;33uF-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/1206_33uF/6V/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;SURFACE MOUNT;1411;9491nF:35V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)-4622u--55℃-SURFACE MOUNT-C1411-4V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_1997p_125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1206-7927u-805uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33uF-8076uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容:125℃:6616nF:5%:7175kV,SURFACE MOUNT:1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4419pF_8404V,10%_1411,-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3637pF_5929V-125℃-2010",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap:47000n:125℃:35V/2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#1391pF#15000000u#10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#4983u#5724m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃,1155n,TANTALUM (DRY/SOLID),C2611,1398kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,15uF/9199mV_20%#1510,SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1206/68000000p#20%#5452mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;6507pF;3203mV;125℃;2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:4.7uF:5%:35000000u:C2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors#SURFACE MOUNT#125℃#100000nF:5%#10000000u#C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8556n,1306V,0603",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6.8uF-20V-5%-C1411#TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/5952p;6000mV;10%;1505;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,6265pF,20V,20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470000pF#6620V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap#TANTALUM (DRY/SOLID)#470uF#10%#4V#SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap-140u:8436uV:SURFACE MOUNT:C2924",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容:SURFACE MOUNT:1000n:20%:10000000uV:C1005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap#125℃;4815nF#10%#7601V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)-C2924_9209u_4345uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors/-55℃;33uF_5%/6V/C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP_22000n_15V_5%_2412--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容#10000000pF/35V/5%/2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#150000000p#88kV#10%#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33uF_9402k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2412_33uF_9480uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "150000nF/8659k/-55℃/125℃#C2917/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-342pF_1452V-2924",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/2412/3432p-35000mV/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP_5002uF_1138m,20%_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:1983pF;50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容-68uF;6000000u,10%,2917,125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "68u:7014mV:20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,2.2uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1505:2200000pF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "10000nF/4V/10%/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)#15000000pF,5%#9928V#-55℃#C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4.7uF:6V:125℃:-55℃:0603",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;22uF;-55℃;TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors_125℃_1.5u_10%_1084uV_0603_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap_125℃_TANTALUM (DRY/SOLID)_5952pF,20%_-55℃_1175kV_1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "769uF_25000mV_TANTALUM (DRY/SOLID)_C2412_125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3.3uF-1496V_2412:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃;1500nF_0603_10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#C0603#-55℃_6583uF#4000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃/10uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;0805;10uF;10%/1554kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;125℃;-55℃;9071nF;TANTALUM (DRY/SOLID);4V;2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容-4700000p,-55℃:15V:2005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/1023nF;4036mV,SURFACE MOUNT-TANTALUM (DRY/SOLID)#2611",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#TANTALUM (DRY/SOLID)#220000pF#35V#5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_C2917,68u_4000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3776nF_16V:5%_0603_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33000nF:15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-4671pF-8548V-125℃-2412-SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;4762nF#7616V#5%#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1505;8895p#15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1206:SURFACE MOUNT:1000000pF:0.04k:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470uF:-55℃;3957kV;2917-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap/-55℃/3917uF/20%/TANTALUM (DRY/SOLID)/0.01kV/1206/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2924,8910p",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容,-55℃,TANTALUM (DRY/SOLID),47uF,25V-C2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1411;22000000pF;847m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6422n,25V,20%,TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors#-55℃#4819pF:5%,10V#2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,8915pF,5%,1189kV/2924",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors;2214-8373p-4194k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容,10uF-TANTALUM (DRY/SOLID)-5314uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#SURFACE MOUNT_33000000pF/-55℃/4211m/C2010",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors/4849p/5308m/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7737n;TANTALUM (DRY/SOLID)_C1005_35000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,SURFACE MOUNT-22000n,5%,20V/-55℃#2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2721-4474uF_20%;1386uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)--55℃#4457nF-5%-4401V-2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:-55℃:2696nF:1411/6V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2915_220uF_1243uV_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "10000nF:5%:239uV:TANTALUM (DRY/SOLID):1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470nF;7429V;1411#125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "213pF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8814nF;10%;25V_C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_SURFACE MOUNT_TANTALUM (DRY/SOLID)_22000000pF_125℃,2412/6000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2106u/1135mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:8458u:20%:20000000uV:C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;168p;1417mV;SURFACE MOUNT;-55℃;2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:1411:1.5uF:35V:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_150uF;6V;SURFACE MOUNT;-55℃;2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,8000000pF/POLYPROPYLENE;CHASSIS MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2917#2679u#10%#10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:1594uF:20%:25000000uV:1510-125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#TANTALUM (DRY/SOLID)_2099uF:SMT:20V:2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "12uF;10%--25℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2917,8840uF;9709u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,150u,9295mV,5%,C2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "5328pF/10%/4415m/C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2412-4812nF#10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:2449u;5%;125℃;9800uV;C2412;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "47000000pF-3598mV:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4276nF#20V#20%#C2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#2075nF_2541uV_10%_C2915/TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8642nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#-55℃#8279uF#20%#16V#C2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,935uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7204pF-0.01kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)/-55℃-33000000pF/6212mV/C1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SMT/2012:1334nF/7040mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/2915/6.8u/35V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/10uF/TANTALUM (DRY/SOLID)/15000mV/2214",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2915#47000nF_5%_4940kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3333/47uF_0.06kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "85℃,5784n,Z5U,0805,3988V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "85℃:-25℃:5935uF:POLYPROPYLENE",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2917#100000000p#2635V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-2585pF;1153V-10%-C2917-125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0.22uF#50000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2917_302nF_15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)/2917,1184u,10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors#15000nF#25000mV/20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "5895uF;6V;20%-C1411;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:C2917:220uF,1666V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap/220u/1925k/125℃/2924#SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15000nF:10%:702V:SURFACE MOUNT:1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT;3792nF;6310V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_125℃:1383pF:4849uV/10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,SURFACE MOUNT-C2924-2976nF-10000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)-470000pF_20%_7476uV_1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "5930uF:10V#TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP;SURFACE MOUNT;7pF;25000000uV;1005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-125℃-4983pF-SURFACE MOUNT-8049V-2005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT;1079uF-125℃-25000000u:C1005/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors_-55℃:10000n_10%_10V_1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1.5uF/15V:5%/C1005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-2412:6014uF:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;22uF;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "78nF-SURFACE MOUNT,C1411,35V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8661pF;25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,2973uF:6000mV,5%#C1005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap:125℃_9925p:5%:9368V:1005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,C2214,22uF#4936kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap_-55℃,125℃_10uF_2412_1681m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "330u_6V_20%,C2915#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15uF,10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8793u/5943uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;1005;2.2u#5%;3105kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:C2721:125℃:9461uF-445kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_6193nF_15000mV_TANTALUM (DRY/SOLID)_C1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP:SURFACE MOUNT;4402p#20%;6224kV_C2005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-7783n",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/-55℃;1uF/1005/5597V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap:125℃,2200000p:10%:10V:TANTALUM (DRY/SOLID):1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP;1510;348p/5%,0.01kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-SURFACE MOUNT/128pF/TANTALUM (DRY/SOLID)/-55℃/4V/2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃,5601p-20%,5203mV,2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8777uF/50V/20%/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3200pF/6000000u/10%/2917/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_5476pF:TANTALUM (DRY/SOLID)_1400V_2917,-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_3578pF:15V_20%_-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,TANTALUM (DRY/SOLID)/4620nF,6V,1411;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors/2869pF/TANTALUM (DRY/SOLID)/6423u/2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "220uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容#220000000pF#954mV#10%#C2917,TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)_320p_20%/5679mV_2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15000nF:4V#1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃;4671nF:THROUGH HOLE MOUNT:7584uV:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP_9574n-6V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/TANTALUM (DRY/SOLID)/33uF/20%/15V_SURFACE MOUNT/2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:C2005:6.8u:TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4523nF#25V;SURFACE MOUNT;1505;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6800n/3101mV/20%/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容--55℃-SURFACE MOUNT-6990pF-10%,0.02k,2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:2412:4390nF#10%,4951kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#330uF-8414uV_TANTALUM (DRY/SOLID)-2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "47uF:20V_10%:C2917:TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "150000000pF;7001m;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2214;10000000pF;15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP--55℃;3707uF-20%,SURFACE MOUNT-9929kV-1206-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33000000pF_15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#6.8uF#5%_3268m#TANTALUM (DRY/SOLID)#1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP-125℃-SURFACE MOUNT-6.8uF_3436m-2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT_C2917_8411pF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap-SURFACE MOUNT-TANTALUM (DRY/SOLID)-6.8u-1505-6V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "904p_8893V_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)#1005;1500nF#6V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8374u:2915#9885V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2620uF;3161kV;10%;2005;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,125℃,47uF,5%,8596mV,C2721",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors-C1505-5580n-20000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容:-55℃:1.5uF:20V,20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,4023uF;-55℃,4912kV,1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#125℃,1206/4677uF#6300000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap#2010_3.3uF_7427k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1206,2623u,10V,SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/3755nF_-55℃_1206_6.3V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#125℃#-55℃#1441nF-10%#50V#C2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_SURFACE MOUNT_8580p_20%_8070V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP;9173u;7188V;125℃-C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)-C2214-47u-6V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_TANTALUM (DRY/SOLID)_10uF_1568uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap/10000nF/856uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT;2915;814uF_310mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:4947uF:20V:1005:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;845nF:25000000uV:20%;C2917:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容-2917#330u#20%#8843uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors#68u#6190u#20%_2917#TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470000pF:5895V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15000n,15000mV,TANTALUM (DRY/SOLID),SURFACE MOUNT;C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT;C1411;3300nF,0.03kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1411/3.3uF/10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2917-100u,736uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃#TANTALUM (DRY/SOLID)#3902n#2917#15000000u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8650uF#4V_-55℃_1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)-5507u:4767uV#1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors/47u/125℃/0k/1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1000000p#10V#125℃,TANTALUM (DRY/SOLID);C1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15000000pF_20%_3032kV_C1411/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "142nF_10000000u:20%,1411:TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP;100uF;6898k;C2917,125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1411-3.3uF-9607mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT-150u-TANTALUM (DRY/SOLID)-C2917-15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,SURFACE MOUNT_125℃/7063uF_385uV_C1411_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/SURFACE MOUNT/100000nF/20%/TANTALUM (DRY/SOLID)/0.01kV/2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6276uF:25V:2917,125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,7356uF_10V_20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:125℃#9013pF_10%#35000mV:2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:5089n:8768uV:-55℃:TANTALUM (DRY/SOLID):2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap--55℃;33000nF#SURFACE MOUNT-8446u-C2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6.8uF_3283k,TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/2412;33uF;175mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP/470n/9188V/5%/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4029p-5272u;-55℃_SURFACE MOUNT-2917#TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;7124pF;10000000u;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6.8uF_4921V:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃;-55℃;3300000pF;6V;1206;SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap/-55℃/3074n/5%/7870V/C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:470nF:3584uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,1005,3.3uF,5%,4V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/4.7uF/1206:6000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6821n;16V:5%;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)-68u#2611-6852k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃#4.7uF#125℃#10V#2005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_15000000pF_5%_4494k_SURFACE MOUNT_2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-2924-1405pF-20%-16000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap-1u#4151mV#5%#1206#TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#470uF-4V:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID),C2611:9479pF/7370uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "47000nF,8076V,TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:125℃;TANTALUM (DRY/SOLID)_220uF_5%_7031kV_2915_-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;33000nF;SURFACE MOUNT#-55℃;6119uV_2214-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)-C2915_47000000pF-15V/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃#125℃#33000n#6766mV#2214",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors#C2005-6055pF-20%-8681mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "5182pF#4V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT-2830pF:1096kV:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃/SURFACE MOUNT:8773nF:5%:20V:2214",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)#1978uF;125℃;35V;1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:TANTALUM (DRY/SOLID),223uF:5%_9142m:2924",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1.5u/3840u#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,1000000p,2010#50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;C2721,150000nF;5%,9663k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,1005_1.5uF,15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2200000pF:957V/SURFACE MOUNT;2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)/125℃;22uF;5%;910uV;1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#2005#9295pF#5%#4000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2116pF:4000000uV:10%:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "5184uF-3257mV-125℃-C1206-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_-55℃_1500000pF,15000000uV-1505#TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:C1505:SURFACE MOUNT:8000nF:15V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:22uF#6V#TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/C1411/1297nF/10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap_680000pF:50V_125℃_2412_-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)_10uF-7816k_5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8578p_3291V:TANTALUM (DRY/SOLID):1206:SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8272p;10V;TANTALUM (DRY/SOLID);125℃;1206,-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap_-55℃#330uF#SURFACE MOUNT#TANTALUM (DRY/SOLID)#10V#2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2917/80n/0.04kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "10uF;10V;-55℃#1411;SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2917-5658nF;SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors,125℃,SURFACE MOUNT/681nF;5%,6000mV,2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP-68uF-2214V-2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;SURFACE MOUNT;33000000p;5%_-55℃;3714V;2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:100nF-10%-35V-C1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_1206;3706u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "150000nF_15V:5%_2924_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "330000000p,10V,-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap#100000nF#6922V#20%#2917#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#C1411,TANTALUM (DRY/SOLID),6800nF#6299uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6415n:2031V;20%,SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "877pF#10V_125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2066uF,10V,-55℃,1411,TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,100uF,125℃:2917:15000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors-125℃-470n,-55℃:5422k-1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_2412_330n",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2924:47uF:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃;TANTALUM (DRY/SOLID):3578nF;C2412;566m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,5086uF,1074mV,5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-2513p-125℃-737V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_125℃_6596uF:5%_7973uV_2010",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2291pF;6903uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1505#220n:5698V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-3978pF#798V#20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)/4.7u/125℃/4349mV/C1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors;5909uF;2491kV;5%;2214_SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃;2.2uF;5%,5900m;TANTALUM (DRY/SOLID);1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容-10000000p-4463k-5%;2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,1505-5021pF_5%_109V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP;125℃;7953uF;TANTALUM (DRY/SOLID);9200V;1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP_-55℃_SURFACE MOUNT;100u/TANTALUM (DRY/SOLID)_4V_1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_2471pF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID);C2010-4.7u/2780mV;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_TANTALUM (DRY/SOLID)#125℃#7849u#SURFACE MOUNT#C2412_299kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1005_9483u_10%#20000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_2214#-55℃_47u_3435u_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2330n#6303mV-20%#2214",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#10000000pF_-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/-55℃/125℃-8939pF/5%#0.01k/C2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3300n-5%/10V-C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID),470000pF-50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1411-6375pF-9362V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15uF-9695mV:SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap-2285u/8769m-10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2721;22uF;4133mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8899uF-C2412,5003m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#849nF#50V#2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,C2412;680n,20%/50000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP:TANTALUM (DRY/SOLID)/3607uF:SURFACE MOUNT/-55℃:16V:2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap_1uF_TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-1500n#6765uV#125℃#TANTALUM (DRY/SOLID)#1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃#C1411:1943u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃:TANTALUM (DRY/SOLID):68uF:5%:SURFACE MOUNT:483uV:1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8035pF,0.02kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)#4795nF--55℃,6553kV,C2412,125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)#15000n#2412#2716kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2.2uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;330uF;10V;5%#2917;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT--55℃-3216nF_5%,35V-2917-TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15uF-2412;35000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,125℃-6124p_SURFACE MOUNT#16V,1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容#3.3uF#SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6772pF;SURFACE MOUNT;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:33uF#6.3V#20%;C1206:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "363p,4V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1206/68u#4000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT-8604pF#10%_6V#-55℃#C1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470000pF-10000m-125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/0603,5602nF-1463uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/125℃/470000pF/0603,0.02k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "10000000pF:16V:-55℃:125℃:0805:TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:SURFACE MOUNT#9644pF:10%:10V:0603",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT--55℃-22uF,C0805-4V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-2272uF:6788kV:10%:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2200nF,10%,2678mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_-55℃_1500000pF_TANTALUM (DRY/SOLID)_2680u_C2005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0.68uF/20V-5%-1005-125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:5676u:SURFACE MOUNT-16000mV/2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/125℃,SURFACE MOUNT,33u,10%#6V_2010/TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃/470000pF/3508m/20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1206,4700nF:5106uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_TANTALUM (DRY/SOLID)-125℃-220000000pF-10%-4V;C2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT_6800000pF_20%;4V;2005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#125℃#22000000pF#5%:SURFACE MOUNT-20V#2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "5527pF,25V,5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,125℃,4244pF,5%_0k,C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:5008uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;8444uF;3146uV_-55℃;2010",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap:-55℃/6012pF-10%,SURFACE MOUNT;15V:2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4700000p-4585uV#10%#2915#125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2915;1088pF;5747u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/-55℃/3300nF/10%#15V/C1510",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2711;5970uF#10%#5583mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "TANTALUM (DRY/SOLID)#735n",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-125℃;3074uF-10%--55℃-15V-1005",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#TANTALUM (DRY/SOLID)#125℃#3199uF#2005-25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors#5643u;35V:TANTALUM (DRY/SOLID)#C2010",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9698p,10000mV,-55℃,0603#125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3898u#5%#139V#2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT_1u_0.05kV_1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_1206_3319pF,20V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2917#973u-5%,1464k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0n-50000000u-12%-1306:C0G-CERAMIC",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃;SURFACE MOUNT-5622pF-5%:9474u-2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃/47000n/-55℃/SURFACE MOUNT/725V-2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1206/68000000pF#532u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "10uF#7686kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors,SURFACE MOUNT,150uF,10V;10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT#TANTALUM (DRY/SOLID)#8088pF#2917,6V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1411,6630uF,6000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容_15000000pF_6646V_5%_1411_125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容/798u;5900uV/20%/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:47u:10%_0kV_C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容,8039pF#10V,TANTALUM (DRY/SOLID),C1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_220000000pF,3849mV,125℃,2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_220000nF/2609mV/5%/2917/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-SURFACE MOUNT-9930pF-7397uV-2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;-55℃;33uF;125℃;10V-C2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP-1721n-5753m-10%-2010-125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "ALUMINUM (WET)/180000000p/0.06kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT:47000000pF#-40℃:2778V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "180000nF_25000mV_-40℃_THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT-105℃_427n,20%_2557uV/ALUMINUM (WET)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/-55℃_7159uF/5%/TANTALUM (DRY/SOLID)/1289kV/1411",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_-40℃_470000pF#5611mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT;-55℃;5277uF;125℃;16V;1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#1uF#705m#5%#TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;THROUGH HOLE MOUNT/ALUMINUM (WET),4286nF,20%,350V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP/4.7uF/50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_15u_428kV_THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CERAMIC-2737uF-100000mV#C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9.1uF/100000mV/-55℃,15%:X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "ALUMINUM (WET),1uF,400000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;5224uF:20%;7609V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT,228nF_CERAMIC;X7R;100V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4938nF:CERAMIC:7068kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "300nF;5911m;30ppm/Cel;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#9366uF:100V:5%:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;125℃;CERAMIC;2611uF/-55℃;X7R;500V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15%#13000nF;X7R#100000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "180uF-8865V:5%_THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1000000000pF-35000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "100uF-TANTALUM (DRY/SOLID)-SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2638uF,5321V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃;CERAMIC;2.7uF;10%;X7R;1681kV;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "X7R,3046u,5591u,CERAMIC",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CERAMIC,4.3uF/585mV/X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容,33uF,125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2917:125℃:220000nF_6V:SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP/SURFACE MOUNT:5811nF/CERAMIC/BX/15%/1206/2869V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C1725/2727nF#80%#8482uV#Y5V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#9687nF_80%_X7R_525V-0612",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/2476pF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "68nF#16V#SMT#SURFACE MOUNT#0603#X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃;6.8nF;20%_X7R_5000V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:15%#180pF;20%-X7R;1k-2225;CERAMIC",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:0.02uF;SURFACE MOUNT:5100kV:0504",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT/125℃_10nF/C0G;16V;C1812;SMT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_3.3pF_7806u_30ppm/Cel:CERAMIC_0805,C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT_0.01u#X5R_1812_25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7215pF_500V:X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4973uF#10V/80%/C0403/Y5V/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1938u;25V:20%:0504-C0G:125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/SURFACE MOUNT/0.04uF/485uV#2%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃;0504_27pF;9477mV,C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0.24u_SURFACE MOUNT-200℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;0uF:3660m;5%;125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#0805;6712n#54%#50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP,125℃,0.15nF,200V,10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "680pF,9832V,125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CERAMIC,0603#0.62pF,250V,C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6577uF/1042uV_CERAMIC",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;6543nF;25000mV;-82/+22%,C1210;SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "270p/16V#15%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "30ppm/Cel_SURFACE MOUNT#6541pF#10%#UL#200V-C0505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap:4.7nF:2kV;5%:C0G:C2220#30ppm/Cel",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7755uF-50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap-1516uF-2715u-15%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CERAMIC;C1808:0uF;30ppm/Cel;C0G",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1.2uF-0.05kV/73%/Y5V/1209/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT#0504#C0G#2283nF#111kV#125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15%_C0805_1017p--55℃_X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,4141,470000nF,20%_7338V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors:C2915-470000000pF_10%-4V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap_7166nF:3443mV/2915",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP:125℃,3951nF,SURFACE MOUNT,3142mV,C1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,2966u_15V#10%,2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2917,100000000pF-5%_7805uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7667nF,SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃:6492uF/10V/TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-3490nF_6727mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_3300nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP/47uF/4349kV/2924/SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容,6274pF,7702u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors-8662uF-35V-5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#2010#3300000pF#9600u#-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃--55℃-6800nF-TANTALUM (DRY/SOLID)_1505,5644mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,10000n#2323m:10%,C2214:SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#7961pF#3847kV-TANTALUM (DRY/SOLID)_2915#SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃/SURFACE MOUNT/4450pF/TANTALUM (DRY/SOLID)/8454uV/C1005/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#220nF:C1005:672V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;1.5uF;50000mV,125℃;TANTALUM (DRY/SOLID);C2214",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-4534pF-10%-8868m-2010#SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7877pF;SURFACE MOUNT,TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8424pF;20%;6V;2611",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃/851nF_2010/10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#TANTALUM (DRY/SOLID),47uF#10%#4102m-2611",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;-56/+22%;85℃;4533nF;CERAMIC/Z5U;10℃;3754V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "30ppm/Cel;125℃;1749n;CERAMIC;C0G;16V;C0805",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;15%_5711pF;0.98,X7R;7908m#C1206;SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7091u-16V-10%-X7R-0402:SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1476n_926uV_30ppm/Cel_SURFACE MOUNT#0402_C0G_CERAMIC",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容-CERAMIC-15%,3171pF-10%;X7R--55℃#9466k-1812",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP:30ppm/Cel#125℃:4081nF,CERAMIC:C0G:SURFACE MOUNT:1kV:C1825",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0805/4821nF#100000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3.9nF:125℃_4808V#1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "820pF/5k/10%/-30℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C0805;5910u;0.81_5600uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-85℃_4166pF_83%_Y5V_-30℃_2922V_0907",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap:100pF:3kV:5%:C0G:1812:30ppm/Cel",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT;C1206,1981n,100000000uV,BP",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CERAMIC:0402:-55℃:2.2n-6419uV:15%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "47pF_25V_CERAMIC",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap-0.07uF-10%-X5R-9850V-C2225",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容,22000000pF,20%,200V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8732nF-35V-20%-3333;105℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP;THROUGH HOLE MOUNT;4.7u;20%/105℃;450000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7679nF,35V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "5362uF/7500mV/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容,3301pF,-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;105℃#4864uF;50%;425u;-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,7500u:904V/75%/95℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap/470000000pF/2180m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap:680000000pF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors-10000uF-75%/50000000u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4342n#20%:1005k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃-CHASSIS MOUNT-9357n-7.5V;105℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/3.3uF-3177uV#THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容-260uF;ALUMINUM (WET)_5815uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-85℃-100000000000pF--40℃-4069kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2451uF-6762mV-POLYPROPYLENE",
+        "class": "Capacitors"
+    },
+    {
+        "description": "37400pF_0.4kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃_879uF_9626m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃_C1505_0.68u_25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap_15uF_4V/-55℃/SURFACE MOUNT-1505",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap/3688uF/16V-5%/0805/BX/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;2214nF;1826uV;-55℃;0603",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1.5nF-1568kV-1206",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容;27nF;15%;5376mV;2225",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容#0.27n;8727kV;125℃;1210;X7R;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃#8.2n#452mV_10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9977uF#250V:X7R",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,1206_CERAMIC;6854pF;25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "C2225:4700p:10%:7673V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap/0uF#250V#7%#UL:0603#CERAMIC",
+        "class": "Capacitors"
+    },
+    {
+        "description": "30ppm/Cel;2220;C0G,7103uF,600000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "62p;4000V#30ppm/Cel",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容,22000000p,5744V,20%_-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "105℃:ALUMINUM (WET):390u:50%#2439mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4312nF;20%;200000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃#2059uF:20%/25V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "105℃:6778nF:-40℃:0.04kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470n;20%;9319k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃;220u;50V/ALUMINUM (WET)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,105℃#3278uF,8202V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "820uF;1639V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃:820uF_7728V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8972nF/9535V/-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "82u;1571m/THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4818n-10V-30%-THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃/2365uF,20%,2003uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT,ALUMINUM (WET),4397uF_20%_1152V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_1800uF#8715u_20%_105℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8100uF:7909V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8144nF;80V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7095pF/50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "10uF,20%,7084V_1717",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;8083uF;160000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容#10uF#-25℃#8491mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "82nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9894n,10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1531pF,700V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33000pF#20%#75000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap:1461nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4030,5838pF,4879m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,POLYPROPYLENE#12uF#6280u#5%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4899u;85℃:-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "POLYPROPYLENE/3.9uF:250000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "150uF,5010V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-6629uF_400000m-POLYESTER--40℃-85℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3430pF-1054V--40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃_888u_250V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃-85℃-8980nF-20%_POLYCARBONATE-250V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8278pF;400V;20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,-55℃,125℃,47nF,63V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8.2n#400000mV#85℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8307uF-63V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP/-55℃/THROUGH HOLE MOUNT/5600000pF_85℃_POLYCARBONATE_63000000u",
+        "class": "Capacitors"
+    },
+    {
+        "description": "85℃;5591pF_63000mV#10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "232nF_400V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "POLYCARBONATE,6642uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-68nF,3207kV,10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "125℃-1.2uF/250000000uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT_7380pF#10%;630V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6810nF-9150uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT/85℃/7603uF/POLYPROPYLENE/630000m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "56000p#400V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "85℃;0.02uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容;2446pF;85℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1728n#85℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap/9341nF/6549uV/5%/MIXED (PAPER+POLYESTER)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-POLYTETRAFLUOROETHYLENE-4570pF-4437uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃_THROUGH HOLE MOUNT-5587p_0.38_250V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2033pF/8675k;20%/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "POLYCARBONATE,3320pF;85℃_5127uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1032uF:0.04kV/85℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4930pF,0.15k,125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容/9560u_5%-200V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT#105℃:27nF:20%#-55℃:400V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4535nF;9123V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3661pF;THROUGH HOLE MOUNT;50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "MIXED (PAPER+POLYPROPYLENE)#-25℃#4555n_CHASSIS MOUNT,746mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "5.5uF;455V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1224u:400V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "3846uF:8311V,THROUGH HOLE MOUNT/POLYCARBONATE",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT;POLYCARBONATE;4477nF;125℃:5695V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT_1u--55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT-560nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-65℃,22nF-10%-1000000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT-0.34uF-0.25kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "7278nF/8806mV;THROUGH HOLE MOUNT;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT:33000p_5529uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap#8194nF:400V#5%/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "330nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT,2004uF,63V,-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors/82nF/200V/5%/125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2.26u/0.04k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap;2623uF;5%#857uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃#680000pF#10%/9367kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP:4248n:7447uV:POLYPROPYLENE",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6941n",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT#1200nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT:-55℃;1.5nF:10%:100V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_-55℃_4715nF_10%#0.63kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "390000pF/330mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "POLYPROPYLENE;8.2nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃#68nF/10%;THROUGH HOLE MOUNT;2330mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT/3.9uF,100000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃,8360p_5%#5157kV,85℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33nF,100℃,SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15nF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "0.5uF-2k-10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "680nF:5641mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,470nF,600V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "180nF,-40℃#THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "82nF,7712mV,20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "90+/-20ppm/Cel/SURFACE MOUNT;0.01n/175℃/C0606:3849kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容-1.5uF:CHASSIS MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP:THROUGH HOLE MOUNT_390pF_-55℃_1kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "560pF,POLYPROPYLENE/-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "18n_3412mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP/9335p/6998V/62%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "9115u-1.8V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2917:220000n:20%/780kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors-7978nF-2.5V:20%-C2917-SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors;-55℃,8744pF,20%,8048kV,SURFACE MOUNT,2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors#-55℃#47uF#20%#NIOBIUM#4719mV:2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1206,1142uF-0kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap-PLASTIC-1000000pF-2%-200V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "15000nF:630000mV:THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap,9823pF,63000000uV:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容:470nF:9844u:THROUGH HOLE MOUNT:85℃:POLYESTER",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,7779pF:854V,10%#105℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "105℃;2782pF;630000mV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap,3.5uF,5%,5505k,-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "POLYPROPYLENE:CHASSIS MOUNT:1uF:1.3k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Cap/-55℃/5434n/20%/0.05kV:SURFACE MOUNT/2824",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap;1545nF;735uV;SURFACE MOUNT:2412",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容:-55℃_984pF:714V:10%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors_POLYPROPYLENE,672pF_-25℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors,27000pF/183uV;-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-55℃/6.8uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT_4105pF_10%#1.6kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "POLYPROPYLENE;8.2uF;20%;-55℃;8172kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-65℃,2706uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "POLYPROPYLENE,3900000pF,400V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6073nF/400V_10%-POLYPROPYLENE",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃;85℃,820uF_200V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4601nF,5273V_20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP_470nF-2537mV--40℃-THROUGH HOLE MOUNT-ALUMINUM (WET)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1uF/20%/200V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "100uF/2100V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT#1uF#50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2957n:400V,105℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "cap#105℃#-40℃#33000000pF#20%/50V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "ALUMINUM (WET)#2746uF--40℃;4631m-105℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "470uF_0.03kV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT/15uF;6617uV",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容:2005_1651n/5%#2489V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "85℃;6800uF",
+        "class": "Capacitors"
+    },
+    {
+        "description": "CAP#ALUMINUM (WET)-5217nF/20%#7623mV-125℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "THROUGH HOLE MOUNT-470u:35V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "8533uF;2917;0.02k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33000000p/7527V;10%;2412:TANTALUM (DRY/SOLID)",
+        "class": "Capacitors"
+    },
+    {
+        "description": "SURFACE MOUNT,2917-1291nF,5531uV:-55℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "1430uF;63V;20%;THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "6362pF_THROUGH HOLE MOUNT_-40℃",
+        "class": "Capacitors"
+    },
+    {
+        "description": "105℃,3571nF,-40℃;10V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "Capacitors;125℃;6829nF,SURFACE MOUNT,2917,8248k",
+        "class": "Capacitors"
+    },
+    {
+        "description": "贴片电容_105℃_470000000pF_0.32k_20%",
+        "class": "Capacitors"
+    },
+    {
+        "description": "33000000pF;35V,20%;C2917;SURFACE MOUNT",
+        "class": "Capacitors"
+    },
+    {
+        "description": "电容:125℃:SURFACE MOUNT:33000000pF:-55℃:2016uV,2917",
+        "class": "Capacitors"
+    },
+    {
+        "description": "-40℃/3530nF/40V",
+        "class": "Capacitors"
+    },
+    {
+        "description": "2200uF_75%_54m",
+        "class": "Capacitors"
+    },
+    {
+        "description": "4700u:738u:-40℃,105℃:THROUGH HOLE MOUNT",
+        "class": "Capacitors"
+    }
+]

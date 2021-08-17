@@ -1,0 +1,6343 @@
+[
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "PackageStyle": "SMT",
+        "Resistance": "32Ω",
+        "Tolerance": "5%",
+        "RatedPowerDissipationP": ".33W",
+        "SizeCode": "R1210",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "240000000mΩ",
+        "Tolerance": "75%",
+        "RatedPowerDissipationP": ".063W",
+        "SizeCode": "0402",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "1110",
+        "Resistance": "5013kΩ",
+        "Tolerance": "75%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Tolerance": "0.2",
+        "Resistance": "8746Kohm",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "R1206",
+        "Resistance": "119Ω",
+        "Tolerance": "2%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "0602",
+        "Resistance": "0.67kΩ",
+        "Tolerance": "19%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "0.04MΩ",
+        "Tolerance": "10%",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "2814kΩ",
+        "Tolerance": "13%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9362Ω",
+        "Tolerance": "0.2",
+        "OperatingTemperatureMin": "-50℃",
+        "PackageStyle": "SMT",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "0.02kΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "39%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1005"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4741O",
+        "Tolerance": "2%",
+        "SizeCode": "R2010"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "3313mΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "0.49"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.89",
+        "Resistance": "0.01kΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "8180GΩ",
+        "OperatingTemperatureMax": "125℃",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1107",
+        "TemperatureCoefficient": "-10,10"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "2158G",
+        "Tolerance": "49%",
+        "SizeCode": "6940",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "9390GΩ",
+        "Tolerance": "0.41",
+        "RatedPowerDissipationP": "1/2W",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "1779K",
+        "OperatingTemperatureMin": "-50℃",
+        "TemperatureCoefficient": "-200,200",
+        "SizeCode": "3512"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "5",
+        "Resistance": "1807MΩ",
+        "Tolerance": "38%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2.7kΩ",
+        "Tolerance": "5%",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "740mΩ",
+        "Tolerance": "52%",
+        "PackageStyle": "SMT",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "825000Ω",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "64%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0704"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "PackageStyle": "SMT",
+        "Resistance": "51.7kΩ",
+        "Tolerance": "72%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805",
+        "Resistance": "0G"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1.35kΩ",
+        "Tolerance": "0.82",
+        "RatedPowerDissipationP": ".33W",
+        "SizeCode": "1210"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "27.1Ω",
+        "TemperatureCoefficient": "-100,100",
+        "Tolerance": "3%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "SizeCode": "0505",
+        "Resistance": "4714G",
+        "Tolerance": "37%"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "SizeCode": "R4422",
+        "Resistance": "16.4kΩ",
+        "Tolerance": "0.87"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "4073K",
+        "PackageStyle": "SMT",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "R1005"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Tolerance": "52%",
+        "Resistance": "1684mΩ",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "62.6kΩ",
+        "Tolerance": "83%",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "2612"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "29.4kΩ",
+        "Tolerance": "2%",
+        "SizeCode": "R0805",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "2314M",
+        "Tolerance": "0.58",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-200,200",
+        "Resistance": "3719Ω",
+        "SizeCode": "R1210"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "6778Ohm",
+        "SizeCode": "0502"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "PackageStyle": "SMT",
+        "Tolerance": "19%",
+        "Resistance": "8695K"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2512",
+        "Resistance": "976000mΩ",
+        "Tolerance": "30%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "89%",
+        "Resistance": "3870MΩ"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-2,2",
+        "Tolerance": "0.15",
+        "Resistance": "6018mΩ",
+        "PackageStyle": "SMT",
+        "SizeCode": "2917"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "271mΩ",
+        "Tolerance": "0.87",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "-25,25",
+        "SizeCode": "2110"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R3535",
+        "Resistance": "0GΩ",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "43.2Ω",
+        "Tolerance": "0.0",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1909"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "0.09Kohm",
+        "Tolerance": "0.71",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0805",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "PackageStyle": "SMT",
+        "Resistance": "82Ω",
+        "Tolerance": "2%",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "46.4Ω",
+        "Tolerance": "0.19",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.46",
+        "Resistance": "9311kΩ",
+        "SizeCode": "0505"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "523Ω",
+        "Tolerance": "90%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "3990O",
+        "Tolerance": "0.64",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6305Ω",
+        "Tolerance": "0.73",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3979kΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "68%",
+        "SizeCode": "R0603",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "SizeCode": "1505",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.79",
+        "Resistance": "1290Ohm"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0805",
+        "Resistance": "806kΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6434Kohm",
+        "Tolerance": "54%",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "1505",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "0GΩ",
+        "SizeCode": "1210"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "1133Ohm",
+        "Tolerance": "0.62",
+        "SizeCode": "1210"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "252GΩ",
+        "Tolerance": "37%",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedPowerDissipationP": "1/25W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "5046Ω",
+        "PackageStyle": "SMT",
+        "SizeCode": "R0402",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1010",
+        "TemperatureCoefficient": "25",
+        "Tolerance": "0.78",
+        "Resistance": "759000Ω"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.98",
+        "Resistance": "2362kΩ"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R1209",
+        "Resistance": "8381Ω",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "5284MΩ",
+        "Tolerance": "0.54",
+        "TemperatureCoefficient": "50",
+        "RatedPowerDissipationP": "1/16W",
+        "SizeCode": "0603",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0805",
+        "Resistance": "560Ω",
+        "Tolerance": "10%",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-300,300",
+        "Resistance": "16200Ω",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "7036kΩ",
+        "Tolerance": "32%",
+        "RatedPowerDissipationP": "1/25W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R0603",
+        "Resistance": "8528K",
+        "Tolerance": "0.94"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "3482kΩ",
+        "Tolerance": "79%",
+        "SizeCode": "1210",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "4070kΩ",
+        "Tolerance": "0.15",
+        "SizeCode": "R0505",
+        "TemperatureCoefficient": "-25,25"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "6038kΩ",
+        "Tolerance": "82%",
+        "TemperatureCoefficient": "-50,50",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "3535"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "7.5MΩ",
+        "RatedPowerDissipationP": "1W",
+        "Tolerance": "0.58"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "R0805",
+        "Resistance": "25.5Ohm",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "29.4kΩ",
+        "Tolerance": "0.32",
+        "SizeCode": "2412",
+        "OperatingTemperatureMax": "175℃"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.83",
+        "Resistance": "130kΩ"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "R1206",
+        "Resistance": "7527mΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "107MΩ",
+        "Tolerance": "10%",
+        "SizeCode": "5020"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2.43kΩ",
+        "Tolerance": "65%",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9339MΩ",
+        "Tolerance": "0.86",
+        "SizeCode": "R2010"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "8036M",
+        "RatedPowerDissipationP": "1/5W",
+        "Tolerance": "10%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "72300000mΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9991M",
+        "Tolerance": "2%",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "8748K",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "10%"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "3MΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "7723GΩ",
+        "Tolerance": "96%",
+        "RatedPowerDissipationP": "3/50W",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "3987MΩ",
+        "SizeCode": "0505"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "9100mΩ",
+        "Tolerance": "31%",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "200Ω",
+        "PackageStyle": "SMT",
+        "Tolerance": "2%",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "5.11kΩ",
+        "OperatingTemperatureMax": "155℃",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0402",
+        "TemperatureCoefficient": "-10,10"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "16.9O",
+        "Tolerance": "20%",
+        "SizeCode": "R1210",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "100",
+        "Resistance": "698mΩ",
+        "Tolerance": "5%",
+        "SizeCode": "2010",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "Resistance": "9844mΩ",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "0MΩ",
+        "Tolerance": "2%",
+        "TemperatureCoefficient": "-100,100",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "0707",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "16.4Ω",
+        "Tolerance": "0.68",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "2512",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "5249Kohm",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT",
+        "SizeCode": "R0805",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "2672kΩ",
+        "Tolerance": "5%",
+        "SizeCode": "2512",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-100,100",
+        "Resistance": "16M",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "2804Ω",
+        "SizeCode": "2707"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "SizeCode": "1909",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.27",
+        "Resistance": "6186GΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4691GΩ",
+        "Tolerance": "0.07",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0505"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "184000Ohm",
+        "Tolerance": "6%",
+        "SizeCode": "0603",
+        "TemperatureCoefficient": "-25,25"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "39Ω",
+        "Tolerance": "0.04",
+        "SizeCode": "0402",
+        "TemperatureCoefficient": "-500,500"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "2512",
+        "Resistance": "196Kohm",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "SizeCode": "1210",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "25%",
+        "Resistance": "17.2K"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "3226GΩ",
+        "PackageStyle": "SMT",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "SizeCode": "0805",
+        "Resistance": "33.2kΩ",
+        "Tolerance": "5%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1.89kΩ",
+        "Tolerance": "0.75",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "SizeCode": "0402",
+        "Resistance": "1297mΩ",
+        "Tolerance": "0.86"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "7256MΩ",
+        "Tolerance": "43%"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "200",
+        "Resistance": "430000000mΩ",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "1301mΩ",
+        "Tolerance": "52%",
+        "SizeCode": "R1210",
+        "TemperatureCoefficient": "-25,25"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "6914Ω",
+        "RatedPowerDissipationP": "1/10W",
+        "Tolerance": "0.62"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "R0805",
+        "Resistance": "3702MΩ",
+        "Tolerance": "1.0"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R3207",
+        "Resistance": "5664MΩ",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "OperatingTemperatureMax": "150℃",
+        "Tolerance": "0.52",
+        "Resistance": "5027Ohm",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6710mΩ",
+        "Tolerance": "62%",
+        "SizeCode": "1605"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9460G",
+        "Tolerance": "0.29",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "OperatingTemperatureMin": "-55℃",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "6768kΩ",
+        "Tolerance": "2%",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4183GΩ",
+        "OperatingTemperatureMax": "150℃",
+        "Tolerance": "0.19",
+        "SizeCode": "R2612"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "R2512",
+        "Resistance": "2.15MΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "25",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.44",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "249Ohm",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "5",
+        "SizeCode": "0805",
+        "Resistance": "5534MΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0kΩ",
+        "Tolerance": "0.21",
+        "SizeCode": "0202",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R0805",
+        "OperatingTemperatureMax": "150℃",
+        "Tolerance": "47%",
+        "Resistance": "5170Kohm"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-200,200",
+        "Resistance": "1669G",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "7230mΩ",
+        "Tolerance": "0.68",
+        "SizeCode": "2512",
+        "TemperatureCoefficient": "50"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2.2Ohm",
+        "TemperatureCoefficient": "-100,100",
+        "Tolerance": "5%",
+        "RatedPowerDissipationP": "4/5W",
+        "SizeCode": "R2110"
+    },
+    {
+        "class": "Resistors",
+        "Tolerance": "58%",
+        "Resistance": "9770Kohm",
+        "SizeCode": "R0505"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-15,15",
+        "SizeCode": "1210",
+        "Resistance": "3090mΩ",
+        "Tolerance": "0.54",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "12.3kΩ",
+        "Tolerance": "0.71",
+        "SizeCode": "0202",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "SizeCode": "0805",
+        "Resistance": "4543kΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "5457M",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "0.34",
+        "RatedPowerDissipationP": "1/2W",
+        "SizeCode": "1010"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-100,100",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.84",
+        "Resistance": "2214GΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "2612",
+        "OperatingTemperatureMax": "150℃",
+        "Tolerance": "100%",
+        "Resistance": "8485G"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "36.1kΩ",
+        "Tolerance": "0.4",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8124MΩ",
+        "Tolerance": "45%",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "2512",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "1010",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "0.01",
+        "Resistance": "1.01K"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9.76K",
+        "Tolerance": "34%",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-100,100",
+        "SizeCode": "1005"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0402",
+        "Resistance": "105Ω",
+        "Tolerance": "0.17"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "Resistance": "1738mΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "87%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.81"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "R2208",
+        "Resistance": "2991mΩ",
+        "Tolerance": "0.34"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "TemperatureCoefficient": "50",
+        "Tolerance": "13%",
+        "Resistance": "8578GΩ",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "0502"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.21",
+        "Resistance": "1816kΩ",
+        "TemperatureCoefficient": "5",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "OperatingTemperatureMin": "-65℃",
+        "Resistance": "35700000mΩ",
+        "TemperatureCoefficient": "-25,25",
+        "Tolerance": "40%",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-.2,.2",
+        "Tolerance": "95%",
+        "Resistance": "0.1kΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "9495GΩ",
+        "Tolerance": "2%",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "R1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "54%",
+        "Resistance": "1.23K",
+        "TemperatureCoefficient": "-.2,.2"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "OperatingTemperatureMin": "-50℃",
+        "Resistance": "4420000mΩ",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.64",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1607",
+        "Resistance": "4477G",
+        "Tolerance": "2%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "PackageStyle": "SMT",
+        "Tolerance": "20%",
+        "Resistance": "4690kΩ",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "357Ω",
+        "PackageStyle": "SMT",
+        "Tolerance": "66%",
+        "SizeCode": "1607"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "149GΩ",
+        "Tolerance": "83%",
+        "SizeCode": "0603",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "17.4Ω",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "815GΩ",
+        "Tolerance": "0.14",
+        "SizeCode": "1605"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "9645kΩ",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0805",
+        "Tolerance": "83%",
+        "Resistance": "0MΩ"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "0kΩ",
+        "RatedPowerDissipationP": "3W",
+        "Tolerance": "63%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "7.06K",
+        "Tolerance": "23%",
+        "SizeCode": "1206",
+        "OperatingTemperatureMax": "85℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-10,10",
+        "Resistance": "8866G",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.77",
+        "Resistance": "7569MΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Tolerance": "0.56",
+        "Resistance": "4931MΩ",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "SizeCode": "R0805",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "5%",
+        "Resistance": "136K"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "6860O",
+        "Tolerance": "0.16",
+        "RatedPowerDissipationP": "3/4W",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2715mΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "49.3kΩ",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0603",
+        "Resistance": "1889kΩ",
+        "Tolerance": "5%",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2940kΩ",
+        "Tolerance": "0.72",
+        "SizeCode": "2612",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "370kΩ",
+        "Tolerance": "0.88",
+        "SizeCode": "R0603",
+        "TemperatureCoefficient": "100"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1.2MΩ",
+        "Tolerance": "10%",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "1218",
+        "TemperatureCoefficient": "100"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "1.14kΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R1010",
+        "Resistance": "5959GΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "SizeCode": "R0805",
+        "Resistance": "36kΩ",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "0.43MΩ",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "13%",
+        "SizeCode": "R1206",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "8612MΩ",
+        "Tolerance": "61%",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "-200,200",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R0505",
+        "Resistance": "32kΩ",
+        "Tolerance": "36%",
+        "TemperatureCoefficient": "-50,50"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "6320G",
+        "Tolerance": "99%",
+        "SizeCode": "R2512",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1203M",
+        "Tolerance": "75%",
+        "TemperatureCoefficient": "50",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "SizeCode": "0603",
+        "Resistance": "787000Ω",
+        "Tolerance": "67%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "360000000mΩ",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "357kΩ",
+        "RatedPowerDissipationP": "1/10W",
+        "Tolerance": "26%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "1430000mΩ",
+        "TemperatureCoefficient": "-100,100",
+        "Tolerance": "0.94",
+        "RatedPowerDissipationP": "1/25W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0.06kΩ",
+        "Tolerance": "0.33",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "6735kΩ",
+        "RatedPowerDissipationP": "1/16W",
+        "Tolerance": "33%"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "Resistance": "5510mΩ",
+        "RatedPowerDissipationP": "1/4W",
+        "Tolerance": "3%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "5079mΩ",
+        "Tolerance": "0.85",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "332Ω",
+        "Tolerance": "0.04",
+        "SizeCode": "R0202"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3864kΩ",
+        "Tolerance": "0.7",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "2512",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "85℃",
+        "Resistance": "632Ω",
+        "RatedPowerDissipationP": "1/20W",
+        "Tolerance": "92%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0MΩ",
+        "TemperatureCoefficient": "-.2,.2",
+        "Tolerance": "0.1",
+        "SizeCode": "R2018",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "12000K",
+        "Tolerance": "2%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "96%",
+        "Resistance": "294K",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "44mΩ",
+        "Tolerance": "0.08",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805",
+        "TemperatureCoefficient": "-25,25"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "3120MΩ",
+        "RatedPowerDissipationP": ".33W",
+        "Tolerance": "37%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "SizeCode": "2010",
+        "Resistance": "8750mΩ",
+        "Tolerance": "20%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "6377GΩ",
+        "Tolerance": "25%",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "R0202"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2301Ω",
+        "Tolerance": "19%",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "-100,100",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "OperatingTemperatureMax": "85℃",
+        "Tolerance": "0.9",
+        "Resistance": "4640GΩ",
+        "PackageStyle": "SMT",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "134Ω",
+        "Tolerance": "38%",
+        "SizeCode": "2917",
+        "TemperatureCoefficient": "-.2,.2"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "9285kΩ",
+        "Tolerance": "27%",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "50",
+        "Resistance": "408mΩ",
+        "Tolerance": "0.46",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedPowerDissipationP": "4/5W",
+        "SizeCode": "R2208"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "1026G",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.21",
+        "TemperatureCoefficient": "-25,25"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "0G",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "0GΩ",
+        "Tolerance": "70%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R2010"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0602",
+        "Resistance": "0G",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9880000mΩ",
+        "Tolerance": "72%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0603",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0GΩ",
+        "TemperatureCoefficient": "-50,50",
+        "Tolerance": "5%",
+        "SizeCode": "0805",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "149Ω",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.02",
+        "Resistance": "0.13kΩ",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "SizeCode": "1505",
+        "Resistance": "2.37kΩ",
+        "Tolerance": "0.18"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "82Ω",
+        "Tolerance": "97%",
+        "TemperatureCoefficient": "50",
+        "PackageStyle": "SMT",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "61.9Kohm",
+        "Tolerance": "5%",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0805",
+        "Resistance": "4618MΩ",
+        "Tolerance": "0.44"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "5.11K",
+        "Tolerance": "3%",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "23.4kΩ",
+        "RatedPowerDissipationP": "1/2W",
+        "Tolerance": "0.65"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "100",
+        "SizeCode": "2512",
+        "Resistance": "6845mΩ",
+        "Tolerance": "20%"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "9608kΩ",
+        "Tolerance": "0.07",
+        "RatedPowerDissipationP": "3/20W",
+        "SizeCode": "R0605",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "100",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "2.03kΩ",
+        "SizeCode": "1010"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1110",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "5%",
+        "Resistance": "7149M"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "1206",
+        "Resistance": "1984Ω"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "904Ohm",
+        "PackageStyle": "SMT",
+        "Tolerance": "86%",
+        "SizeCode": "1005",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "28Ohm",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "55%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6180mΩ",
+        "Tolerance": "0.69",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "R2612"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R2512",
+        "Resistance": "6055M",
+        "Tolerance": "5%"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R2612",
+        "Resistance": "5334MΩ",
+        "Tolerance": "31%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0707",
+        "Resistance": "0.03Kohm"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "39kΩ",
+        "Tolerance": "5%",
+        "TemperatureCoefficient": "50",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "R0502"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "0GΩ",
+        "Tolerance": "26%",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "R0805",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "100",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "18.7K",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.8"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "5184Ω",
+        "Tolerance": "0.73",
+        "SizeCode": "0704",
+        "TemperatureCoefficient": "250"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "626kΩ",
+        "Tolerance": "89%",
+        "OperatingTemperatureMax": "155℃",
+        "PackageStyle": "SMT",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R2208",
+        "Resistance": "1756mΩ",
+        "Tolerance": "0.1"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R2010",
+        "Resistance": "182K",
+        "Tolerance": "64%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "20kΩ",
+        "RatedPowerDissipationP": "1/2W",
+        "Tolerance": "0.39"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "24.9kΩ",
+        "Tolerance": "21%",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-200,200",
+        "Resistance": "3.2GΩ",
+        "Tolerance": "6%",
+        "OperatingTemperatureMax": "150℃",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "21000mΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "82%",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-500,500",
+        "Resistance": "5313mΩ",
+        "RatedPowerDissipationP": ".33W",
+        "Tolerance": "5%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "56.9kΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.04",
+        "SizeCode": "R1206",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "PackageStyle": "SMT",
+        "Tolerance": "25%",
+        "Resistance": "1611G",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R2107"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "1909",
+        "Resistance": "6109Ω",
+        "Tolerance": "0.05",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "85℃",
+        "Resistance": "2961Ω",
+        "Tolerance": "0.24",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "280000mΩ",
+        "RatedPowerDissipationP": "1/16W",
+        "Tolerance": "40%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1.27kΩ",
+        "Tolerance": "34%",
+        "OperatingTemperatureMin": "-10℃",
+        "PackageStyle": "SMT",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3056M",
+        "Tolerance": "0.83",
+        "TemperatureCoefficient": "-5,5",
+        "SizeCode": "1909"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1326mΩ",
+        "MountingFeature": "SURFACE MOUNT",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R1005",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R0505",
+        "Resistance": "0MΩ",
+        "Tolerance": "16%",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "2010",
+        "Resistance": "300K"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-100,100",
+        "Resistance": "9.1Kohm",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "6580kΩ",
+        "Tolerance": "5%",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0.04MΩ",
+        "Tolerance": "2%",
+        "SizeCode": "R0805",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "7356mΩ",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "63%",
+        "Resistance": "4794mΩ",
+        "SizeCode": "1210"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-200,200",
+        "Resistance": "2149MΩ",
+        "RatedPowerDissipationP": ".063W",
+        "Tolerance": "0.11"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "15G",
+        "Tolerance": "20%",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-100,100",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "412000mΩ",
+        "RatedPowerDissipationP": "1/2W",
+        "Tolerance": "0.39"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "3176mΩ",
+        "SizeCode": "R1217"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Tolerance": "79%",
+        "Resistance": "8766GΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1130Ohm",
+        "Tolerance": "29%",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "R2512",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "SizeCode": "R7580",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.42",
+        "Resistance": "4409kΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1994Ω",
+        "Tolerance": "0.8",
+        "SizeCode": "0704",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "0kΩ",
+        "Tolerance": "93%",
+        "RatedPowerDissipationP": "2W",
+        "SizeCode": "3637"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "15",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "39.7kΩ",
+        "SizeCode": "1005"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-150,150",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "82%",
+        "Resistance": "2314GΩ"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-15,15",
+        "Tolerance": "0.4",
+        "Resistance": "3765G",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "3711K",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "47%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1005"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0805",
+        "Resistance": "1286mΩ"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "25",
+        "Resistance": "34.4K",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "0.19"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1392Ohm",
+        "TemperatureCoefficient": "100",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R2010"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3.09K",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "941MΩ",
+        "Tolerance": "67%",
+        "RatedPowerDissipationP": "1/20W",
+        "SizeCode": "R4422"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0202",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "12%",
+        "Resistance": "120Ω"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "R2525",
+        "Resistance": "2406mΩ",
+        "Tolerance": "0.13"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "3160mΩ",
+        "Tolerance": "96%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R0805",
+        "TemperatureCoefficient": "-400,400"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "19%",
+        "Resistance": "5.17kΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.91",
+        "Resistance": "8321MΩ",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2674mΩ",
+        "Tolerance": "5%",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1005"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "15kΩ",
+        "Tolerance": "0.36",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "R0505",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R0805",
+        "Resistance": "0.01K",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "309000000mΩ",
+        "TemperatureCoefficient": "-10,10",
+        "Tolerance": "90%",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "4813MΩ",
+        "TemperatureCoefficient": "-100,100",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "PackageStyle": "SMT",
+        "Tolerance": "81%",
+        "Resistance": "8760Ohm"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3197MΩ",
+        "Tolerance": "99%",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "920Ω",
+        "Tolerance": "67%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2923MΩ",
+        "Tolerance": "16%",
+        "PackageStyle": "SMT",
+        "RatedPowerDissipationP": ".333W",
+        "SizeCode": "1210"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.27",
+        "Resistance": "8476G"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "0.05MΩ",
+        "Tolerance": "2%",
+        "TemperatureCoefficient": "50",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "8140G",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4530Ω",
+        "Tolerance": "0.28",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-65℃",
+        "SizeCode": "2612",
+        "Resistance": "38.3kΩ",
+        "Tolerance": "1%",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "51K",
+        "RatedPowerDissipationP": "1/4W",
+        "Tolerance": "19%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "274Ω",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "67%",
+        "RatedPowerDissipationP": "1/25W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "54.9Ω",
+        "Tolerance": "5%",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "53K",
+        "Tolerance": "78%",
+        "RatedPowerDissipationP": "1/16W",
+        "SizeCode": "0603",
+        "TemperatureCoefficient": "-25,25"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "6842kΩ",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1206",
+        "OperatingTemperatureMax": "200℃",
+        "Tolerance": "14%",
+        "Resistance": "0M"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2117Ω",
+        "Tolerance": "0.38",
+        "SizeCode": "0805",
+        "TemperatureCoefficient": "50"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "87600000mΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "80%",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6.57Kohm",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "Resistance": "785MΩ",
+        "Tolerance": "2%",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1553Ω",
+        "Tolerance": "0.53",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1005",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "-200,200",
+        "Resistance": "0GΩ",
+        "Tolerance": "5%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1210"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.51",
+        "Resistance": "6562mΩ",
+        "SizeCode": "1210"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "55.6Ω",
+        "Tolerance": "0.02",
+        "RatedPowerDissipationP": "7.5W",
+        "SizeCode": "7580"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "7536Ohm",
+        "Tolerance": "0.93",
+        "TemperatureCoefficient": "-25,25",
+        "SizeCode": "R1210"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "100",
+        "Resistance": "0.03MΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "20%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3.79kΩ",
+        "Tolerance": "2%",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "Radial",
+        "OperatingTemperatureMax": "150℃",
+        "Tolerance": "0.74",
+        "Resistance": "10200000mΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "5461GΩ",
+        "Tolerance": "14%",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "5.62kΩ",
+        "Tolerance": "16%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R1206",
+        "Resistance": "7071mΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "5654MΩ",
+        "Tolerance": "0.25",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8760kΩ",
+        "Tolerance": "23%",
+        "SizeCode": "0402",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.52",
+        "OperatingTemperatureMax": "150℃",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "2091Ω",
+        "OperatingTemperatureMax": "180℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "7680GΩ",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.42",
+        "SizeCode": "0402",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0.22M",
+        "Tolerance": "20%",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "50",
+        "SizeCode": "7925"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-300,300",
+        "Resistance": "0.56kΩ",
+        "Tolerance": "10%",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "189000mΩ",
+        "Tolerance": "0.44",
+        "RatedPowerDissipationP": "2W",
+        "SizeCode": "2512",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R1812",
+        "Resistance": "9488MΩ",
+        "Tolerance": "50%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9508GΩ",
+        "Tolerance": "26%",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "3535"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.48",
+        "Resistance": "114K",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8127MΩ",
+        "Tolerance": "0.53",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0505"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-100,100",
+        "SizeCode": "R1206",
+        "Resistance": "517kΩ",
+        "OperatingTemperatureMin": "-50℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "2079GΩ",
+        "SizeCode": "3535"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4956mΩ",
+        "Tolerance": "0.96",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "0GΩ",
+        "TemperatureCoefficient": "-10,10",
+        "Tolerance": "7%"
+    },
+    {
+        "class": "Resistors",
+        "Tolerance": "0.65",
+        "Resistance": "34.4kΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1607"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "5964O",
+        "RatedPowerDissipationP": "4/5W",
+        "Tolerance": "2%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1.89K",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.16",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1217"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "175℃",
+        "Tolerance": "82%",
+        "Resistance": "182Ω",
+        "PackageStyle": "SMT",
+        "SizeCode": "2412"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "8969MΩ",
+        "Tolerance": "64%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "R1107"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "5200GΩ",
+        "Tolerance": "27%",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "2612",
+        "OperatingTemperatureMin": "-65℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "312Ω",
+        "Tolerance": "36%",
+        "SizeCode": "1506",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "8893Ω",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "10%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1307"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9.76MΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "76%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "Tolerance": "0.84",
+        "Resistance": "55.6Ω",
+        "PackageStyle": "SMT",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "PackageStyle": "SMT",
+        "Resistance": "810kΩ",
+        "Tolerance": "0.65"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "OperatingTemperatureMax": "150℃",
+        "Resistance": "0GΩ",
+        "Tolerance": "24%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "SizeCode": "0603",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "71%",
+        "Resistance": "493Ω"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "TemperatureCoefficient": "10",
+        "Tolerance": "0.67",
+        "Resistance": "12.1K",
+        "SizeCode": "R1909"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "SizeCode": "2512",
+        "Resistance": "5087G",
+        "Tolerance": "12%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "Radial",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "11kΩ",
+        "SizeCode": "4419"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.05",
+        "Resistance": "3184mΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "13.7Kohm",
+        "Tolerance": "68%",
+        "SizeCode": "1005"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "250℃",
+        "Resistance": "1464Ohm",
+        "Tolerance": "90%",
+        "SizeCode": "7580",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "352Ω",
+        "TemperatureCoefficient": "-10,10",
+        "Tolerance": "69%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "2107"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "133K",
+        "OperatingTemperatureMax": "155℃",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R0703"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "604000mΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "0GΩ",
+        "Tolerance": "26%",
+        "OperatingTemperatureMax": "155℃",
+        "PackageStyle": "SMT",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "4320M",
+        "Tolerance": "0.44",
+        "RatedPowerDissipationP": "1/25W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8400MΩ",
+        "Tolerance": "0.65",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "0.01kΩ",
+        "SizeCode": "2917"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1206",
+        "Resistance": "9292GΩ",
+        "Tolerance": "0.1"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "SizeCode": "0805",
+        "Resistance": "604Ω",
+        "Tolerance": "0.55"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "30.1R",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "35.7kΩ",
+        "Tolerance": "5%",
+        "TemperatureCoefficient": "-25,25",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "0805",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "7309kΩ",
+        "Tolerance": "0.09",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1005"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "1589MΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "16%",
+        "SizeCode": "2512",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "910K",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "2%",
+        "RatedPowerDissipationP": "1/20W",
+        "SizeCode": "0201"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "3833kΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "9876mΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT",
+        "SizeCode": "R0505"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2.55K",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1010",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "8262kΩ",
+        "Tolerance": "0.12",
+        "SizeCode": "0603",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6953G",
+        "Tolerance": "0.25",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2600kΩ",
+        "Tolerance": "47%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0603",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "18%",
+        "Resistance": "248mΩ",
+        "TemperatureCoefficient": "-5,5",
+        "SizeCode": "0703"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.82",
+        "SizeCode": "R0805",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "3.7kΩ",
+        "Tolerance": "78%",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0GΩ",
+        "Tolerance": "0.03",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.2",
+        "SizeCode": "R0402",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "4347K",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "174Ω",
+        "Tolerance": "26%",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "Resistance": "0kΩ",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "9477MΩ",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "62%",
+        "SizeCode": "3535",
+        "TemperatureCoefficient": "-300,300"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R1506",
+        "Resistance": "5919M",
+        "Tolerance": "0.28",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "4547Ω",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "89%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "124000Ω",
+        "Tolerance": "85%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.19",
+        "Resistance": "1959G",
+        "SizeCode": "0704"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "1230Ω",
+        "TemperatureCoefficient": "-100,100",
+        "Tolerance": "43%",
+        "SizeCode": "R0603",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "13%",
+        "Resistance": "2748Ω",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "89.8Ω",
+        "Tolerance": "0.88",
+        "SizeCode": "2612"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "SizeCode": "R2512",
+        "Resistance": "5082mΩ",
+        "Tolerance": "97%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "R3535",
+        "Resistance": "16.5Ω"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "56.2kΩ",
+        "Tolerance": "25%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1206",
+        "TemperatureCoefficient": "-50,50"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "77700O",
+        "Tolerance": "72%",
+        "SizeCode": "0805",
+        "TemperatureCoefficient": "5"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "5580GΩ",
+        "RatedPowerDissipationP": "1/25W",
+        "Tolerance": "2%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "8621Ohm",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9931mΩ",
+        "Tolerance": "11%",
+        "RatedPowerDissipationP": "1/25W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "7751GΩ",
+        "Tolerance": "91%",
+        "SizeCode": "1206",
+        "TemperatureCoefficient": "-15,15"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3723MΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "19%",
+        "SizeCode": "1206",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "Chassis Mount",
+        "SizeCode": "7580",
+        "Resistance": "1924Ω",
+        "Tolerance": "0.53"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3250G",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "2917"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "0GΩ",
+        "Tolerance": "0.61",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0703"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "Resistance": "5375GΩ",
+        "OperatingTemperatureMin": "-50℃",
+        "Tolerance": "14%",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "4422",
+        "Resistance": "0GΩ",
+        "Tolerance": "6%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "25",
+        "Tolerance": "71%",
+        "Resistance": "0.3MΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "432000mΩ",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMax": "150℃",
+        "SizeCode": "R1506",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "1.4M",
+        "RatedPowerDissipationP": "1W",
+        "Tolerance": "0.06"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "1010",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.16",
+        "Resistance": "1910GΩ"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R0603",
+        "Resistance": "43700000mΩ",
+        "Tolerance": "0.32",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.38",
+        "Resistance": "2080Ω",
+        "SizeCode": "R0402"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-200,200",
+        "SizeCode": "2512",
+        "Resistance": "1.8kΩ",
+        "Tolerance": "10%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "50",
+        "Resistance": "7586Ω",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "9011Ω",
+        "RatedPowerDissipationP": "1/10W",
+        "Tolerance": "0.24"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.63",
+        "Resistance": "1.47MΩ",
+        "SizeCode": "2110"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "184kΩ",
+        "Tolerance": "0.06",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "4419",
+        "Resistance": "5858mΩ",
+        "Tolerance": "60%",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "0603",
+        "Tolerance": "50%",
+        "Resistance": "1183MΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "17.4O",
+        "Tolerance": "32%",
+        "TemperatureCoefficient": "-300,300",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "3535"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "741K",
+        "Tolerance": "0.14",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1005",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "5391Ohm",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "47.5Ohm",
+        "Tolerance": "70%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "0505",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "55%",
+        "Resistance": "3480Ω"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "40mΩ",
+        "Tolerance": "0.87",
+        "PackageStyle": "SMT",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1206",
+        "Resistance": "291kΩ",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8160mΩ",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "40%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9327K",
+        "Tolerance": "0.51",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "R2929",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "102K",
+        "Tolerance": "33%",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "370Ohm",
+        "Tolerance": "76%",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "2612",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "3120Ω",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.55",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805",
+        "Resistance": "8.98K"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1209",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.17",
+        "Resistance": "2340mΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "887000000mΩ",
+        "Tolerance": "0.75",
+        "RatedPowerDissipationP": "3/50W",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "5.6kΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "22%"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "SizeCode": "1206",
+        "Resistance": "6959kΩ",
+        "Tolerance": "0.93",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "5509Ω",
+        "Tolerance": "0.32",
+        "SizeCode": "2110"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "4.53kΩ",
+        "Tolerance": "0.39",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "1505"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-300,300",
+        "Resistance": "3586GΩ",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "PackageStyle": "SMT",
+        "Resistance": "898Ohm",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.08"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R0505",
+        "Resistance": "6910kΩ",
+        "Tolerance": "2%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "5526kΩ",
+        "OperatingTemperatureMin": "-65℃",
+        "Tolerance": "40%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8123Ω",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.4",
+        "RatedPowerDissipationP": "3/20W",
+        "SizeCode": "R0505"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "300Ohm",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "2%",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "6013MΩ",
+        "Tolerance": "22%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "42.7Ω",
+        "Tolerance": "92%",
+        "SizeCode": "R1605",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-.2,.2",
+        "Resistance": "3674GΩ",
+        "RatedPowerDissipationP": "3/4W",
+        "Tolerance": "0.94"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "R1206",
+        "Resistance": "90.9kΩ",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "3935MΩ",
+        "Tolerance": "1.0",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "7960Ω",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "0603",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "3535",
+        "Resistance": "19600mΩ",
+        "Tolerance": "43%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0MΩ",
+        "Tolerance": "25%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1206",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "8537Ω",
+        "Tolerance": "0.91",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "4253Ohm",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "24.9Ω",
+        "Tolerance": "0.24",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2030000mΩ",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "0805",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "143000Ohm",
+        "Tolerance": "38%",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "2%",
+        "Resistance": "7647Ohm",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "4756GΩ",
+        "Tolerance": "8%",
+        "TemperatureCoefficient": "10",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "1505"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "22K",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R1608"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "237Ω",
+        "Tolerance": "0%",
+        "RatedPowerDissipationP": "3/10W",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "4252MΩ",
+        "Tolerance": "63%",
+        "SizeCode": "1005",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "174K",
+        "Tolerance": "0.85",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "R2010"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "13K",
+        "TemperatureCoefficient": "-100,100",
+        "SizeCode": "1010",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "5.1kΩ",
+        "TemperatureCoefficient": "100"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "0M",
+        "TemperatureCoefficient": "50",
+        "Tolerance": "0.26"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4.53kΩ",
+        "TemperatureCoefficient": "-25,25",
+        "Tolerance": "84%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2719mΩ",
+        "Tolerance": "32%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "R1107"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3349MΩ",
+        "Tolerance": "2%",
+        "SizeCode": "1605"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "8144M",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "2707",
+        "Resistance": "6026MΩ",
+        "Tolerance": "19%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2230000mΩ",
+        "Tolerance": "0.1",
+        "SizeCode": "1506",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "3509mΩ",
+        "PackageStyle": "SMT",
+        "SizeCode": "1206",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "110K",
+        "SizeCode": "0602"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "110kΩ",
+        "Tolerance": "0.04",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "R1005",
+        "Resistance": "8837mΩ",
+        "Tolerance": "0.54"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "180℃",
+        "TemperatureCoefficient": "100",
+        "Resistance": "218MΩ",
+        "Tolerance": "0.5",
+        "RatedPowerDissipationP": "2W",
+        "SizeCode": "7925"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3462K",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "49%",
+        "SizeCode": "4422",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "74100mΩ",
+        "Tolerance": "0.56",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "124kΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "0.56"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "8.76kΩ",
+        "Tolerance": "77%",
+        "OperatingTemperatureMax": "155℃",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "3893MΩ",
+        "RatedPowerDissipationP": "1/4W",
+        "Tolerance": "0.35"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "6830mΩ",
+        "Tolerance": "87%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1005",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-.2,.2",
+        "Resistance": "252Ω",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8478kΩ",
+        "Tolerance": "0.33",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "R2929"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "887Ω",
+        "Tolerance": "47%",
+        "PackageStyle": "SMT",
+        "SizeCode": "0703"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "2512",
+        "PackageStyle": "SMT",
+        "Tolerance": "2%",
+        "Resistance": "1090Ohm"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-15,15",
+        "Resistance": "0.11K",
+        "Tolerance": "0.5",
+        "SizeCode": "R1909",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1277mΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "2%",
+        "SizeCode": "1210",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "9291Kohm",
+        "Tolerance": "5%",
+        "TemperatureCoefficient": "-100,100",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "4640000Ω",
+        "Tolerance": "0.67",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "1218",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-100,100",
+        "Tolerance": "0.02",
+        "Resistance": "562000mΩ",
+        "SizeCode": "0403"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3956kΩ",
+        "Tolerance": "5%",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.43",
+        "Resistance": "620Ω"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "SizeCode": "R0805",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.24",
+        "Resistance": "0G"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0805",
+        "Resistance": "1084Ω",
+        "Tolerance": "0.52",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "3050K",
+        "Tolerance": "90%",
+        "RatedPowerDissipationP": "3/20W",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "R1005",
+        "Tolerance": "32%",
+        "Resistance": "4749mΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4047Ω",
+        "Tolerance": "7%",
+        "SizeCode": "0805",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6650M",
+        "Tolerance": "2%",
+        "SizeCode": "0502"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "46.4Ω",
+        "PackageStyle": "SMT",
+        "Tolerance": "83%",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "1117MΩ",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.81",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "2707"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "129000kΩ",
+        "OperatingTemperatureMax": "150℃",
+        "Tolerance": "0.18",
+        "RatedPowerDissipationP": "2W",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "135O",
+        "Tolerance": "0.81",
+        "SizeCode": "2917"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "80%",
+        "Resistance": "11100Ω",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "100",
+        "Resistance": "7024mΩ",
+        "Tolerance": "50%",
+        "SizeCode": "2010",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0505",
+        "Resistance": "2.67K"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4.75Ohm",
+        "Tolerance": "0.36",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R0805",
+        "TemperatureCoefficient": "-400,400"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.85",
+        "Resistance": "6004M",
+        "TemperatureCoefficient": "15"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT",
+        "Resistance": "11.4K",
+        "TemperatureCoefficient": "-50,50",
+        "Tolerance": "61%",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "PackageStyle": "SMT",
+        "Resistance": "9008M",
+        "Tolerance": "0.51",
+        "OperatingTemperatureMax": "155℃",
+        "RatedPowerDissipationP": "3/20W",
+        "SizeCode": "R0505"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2010",
+        "Resistance": "3521GΩ",
+        "Tolerance": "0.53",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "2010",
+        "Resistance": "0MΩ",
+        "Tolerance": "11%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "30.5Ohm",
+        "Tolerance": "0.44",
+        "PackageStyle": "SMT",
+        "RatedPowerDissipationP": "1/20W",
+        "SizeCode": "R0402"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "887K",
+        "Tolerance": "20%",
+        "SizeCode": "0704",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0603",
+        "Resistance": "1.05kΩ",
+        "OperatingTemperatureMin": "-50℃"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2307",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.8",
+        "Resistance": "61.9Ohm"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "887Ω",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "9890K",
+        "RatedPowerDissipationP": "1/2W",
+        "Tolerance": "85%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1.3K",
+        "TemperatureCoefficient": "-25,25",
+        "SizeCode": "4422",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "7779mΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "49%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "348Ω",
+        "TemperatureCoefficient": "100",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-10,10",
+        "Resistance": "3185MΩ",
+        "Tolerance": "9%",
+        "PackageStyle": "SMT",
+        "RatedPowerDissipationP": "2W",
+        "SizeCode": "5020",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1991K",
+        "TemperatureCoefficient": "-300,300",
+        "PackageStyle": "SMT",
+        "SizeCode": "0603",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "6464MΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "1505",
+        "TemperatureCoefficient": "-2,2"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "OperatingTemperatureMax": "175℃",
+        "Resistance": "2711G",
+        "Tolerance": "74%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "2512",
+        "Tolerance": "0.85",
+        "Resistance": "7.5kΩ"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "536K",
+        "Tolerance": "10%",
+        "SizeCode": "0704"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "8154Ω",
+        "Tolerance": "97%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "R2929",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "0.35",
+        "Resistance": "8491G"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "0.04MΩ",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-100,100",
+        "SizeCode": "2030",
+        "Resistance": "7076Ω",
+        "Tolerance": "8%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "9900Ω",
+        "Tolerance": "0.25",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0603",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "SizeCode": "0603",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.79"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "4789R",
+        "SizeCode": "0505"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1005",
+        "TemperatureCoefficient": "50",
+        "Tolerance": "0.33",
+        "Resistance": "9946Ω"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "PackageStyle": "SMT",
+        "Resistance": "4349Ω",
+        "Tolerance": "50%",
+        "SizeCode": "0502"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "6688mΩ",
+        "Tolerance": "28%",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "7101Ω",
+        "Tolerance": "52%",
+        "SizeCode": "R0703",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "13500Ω",
+        "Tolerance": "0.4",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "0805",
+        "TemperatureCoefficient": "100"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "36.1kΩ",
+        "SizeCode": "R3707"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "5684mΩ",
+        "Tolerance": "77%",
+        "SizeCode": "0805",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "7608kΩ",
+        "Tolerance": "5%",
+        "SizeCode": "R0402"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.47",
+        "Resistance": "1256Ω",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-250,250",
+        "SizeCode": "R0202",
+        "Resistance": "6099Ω"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "301Ω",
+        "Tolerance": "58%",
+        "RatedPowerDissipationP": "4/125W",
+        "SizeCode": "0603",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "0MΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.72",
+        "SizeCode": "R1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "-100,100",
+        "Resistance": "5430mΩ",
+        "Tolerance": "10%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Tolerance": "0.61",
+        "Resistance": "88700Ω",
+        "SizeCode": "R5020"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0.18Kohm",
+        "Tolerance": "44%",
+        "SizeCode": "2018",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "706Ω",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8516MΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "9%",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "1505"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2656O",
+        "Tolerance": "0.98",
+        "SizeCode": "5020"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "82%",
+        "Resistance": "0MΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "10Ω",
+        "Tolerance": "2%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1005",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805",
+        "Resistance": "1.1Ω",
+        "Tolerance": "51%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "SizeCode": "0603",
+        "Resistance": "261Ω",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "3045GΩ",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-50℃",
+        "SizeCode": "0603",
+        "Resistance": "2.23MΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "274Ω",
+        "Tolerance": "78%",
+        "SizeCode": "1909"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "R0805",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "65%",
+        "Resistance": "1979kΩ"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "43Ω",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "0.7"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "SizeCode": "0402",
+        "Resistance": "1020Ohm",
+        "Tolerance": "0.38"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "Tolerance": "2%",
+        "Resistance": "1157Ohm",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "5610mΩ",
+        "SizeCode": "R2010"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1506",
+        "Resistance": "0MΩ",
+        "Tolerance": "95%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-10,10",
+        "Resistance": "82000mΩ",
+        "Tolerance": "24%",
+        "OperatingTemperatureMax": "155℃",
+        "RatedPowerDissipationP": "1/16W",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "1876Ohm",
+        "Tolerance": "0.45",
+        "RatedPowerDissipationP": "3/4W",
+        "SizeCode": "2525",
+        "OperatingTemperatureMax": "180℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805",
+        "Resistance": "4357K",
+        "Tolerance": "21%",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "0.03K",
+        "Tolerance": "46%",
+        "TemperatureCoefficient": "100",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "8130GΩ",
+        "Tolerance": "0.16",
+        "PackageStyle": "SMT",
+        "SizeCode": "3207"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "10",
+        "PackageStyle": "SMT",
+        "Resistance": "684GΩ",
+        "SizeCode": "1505"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "2320kΩ",
+        "PackageStyle": "Radial",
+        "Tolerance": "0.93",
+        "RatedPowerDissipationP": "3/5W",
+        "SizeCode": "4419"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "OperatingTemperatureMax": "250℃",
+        "Resistance": "1039GΩ",
+        "Tolerance": "0.1",
+        "PackageStyle": "Chassis Mount",
+        "RatedPowerDissipationP": "7.5W",
+        "SizeCode": "7580"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "20.5kΩ",
+        "Tolerance": "60%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "R0603",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "4465GΩ",
+        "Tolerance": "0.12",
+        "PackageStyle": "SMT",
+        "SizeCode": "R1210"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2000000mΩ",
+        "RatedPowerDissipationP": "1/4W",
+        "Tolerance": "12%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "1380000000Ω",
+        "Tolerance": "26%",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "5025"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "297MΩ",
+        "RatedPowerDissipationP": "1/5W",
+        "Tolerance": "2%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4368GΩ",
+        "Tolerance": "0.98",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1005"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "R1005",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.69",
+        "Resistance": "685GΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "3980mΩ",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.59",
+        "SizeCode": "0603",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6176kΩ",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.8"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "3128G",
+        "Tolerance": "0.72",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "530Ω",
+        "Tolerance": "65%",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "R2512",
+        "TemperatureCoefficient": "-2,2"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "25%",
+        "Resistance": "9279mΩ",
+        "TemperatureCoefficient": "50"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "0GΩ",
+        "Tolerance": "0.77",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2298K",
+        "OperatingTemperatureMax": "125℃",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "3207",
+        "TemperatureCoefficient": "-10,10"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "1246mΩ",
+        "OperatingTemperatureMax": "125℃",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "120kΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "0.14MΩ",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "37%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "0M",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "0.87"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "1319kΩ",
+        "Tolerance": "0.68",
+        "TemperatureCoefficient": "-50,50",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "9938MΩ",
+        "PackageStyle": "SMT",
+        "SizeCode": "R1210"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "Resistance": "6260000000000mΩ",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.57",
+        "Resistance": "432Ω",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "340Ω",
+        "Tolerance": "0.05",
+        "OperatingTemperatureMax": "175℃",
+        "SizeCode": "R1310"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2020",
+        "Resistance": "3305kΩ",
+        "Tolerance": "93%",
+        "TemperatureCoefficient": "-25,25"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "R2612",
+        "Resistance": "6749GΩ"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "1206",
+        "Resistance": "165Ω",
+        "Tolerance": "50%"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "SizeCode": "1206",
+        "Resistance": "493K",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-15,15",
+        "Resistance": "0.72K",
+        "Tolerance": "25%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "-5,5",
+        "Resistance": "37.9Ω",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "85℃",
+        "Resistance": "9392mΩ",
+        "Tolerance": "76%",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-10,10",
+        "Resistance": "4586mΩ",
+        "SizeCode": "R2707"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "6.8kΩ",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "1.18MΩ",
+        "Tolerance": "9%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "2725MΩ",
+        "TemperatureCoefficient": "-.2,.2",
+        "Tolerance": "90%",
+        "SizeCode": "R4419"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R1206",
+        "Resistance": "52300000mΩ",
+        "Tolerance": "18%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "Resistance": "8068Ω",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "64.9Ohm",
+        "Tolerance": "48%",
+        "SizeCode": "1909",
+        "TemperatureCoefficient": "-5,5"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "31.2K",
+        "Tolerance": "68%",
+        "SizeCode": "R1607",
+        "TemperatureCoefficient": "-10,10"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-10,10",
+        "Tolerance": "0.58",
+        "Resistance": "0.04MΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "60%",
+        "Resistance": "120000Ω",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "3898Ω",
+        "Tolerance": "0.12",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Tolerance": "93%",
+        "Resistance": "93100000mΩ",
+        "PackageStyle": "SMT",
+        "SizeCode": "1812"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-10,10",
+        "Resistance": "7511M",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "0.56"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "191000mΩ",
+        "Tolerance": "35%",
+        "RatedPowerDissipationP": "1/16W",
+        "SizeCode": "R0402"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-10,10",
+        "Resistance": "6746Kohm",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "28%",
+        "Resistance": "1.04kΩ",
+        "OperatingTemperatureMax": "200℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "1.4MΩ",
+        "Tolerance": "0.53",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "SizeCode": "1210",
+        "Resistance": "4782MΩ",
+        "Tolerance": "48%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "R2512",
+        "Resistance": "4.99kΩ"
+    },
+    {
+        "class": "Resistors",
+        "Tolerance": "5%",
+        "Resistance": "0M",
+        "PackageStyle": "SMT",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "33.6kΩ",
+        "Tolerance": "53%",
+        "RatedPowerDissipationP": "1/2W",
+        "SizeCode": "1010"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "1206",
+        "Resistance": "9307G",
+        "Tolerance": "88%",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3057mΩ",
+        "Tolerance": "85%",
+        "SizeCode": "R1608",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "4163Ω",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "R1210"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "1782GΩ",
+        "Tolerance": "0.95",
+        "TemperatureCoefficient": "-.2,.2",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "2412"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0Ω",
+        "Tolerance": "0.47",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "7226Ω",
+        "Tolerance": "0.21",
+        "SizeCode": "3707",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2010",
+        "Resistance": "1195Ω",
+        "Tolerance": "54%"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1812",
+        "Tolerance": "0.08",
+        "Resistance": "5327Ω"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "SizeCode": "R0603",
+        "Resistance": "33Ω",
+        "Tolerance": "0.89"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "0.32K",
+        "TemperatureCoefficient": "-50,50"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "777Ω",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.9",
+        "Resistance": "109G",
+        "SizeCode": "7580"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "Tolerance": "0.44",
+        "Resistance": "1760000Ohm",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-100,100",
+        "Resistance": "3982kΩ",
+        "RatedPowerDissipationP": "1/10W",
+        "Tolerance": "0.52"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "10.4kΩ",
+        "Tolerance": "0.96",
+        "OperatingTemperatureMax": "85℃",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "TemperatureCoefficient": "25",
+        "Resistance": "93.1Ω",
+        "Tolerance": "0.51",
+        "PackageStyle": "SMT",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-100,100",
+        "Tolerance": "42%",
+        "Resistance": "6513kΩ",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8.2kΩ",
+        "TemperatureCoefficient": "-200,200",
+        "Tolerance": "10%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "9714mΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "0.77"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "3062Ω",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "931kΩ",
+        "SizeCode": "2612"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "0.08MΩ",
+        "Tolerance": "0.16",
+        "TemperatureCoefficient": "50",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "2.29kΩ",
+        "TemperatureCoefficient": "-10,10",
+        "Tolerance": "0.02",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "0805",
+        "Resistance": "5.9K",
+        "Tolerance": "0.56"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "4129G",
+        "RatedPowerDissipationP": "3/20W",
+        "Tolerance": "70%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2834MΩ",
+        "TemperatureCoefficient": "-100,100",
+        "Tolerance": "0.66",
+        "SizeCode": "R3535",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "5301kΩ",
+        "Tolerance": "0.82",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "5025",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "7.77MΩ",
+        "Tolerance": "0.04",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "2010",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "4072Ω",
+        "Tolerance": "0.29",
+        "SizeCode": "2512",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "TemperatureCoefficient": "15",
+        "Tolerance": "0.93",
+        "Resistance": "0G",
+        "PackageStyle": "SMT",
+        "SizeCode": "R1505"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "5%",
+        "Resistance": "71.5mΩ",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "1.5kΩ",
+        "Tolerance": "5%",
+        "PackageStyle": "SMT",
+        "RatedPowerDissipationP": "2/5W",
+        "SizeCode": "1505",
+        "TemperatureCoefficient": "100"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "14000000mΩ",
+        "Tolerance": "0.71",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "2484mΩ",
+        "Tolerance": "0.39",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "0MΩ",
+        "TemperatureCoefficient": "-10,10",
+        "Tolerance": "3%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "3285Ω",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "Resistance": "106000mΩ",
+        "SizeCode": "R0505"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "SizeCode": "1005",
+        "TemperatureCoefficient": "100",
+        "Tolerance": "50%",
+        "Resistance": "66.5Ω"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1206",
+        "Resistance": "0MΩ",
+        "Tolerance": "2%",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "11%",
+        "Resistance": "32.4kΩ",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-200,200",
+        "Resistance": "0GΩ",
+        "Tolerance": "0.63",
+        "OperatingTemperatureMin": "-50℃",
+        "RatedPowerDissipationP": "1/25W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "1000000mΩ",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "-200,200",
+        "SizeCode": "1812"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "402Ω",
+        "Tolerance": "84%",
+        "SizeCode": "2512",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "1.07kΩ",
+        "Tolerance": "26%",
+        "SizeCode": "R4422"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4769GΩ",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "2107",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "15",
+        "Resistance": "392000000mΩ",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "71%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "1020Ω",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "80%"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-10,10",
+        "Resistance": "402Ω",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "7.96kΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.47",
+        "SizeCode": "1505",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0.03kΩ",
+        "Tolerance": "0.24",
+        "SizeCode": "1210"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "0G",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "58%",
+        "SizeCode": "R1005",
+        "TemperatureCoefficient": "15"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "6168mΩ",
+        "Tolerance": "0.82",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "5034Ω",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "24%",
+        "RatedPowerDissipationP": "1/16W",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "37.9Ω",
+        "Tolerance": "54%",
+        "RatedPowerDissipationP": "1/16W",
+        "SizeCode": "R0402"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "9834mΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "9%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "750Ω",
+        "Tolerance": "0.73",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "R2612"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4718kΩ",
+        "Tolerance": "0.41",
+        "SizeCode": "1210"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "741kΩ",
+        "Tolerance": "8%",
+        "TemperatureCoefficient": "-5,5",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "4554MΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.41",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8014mΩ",
+        "Tolerance": "33%",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "430Ohm",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "12%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "4368GΩ",
+        "Tolerance": "3%",
+        "OperatingTemperatureMin": "-50℃",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "59700mΩ",
+        "Tolerance": "0.82",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8414MΩ",
+        "Tolerance": "42%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0805",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "150kΩ",
+        "Tolerance": "0.68",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805",
+        "TemperatureCoefficient": "25"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "392000mΩ",
+        "TemperatureCoefficient": "25",
+        "SizeCode": "R0603",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "5430mΩ",
+        "Tolerance": "49%",
+        "TemperatureCoefficient": "-50,50"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "3700Ω",
+        "Tolerance": "0.26",
+        "SizeCode": "0805",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-10,10",
+        "SizeCode": "3207",
+        "Resistance": "1555K",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8713MΩ",
+        "Tolerance": "0.14",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8810G",
+        "RatedPowerDissipationP": "3/10W",
+        "Tolerance": "0.61"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "66.5M",
+        "Tolerance": "0.51",
+        "SizeCode": "R1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8990Ω",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.5",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "R1909"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "4422",
+        "Resistance": "7994Ω",
+        "Tolerance": "0.93"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "R0402",
+        "Resistance": "391M",
+        "Tolerance": "0.99",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1206",
+        "Resistance": "2981mΩ"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "-10,10",
+        "Resistance": "0.03MΩ",
+        "Tolerance": "0.67",
+        "OperatingTemperatureMax": "125℃",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "R1107"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2010",
+        "Resistance": "6684GΩ",
+        "Tolerance": "51%"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0403",
+        "Resistance": "6081kΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Tolerance": "0.06",
+        "Resistance": "5218Ohm",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "0402",
+        "Resistance": "3773Ohm",
+        "Tolerance": "0.27",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "2218M",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.48",
+        "RatedPowerDissipationP": "1/25W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "7.77K",
+        "Tolerance": "0.13",
+        "TemperatureCoefficient": "5",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "OperatingTemperatureMin": "-65℃",
+        "Resistance": "5104Ω",
+        "Tolerance": "55%",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "R2612",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "5853GΩ",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.41",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "1206",
+        "Resistance": "0kΩ",
+        "Tolerance": "0.61"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1.45K",
+        "OperatingTemperatureMin": "-10℃",
+        "SizeCode": "1206",
+        "TemperatureCoefficient": "25"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "9594GΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.89"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-5,5",
+        "Resistance": "287Ω",
+        "SizeCode": "1909"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "5179G",
+        "Tolerance": "0.46",
+        "OperatingTemperatureMax": "180℃",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "5425",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "27.4kΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "80%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "9735kΩ",
+        "Tolerance": "0.21",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "1206",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "4568MΩ",
+        "Tolerance": "35%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "6074mΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.27",
+        "SizeCode": "0805",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "0MΩ",
+        "OperatingTemperatureMax": "125℃",
+        "TemperatureCoefficient": "-10,10",
+        "SizeCode": "R1107"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "Resistance": "0GΩ",
+        "RatedPowerDissipationP": "1/8W",
+        "Tolerance": "0.51"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "101Ohm",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "80%",
+        "RatedPowerDissipationP": "1/16W",
+        "SizeCode": "R0402"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "0.03K",
+        "Tolerance": "0.55",
+        "PackageStyle": "SMT",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R1206",
+        "Resistance": "536Ohm",
+        "Tolerance": "0.14",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "6.8K",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "59%",
+        "SizeCode": "1206",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "964MΩ",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.15",
+        "SizeCode": "2208",
+        "TemperatureCoefficient": "50"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "SizeCode": "1206",
+        "Resistance": "0.07kΩ",
+        "Tolerance": "58%"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "124000mΩ",
+        "Tolerance": "0.91",
+        "SizeCode": "R2512",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "0603",
+        "Resistance": "6858GΩ",
+        "Tolerance": "66%",
+        "OperatingTemperatureMin": "-50℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "0.45MΩ",
+        "TemperatureCoefficient": "-200,200",
+        "Tolerance": "29%",
+        "RatedPowerDissipationP": ".063W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3552Ω",
+        "Tolerance": "0.03",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "4422"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "0.01MΩ",
+        "Tolerance": "0.67",
+        "OperatingTemperatureMax": "150℃",
+        "PackageStyle": "Radial",
+        "SizeCode": "4419"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "PackageStyle": "SMT",
+        "Resistance": "0.16K",
+        "Tolerance": "93%",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "R4422",
+        "Resistance": "14.2K",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2842mΩ",
+        "Tolerance": "0.79",
+        "MountingFeature": "SURFACE MOUNT",
+        "TemperatureCoefficient": "50",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "7672kΩ",
+        "Tolerance": "0.29",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "Tolerance": "5%",
+        "Resistance": "1.6kΩ",
+        "SizeCode": "R1010"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "TemperatureCoefficient": "25",
+        "Resistance": "392Ω",
+        "Tolerance": "0.97",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "47%",
+        "Resistance": "3807MΩ",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "0.01MΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "240Ohm",
+        "RatedPowerDissipationP": "1/4W",
+        "Tolerance": "77%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "8739mΩ",
+        "Tolerance": "75%",
+        "SizeCode": "2612"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "7243mΩ",
+        "Tolerance": "2%",
+        "SizeCode": "R0605"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "0505",
+        "Resistance": "22kΩ",
+        "Tolerance": "2%",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "328Ω",
+        "Tolerance": "0.0",
+        "SizeCode": "7580"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "42.2Ω",
+        "Tolerance": "37%",
+        "RatedPowerDissipationP": "1W",
+        "SizeCode": "R2512",
+        "TemperatureCoefficient": "-15,15"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R0703",
+        "Resistance": "8463GΩ",
+        "Tolerance": "9%"
+    },
+    {
+        "class": "Resistors",
+        "Tolerance": "0.65",
+        "Resistance": "5636MΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "7470GΩ",
+        "SizeCode": "1909"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "3666MΩ",
+        "Tolerance": "0.02",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0905"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-15,15",
+        "PackageStyle": "SMT",
+        "Resistance": "8404kΩ",
+        "Tolerance": "20%",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "1718GΩ",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "2512",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "9619Ω",
+        "RatedPowerDissipationP": "4/5W",
+        "Tolerance": "61%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9302MΩ",
+        "Tolerance": "78%",
+        "RatedPowerDissipationP": ".063W",
+        "SizeCode": "0402",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "620000mΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-100,100",
+        "Resistance": "11.5Ω",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.11"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "4870mΩ",
+        "Tolerance": "0.42",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "-200,200",
+        "SizeCode": "R2512"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "348000mΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.11",
+        "SizeCode": "1005",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "100",
+        "Resistance": "9.2M",
+        "PackageStyle": "SMT",
+        "Tolerance": "87%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1505",
+        "Resistance": "9422mΩ",
+        "Tolerance": "40%"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2612",
+        "Resistance": "4310MΩ",
+        "Tolerance": "0.01"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "6229Ω",
+        "TemperatureCoefficient": "-15,15",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "7722kΩ",
+        "Tolerance": "0.94",
+        "RatedPowerDissipationP": "3/4W",
+        "SizeCode": "2018",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "9124kΩ",
+        "Tolerance": "3%",
+        "SizeCode": "4422",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-.2,.2",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "7020GΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "89%",
+        "OperatingTemperatureMax": "175℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "30.9kΩ",
+        "Tolerance": "53%",
+        "SizeCode": "R1607",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "1102MΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "10%",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "14200Ω",
+        "Tolerance": "0.82",
+        "SizeCode": "4422"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "6588MΩ",
+        "TemperatureCoefficient": "-25,25",
+        "Tolerance": "41%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "2.77kΩ",
+        "Tolerance": "0.58",
+        "SizeCode": "R0502"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "99%",
+        "Resistance": "15.4K",
+        "SizeCode": "4422"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "71.5Ω",
+        "Tolerance": "37%",
+        "PackageStyle": "SMT",
+        "SizeCode": "1506"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6292MΩ",
+        "Tolerance": "27%",
+        "SizeCode": "0603",
+        "TemperatureCoefficient": "-15,15"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "SizeCode": "R0805",
+        "Resistance": "0M",
+        "Tolerance": "87%"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "549Ω",
+        "Tolerance": "0.36",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "175℃",
+        "Resistance": "0.07MΩ",
+        "Tolerance": "38%",
+        "SizeCode": "2917",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "0.07Kohm",
+        "Tolerance": "81%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "SizeCode": "R2612",
+        "Resistance": "4446M",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "470Ω",
+        "TemperatureCoefficient": "-25,25",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "PackageStyle": "SMT",
+        "Tolerance": "74%",
+        "Resistance": "0GΩ",
+        "OperatingTemperatureMax": "150℃",
+        "SizeCode": "R0603"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "0.27kΩ",
+        "Tolerance": "0.35",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "85℃",
+        "Resistance": "4914MΩ",
+        "RatedPowerDissipationP": "1/20W",
+        "Tolerance": "0.98"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4097MΩ",
+        "Tolerance": "0.89",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "TemperatureCoefficient": "100",
+        "Resistance": "0MΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.84"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "210G",
+        "Tolerance": "2%",
+        "RatedPowerDissipationP": "4/5W",
+        "SizeCode": "R2110"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "OperatingTemperatureMax": "150℃",
+        "Resistance": "6890MΩ",
+        "Tolerance": "5%",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "0202"
+    },
+    {
+        "class": "Resistors",
+        "MountingFeature": "SURFACE MOUNT",
+        "SizeCode": "1010",
+        "Resistance": "3632Ω",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "Tolerance": "0.2",
+        "Resistance": "18.9Kohm",
+        "PackageStyle": "SMT",
+        "SizeCode": "R0905"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "4004kΩ",
+        "Tolerance": "65%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1206",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.42"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0.07kΩ",
+        "TemperatureCoefficient": "-2,2",
+        "Tolerance": "19%",
+        "SizeCode": "1505"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0.01M",
+        "Tolerance": "11%",
+        "RatedPowerDissipationP": "3/5W",
+        "SizeCode": "2917"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "SizeCode": "R0402",
+        "Resistance": "1524mΩ",
+        "Tolerance": "0.68"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6211Ohm",
+        "RatedPowerDissipationP": ".33W",
+        "Tolerance": "3%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "1470mΩ",
+        "Tolerance": "0.57",
+        "SizeCode": "1209"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "Resistance": "9442Ω",
+        "TemperatureCoefficient": "100",
+        "Tolerance": "0.35",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "175℃",
+        "Resistance": "4367G",
+        "Tolerance": "86%",
+        "SizeCode": "2412"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2010",
+        "Tolerance": "0.93",
+        "Resistance": "5847Ω"
+    },
+    {
+        "class": "Resistors",
+        "input class": "贴片电阻",
+        "Resistance": "6393GΩ",
+        "Tolerance": "2%",
+        "SizeCode": "R1206",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "8.16kΩ",
+        "Tolerance": "84%",
+        "RatedPowerDissipationP": "1/16W",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "0.07MΩ",
+        "Tolerance": "0.26",
+        "RatedPowerDissipationP": "1/5W",
+        "SizeCode": "R0805",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "2512",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "56%",
+        "Resistance": "7430O"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "Resistance": "432Kohm",
+        "Tolerance": "0.41",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805",
+        "TemperatureCoefficient": "50"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R1607",
+        "Resistance": "8.35kΩ",
+        "Tolerance": "0.22",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-10,10",
+        "SizeCode": "R2107",
+        "Resistance": "9338mΩ",
+        "Tolerance": "0.53"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "6455GΩ",
+        "Tolerance": "1.0",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "R1206",
+        "Resistance": "25.8Ω",
+        "Tolerance": "64%"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "7.59kΩ",
+        "Tolerance": "0.41",
+        "RatedPowerDissipationP": "3/20W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "2%",
+        "Resistance": "0GΩ",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "Resistance": "454M",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "1206",
+        "Resistance": "6298MΩ",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "TemperatureCoefficient": "-100,100",
+        "Resistance": "4962Ohm",
+        "Tolerance": "2%",
+        "OperatingTemperatureMin": "-55℃",
+        "RatedPowerDissipationP": "1/20W",
+        "SizeCode": "0402",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "SizeCode": "R1505",
+        "Resistance": "46GΩ",
+        "Tolerance": "0.73",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "SizeCode": "7925",
+        "TemperatureCoefficient": "50",
+        "Tolerance": "66%",
+        "Resistance": "3990MΩ"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "1107",
+        "Resistance": "8060Ω",
+        "Tolerance": "31%",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "0MΩ",
+        "Tolerance": "0.02",
+        "SizeCode": "R1210",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "250℃",
+        "SizeCode": "R7580",
+        "Resistance": "9317GΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "2974K",
+        "Tolerance": "1%",
+        "OperatingTemperatureMin": "-65℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "5264Ohm",
+        "Tolerance": "20%",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "0704"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "50",
+        "Resistance": "56200mΩ",
+        "Tolerance": "84%",
+        "SizeCode": "R0402",
+        "MountingFeature": "SURFACE MOUNT"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "4385Kohm",
+        "Tolerance": "0.03",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "3707"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R3707",
+        "OperatingTemperatureMax": "125℃",
+        "Tolerance": "0.22",
+        "Resistance": "198Ohm"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "Resistance": "24.9K",
+        "Tolerance": "0%",
+        "SizeCode": "0402",
+        "TemperatureCoefficient": "-50,50"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "856Ohm",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.78",
+        "SizeCode": "2010",
+        "OperatingTemperatureMax": "150℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RST",
+        "Resistance": "1323R",
+        "Tolerance": "0.42",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206",
+        "TemperatureCoefficient": "10"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.26",
+        "Resistance": "2065kΩ",
+        "SizeCode": "R0704"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "7931kΩ",
+        "Tolerance": "84%",
+        "SizeCode": "2512"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "OperatingTemperatureMax": "125℃",
+        "Resistance": "2423Ω",
+        "SizeCode": "0402"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "1948mΩ",
+        "Tolerance": "0.98",
+        "SizeCode": "R1010",
+        "TemperatureCoefficient": "15"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "25.5kΩ",
+        "Tolerance": "0.93",
+        "TemperatureCoefficient": "-50,50",
+        "PackageStyle": "SMT",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "SizeCode": "0830",
+        "Resistance": "5435MΩ",
+        "Tolerance": "0.72"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT",
+        "Resistance": "9310mΩ",
+        "Tolerance": "46%",
+        "TemperatureCoefficient": "-15,15",
+        "RatedPowerDissipationP": "1/4W",
+        "SizeCode": "1206"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3882G",
+        "Tolerance": "0.6",
+        "OperatingTemperatureMax": "125℃",
+        "SizeCode": "0603"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "330mΩ",
+        "Tolerance": "5%",
+        "RatedPowerDissipationP": "1/2W",
+        "SizeCode": "1505"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "Resistance": "7413MΩ",
+        "Tolerance": "2%",
+        "SizeCode": "R0502"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "3043GΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "83%",
+        "RatedPowerDissipationP": "1/8W",
+        "SizeCode": "R0805"
+    },
+    {
+        "class": "Resistors",
+        "input class": "RES",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.54",
+        "Resistance": "0.29kΩ",
+        "TemperatureCoefficient": "-25,25",
+        "SizeCode": "2929"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.7",
+        "Resistance": "1902MΩ",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "-50,50",
+        "Resistance": "208kΩ",
+        "OperatingTemperatureMin": "-55℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "4521mΩ",
+        "Tolerance": "0.47",
+        "SizeCode": "1005",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R5020",
+        "Resistance": "9740Ω",
+        "TemperatureCoefficient": "-50,50"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "OperatingTemperatureMax": "200℃",
+        "Resistance": "74.1MΩ",
+        "Tolerance": "0.13"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "TemperatureCoefficient": "50",
+        "Resistance": "1412Ω",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.5"
+    },
+    {
+        "class": "Resistors",
+        "SizeCode": "R1209",
+        "TemperatureCoefficient": "15",
+        "Tolerance": "0.29",
+        "Resistance": "158000Ω"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMin": "-55℃",
+        "Resistance": "68MΩ",
+        "SizeCode": "2010"
+    },
+    {
+        "class": "Resistors",
+        "input class": "电阻",
+        "SizeCode": "2512",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.03",
+        "Resistance": "4923mΩ"
+    },
+    {
+        "class": "Resistors",
+        "OperatingTemperatureMax": "155℃",
+        "PackageStyle": "SMT",
+        "Resistance": "5300Ω",
+        "Tolerance": "0.55"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Res",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.82",
+        "Resistance": "80.6MΩ",
+        "PackageStyle": "SMT",
+        "SizeCode": "0805"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "4422",
+        "Resistance": "4980MΩ",
+        "Tolerance": "0.32",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "14000000mΩ",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "0.18",
+        "SizeCode": "R0905",
+        "PackageStyle": "SMT"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "0.26K",
+        "RatedPowerDissipationP": "1/5W",
+        "Tolerance": "0.94"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "TemperatureCoefficient": "-25,25",
+        "Resistance": "132kΩ",
+        "Tolerance": "51%",
+        "OperatingTemperatureMax": "125℃",
+        "RatedPowerDissipationP": "1/10W",
+        "SizeCode": "3535"
+    },
+    {
+        "class": "Resistors",
+        "TemperatureCoefficient": "25",
+        "Resistance": "4302kΩ",
+        "PackageStyle": "SMT",
+        "Tolerance": "0.42"
+    },
+    {
+        "class": "Resistors",
+        "input class": "Resistors",
+        "Resistance": "190G",
+        "PackageStyle": "SMT",
+        "Tolerance": "36%",
+        "RatedPowerDissipationP": "1.5W",
+        "SizeCode": "2612"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "9517Ohm",
+        "Tolerance": "53%",
+        "SizeCode": "1607"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "SizeCode": "1505",
+        "TemperatureCoefficient": "15",
+        "Tolerance": "67%",
+        "Resistance": "8355Ω"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "Resistance": "52.3K",
+        "OperatingTemperatureMin": "-55℃",
+        "Tolerance": "0.35"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0402",
+        "Resistance": "4870kΩ",
+        "OperatingTemperatureMax": "125℃"
+    },
+    {
+        "class": "Resistors",
+        "PackageStyle": "SMT",
+        "SizeCode": "0505",
+        "Resistance": "1422GΩ",
+        "OperatingTemperatureMax": "155℃"
+    },
+    {
+        "class": "Resistors",
+        "input class": "res",
+        "Resistance": "1050000mΩ",
+        "OperatingTemperatureMin": "-55℃",
+        "SizeCode": "R1206",
+        "TemperatureCoefficient": "-100,100"
+    },
+    {
+        "class": "Resistors",
+        "Resistance": "130000000mΩ",
+        "OperatingTemperatureMax": "155℃",
+        "Tolerance": "100%",
+        "RatedPowerDissipationP": "4/5W",
+        "SizeCode": "2010"
+    }
+]

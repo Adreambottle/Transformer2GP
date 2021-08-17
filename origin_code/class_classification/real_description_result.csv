@@ -1,0 +1,405 @@
+﻿,description,true_labels,predicted_labels
+0,"CAP,CHIP CERAMIC 0.2PF 0.1PF C0G/NP0 0402 50V ROHS",Capacitors,Others
+1,"CAP,CHIP CERAMIC 20PF 5% C0G/NP0 25V 0402 ROHS",Capacitors,Others
+2,"CAP,CHIP CERAMIC 22PF 5% C0G/NP0 50V 0201 (MS) ROHS",Capacitors,Others
+3,"CAP,CHIP CERAMIC 27PF 5% C0G/NP0 25V 0201 ROHS",Capacitors,Others
+4,"CAP,CHIP CERAMIC 39PF +/-0.1PF C0G/NP0 25V 0201 ROHS",Capacitors,Others
+5,"CAP,CHIP CERAMIC 100PF 10% X5R 25V 0201 ROHS",Capacitors,Others
+6,"CAP,CHIP CERAMIC 1000PF 10% X7R 50V 0201 ROHS",Capacitors,Others
+7,"CAP,CHIP CERAMIC 0.01UF 10% X5R 16V 0201 ROHS",Capacitors,Others
+8,"CAP,CHIP CERAMIC 0.47UF 10% X5R 6.3V 0201 ROHS",Capacitors,Others
+9,"CAP,CHIP CERAMIC 1.0UF 20% X5R 6.3V 0201 ROHS",Capacitors,Others
+10,"CAP,CHIP CERAMIC 2.2UF 20% X5R 6.3V 0402 ROHS",Capacitors,Others
+11,"CAP,CHIP CERAMIC 4.7UF 20% X5R 6.3V (MS) 0402 ROHS",Capacitors,Others
+12,"CAP,CHIP CERAMIC 10UF 20% X5R 6.3V 0603 (MS) ROHS",Capacitors,Others
+13,RES 0 5% 0.050W 0201 0.05OHM ROHS,Resistors,Others
+14,RES 0 5% 0.063W 0402  ROHS,Resistors,Others
+15,RES 33 200PPM 5% 0.050W 0201 ROHS,Resistors,Others
+16,RES 51K 200PPM 5% 0.050W 0201 ROHS,Resistors,Others
+17,RES 200K 200PPM 5% 0.050W 0201 ROHS,Resistors,Others
+18,"CAP,CHIP CERAMIC 1.0PF 0.1PF C0G/NP0 25V 0402 ROHS",Capacitors,Others
+19,"CAP,CHIP CERAMIC 2.5PF 0.1PF C0G/NP0 0402 50V ROHS",Capacitors,Others
+20,"CAP,CHIP CERAMIC 10PF 5% C0G/NP0 25V 0201 ROHS",Capacitors,Others
+21,"CAP,CHIP CERAMIC 12PF 5% C0G/NP0 50V 0201 (MS) ROHS",Capacitors,Others
+22,"INDUCTOR,CHIP 5.6NH +/-0.1NH DCR=0.25OHMS 450MA ROHS",Others,Others
+23,"INDUCTOR,CHIP 6.8NH +/-0.1NH DCR=0.25OHMS 450MA ROHS",Others,Others
+24,RES. 1/16W 1% 75R SMD-0201,Resistors,Capacitors
+25,\，YAGEO，15pf/X7R/0603/50V/5%，,Capacitors,Capacitors
+26,\，YAGEO，33pf/NP0/0603/50V/5%，,Capacitors,Capacitors
+27,\，YAGEO，100pf/X7R/0603/50V/10%，,Capacitors,Capacitors
+28,\，YAGEO，150pf/NP0/0603/50V/5%，,Capacitors,Capacitors
+29,\，YAGEO，1nf/NP0/0603/50V/5%，,Capacitors,Capacitors
+30,\，YAGEO，10nf/X7R/0603/50V/10%，,Capacitors,Capacitors
+31,\，YAGEO，100nf/X7R/0603/50V/10%，,Capacitors,Capacitors
+32,\，YAGEO，1uf/X7R/0603/16V/10%，,Capacitors,Capacitors
+33,\，YAGEO，1uf/X7R/1210/100V/10%，,Capacitors,Capacitors
+34,\，YAGEO，10uf/X7R/1210/50V/10%，,Capacitors,Capacitors
+35,\，YAGEO，10uf/X7R/1210/25V/10%，,Capacitors,Capacitors
+36,\，YAGEO，10uf/X7R/1206/25V/10%，,Capacitors,Capacitors
+37,\，YAGEO，0Ω/0603/1%，,Resistors,Resistors
+38,\，YAGEO，20Ω/0603/1%，,Resistors,Resistors
+39,\，YAGEO，33Ω/0603/1%，,Resistors,Resistors
+40,\，YAGEO，100Ω/0603/1%，,Resistors,Resistors
+41,\，YAGEO，330Ω/0603/1%，,Resistors,Resistors
+42,\，YAGEO，1KΩ/0603/1%，,Resistors,Resistors
+43,\，YAGEO，2KΩ/0603/1%，,Resistors,Resistors
+44,\，YAGEO，3KΩ/0603/1%，,Resistors,Resistors
+45,\，YAGEO，4.7KΩ/0603/1%，,Resistors,Resistors
+46,\，YAGEO，10KΩ/0603/1%，,Resistors,Resistors
+47,\，YAGEO，20KΩ/0603/1%，,Resistors,Resistors
+48,\，YAGEO，51KΩ/0603/1%，,Resistors,Resistors
+49,\，YAGEO，100KΩ/0603/1%，,Resistors,Resistors
+50,\，YAGEO，2KΩ/1206/1%，,Resistors,Resistors
+51,\，YAGEO，10KΩ/1206/1%，,Resistors,Resistors
+52,\，YAGEO，1KΩ/1210/1%，,Resistors,Capacitors
+53,\，YAGEO，10Ω/1206/1%，,Resistors,Resistors
+54,\，YAGEO，3.3KΩ/1210/1%，,Resistors,Capacitors
+55,\，YAGEO，0Ω/1206/1%，,Resistors,Capacitors
+56,\，YAGEO，4.7uf/X7R/1206/25V/10%，,Capacitors,Capacitors
+57,\，YAGEO，470pf/NP0/0603/50V/5%，,Capacitors,Capacitors
+58,35YXJ47M5X11，Rubycon，105℃，,Others,Capacitors
+59,100ZLH390M16X25，Rubycon，105℃/ZLH，,Others,Capacitors
+60,\，YAGEO，100nf/X7R/1206/100V/10%，,Capacitors,Capacitors
+61,\，YAGEO，100pf/NP0/0603/50V/5%，,Capacitors,Capacitors
+62,\，YAGEO，1nf/X7R/0603/50V/5%，,Capacitors,Capacitors
+63,\，YAGEO，56pf/NP0/0603/50V/5%，,Capacitors,Capacitors
+64,\，YAGEO，3.3nf/X7R/0603/50V/10%，,Capacitors,Capacitors
+65,\，YAGEO，10uf/X7R/1206/16V/10%，,Capacitors,Capacitors
+66,\，YAGEO，4.02KΩ/0603/1%，,Resistors,Resistors
+67,\，YAGEO，1KΩ/0805/1%，,Resistors,Resistors
+68,\，YAGEO，5.1KΩ/0603/1%，,Resistors,Resistors
+69,\，YAGEO，20Ω/0805/1%，,Resistors,Resistors
+70,\，YAGEO，1MΩ/0603/1%，,Resistors,Resistors
+71,\，YAGEO，470Ω/0603/1%，,Resistors,Resistors
+72,\，YAGEO，15KΩ/0805/1%，,Resistors,Resistors
+73,\，YAGEO，3.3KΩ/0603/1%，,Resistors,Resistors
+74,"CAP,YAGEO,CC0402KxX7R8BB103,0.01uF/±10%/X7R/25V,0402,SMD,C",Capacitors,Others
+75,"CAP,YAGEO,CC0603KxX7R9BB103,0.01uF/±10%/X7R/50V,0603,SMD,C",Capacitors,Capacitors
+76,"CAP,YAGEO,CC0805KxX7R0BB104,0.1uF/±10%/X7R/100V,0805,SMD,C",Capacitors,Others
+77,"CAP,YAGEO,CC0402KxX7R8BB104,0.1uF/±10%/X7R/25V,0402,SMD,C",Capacitors,Others
+78,"CAP,YAGEO,CC0402KxX7R8BB104,0.1uF/±10%/X7R/25V,0402,SMD,C",Capacitors,Others
+79,"CAP,YAGEO,CC0402KxX7R8BB104,0.1uF/±10%/X7R/25V,0402,SMD,C",Capacitors,Others
+80,"CAP,YAGEO,CC0603KxX7R9BB104,0.1uF/±10%/X7R/50V,0603,SMD,C",Capacitors,Capacitors
+81,"CAP,YAGEO,CC0603KxX7R9BB152,1.5nF/±10%/X7R/50V,0603,SMD,C",Capacitors,Capacitors
+82,"CAP,YAGEO,CC0603JxNPO9BN101,100pF/±5%/NPO/50V,0603,SMD,C",Capacitors,Capacitors
+83,"CAP,YAGEO,CC0603JxNP09BN100,10pF/±5%/NPO/50V,0603,SMD,C",Capacitors,Capacitors
+84,"CAP,MURATA,GRM188R61A106K,10uF/±10%/X5R/10V,0603,SMD,C",Capacitors,Capacitors
+85,"CAP,MURATA,GRM21BR61C106K,10uF/±10%/X5R/16V,0805,SMD,C",Capacitors,Capacitors
+86,"CAP,YAGEO,CC0402KxX7R8BB102,1nF/±10%/X7R/25V,0402,SMD,C",Capacitors,Capacitors
+87,"CAP,YAGEO,CC0402KxX7R8BB102,1nF/±10%/X7R/25V,0402,SMD,C",Capacitors,Capacitors
+88,"CAP,YAGEO,CC0402KxX5R7BB105,1uF/±10%/X5R/16V,0402,SMD,C",Capacitors,Capacitors
+89,"CAP,YAGEO,CC0603KxX5R8BB105,1uF/±10%/X5R/25V,0603,SMD,C",Capacitors,Capacitors
+90,"CAP,YAGEO,CC1206KxX7R0BB224,220nF/±10%/X7R/100V,1206,SMD,C",Capacitors,Capacitors
+91,"CAP,YAGEO,CC1206KxX5R7BB226,22uF/±10%/X5R/16V,1206,SMD,C",Capacitors,Capacitors
+92,"CAP,YAGEO,CC0603JxNPO9BN330,33pF/±5%/NPO/50V,0603,SMD,C",Capacitors,Capacitors
+93,"CAP,YAGEO,CC0603KxX5R7BB475,4.7uF/±10%/X5R/16V,0603,SMD,C",Capacitors,Capacitors
+94,"RES,YAGEO,RC0603Jx-xx0RL,0ohm/±5%/1/10W,0603,SMD,C",Resistors,Capacitors
+95,"RES,YAGEO,RC0402Jx-xx0RL,0ohm/±5%/1/16W,0402,SMD,C",Resistors,Others
+96,"RES,YAGEO,RC0402Fx-xx100RL,100ohm/±1%/1/16W,0402,SMD,C",Resistors,Others
+97,"RES,YAGEO,RC0603Fx-xx10KL,10Kohm/±1%/1/10W,0603,SMD,C",Resistors,Capacitors
+98,"RES,YAGEO,RC0603Jx-xx10KL,10Kohm/±5%/1/10W,0603,SMD,C",Resistors,Capacitors
+99,"RES,YAGEO,RC0402Jx-xx10KL,10Kohm/±5%/1/16W,0402,SMD,C",Resistors,Others
+100,"RES,YAGEO,RC0402Fx-xx130RL,130ohm/±1%/1/16W,0402,SMD,C",Resistors,Capacitors
+101,"RES,YAGEO,RC0402Fx-xx150RL,150ohm/±1%/1/16W,0402,SMD,C",Resistors,Others
+102,"RES,YAGEO,RC0402Jx-xx1KL,1Kohm/±5%/1/16W,0402,SMD,C",Resistors,Capacitors
+103,"RES,YAGEO,RC0603Jx-xx1KL,1Kohm/±5%/1/10W,0603,SMD,C",Resistors,Capacitors
+104,"RES,YAGEO,RC0603Jx-xx22RL,22ohm/±5%/1/10W,0603,SMD,C",Resistors,Capacitors
+105,"RES,YAGEO,RC0805Fx-xx28K7L,28.7Kohm/±1%/1/8W,0805,SMD,C",Resistors,Others
+106,"RES,YAGEO,RC0603Fx-xx3K65L,3.65Kohm/±1%/1/10W,0603,SMD,C",Resistors,Others
+107,"RES,YAGEO,RC0402Fx-xx33RL,33ohm/±1%/1/16W,0402,SMD,C",Resistors,Capacitors
+108,"RES,YAGEO,RC0603Jx-xx33RL,33ohm/±5%/1/10W,0603,SMD,C",Resistors,Capacitors
+109,"RES,YAGEO,RC0603Jx-xx4K7L,4.7Kohm/±5%/1/10W,0603,SMD,C",Resistors,Others
+110,"RES,YAGEO,RC0402Jx-xx4K7L,4.7Kohm/±5%/1/16W,0402,SMD,C",Resistors,Others
+111,"RES,YAGEO,RC0402Fx-xx4K99L,4.99Kohm/±1%/1/16W,0402,SMD,C",Resistors,Others
+112,"RES,YAGEO,RC0402Fx-xx49R9L,49.9ohm/±1%/1/16W,0402,SMD,C",Resistors,Others
+113,"RES,YAGEO,RC0603Fx-xx6K04L,6.04Kohm/±1%/1/10W,0603,SMD,C",Resistors,Others
+114,"RES,YAGEO,RC0402Fx-xx82RL,82ohm/±1%/1/16W,0402,SMD,C",Resistors,Capacitors
+115,"电解电容,NCC,EMVE101ARA470MKE0S,47uF/100V/±20%/105℃/12.5x13.5,SMD,C",Capacitors,Others
+116,"固体电容,SANYO,6TPE220MAZB,220uF/6.3V/±20%/105℃/3.5x2.8,SMD,C",Capacitors,Others
+117,CAP 330UF/6.3V +/-20% 6.3*5.8mm P=1.9mm SO APXE6R3ARA331MF61G CHEMI-CON,Capacitors,Others
+118,"CAP 0.01UF/25V 10% X7R 0402 BAV199,215. 國巨",Capacitors,Others
+119,"CAP 0.1UF/25V +80%-20% 0402 CC0402ZRY5V,8BB104 國巨",Capacitors,Others
+120,CAP 0.1UF/50V +/-10% 0603 X7R CL10B104KB8NNNC SAMSUNG,Capacitors,Others
+121,CAP 0.47UF/6.3V 10% 0402CC0402KRX5R5BB474 國巨,Capacitors,Others
+122,CAP 100PF/50V +-5% NPO 0402 CC0402JRNPO9BN101,Capacitors,Others
+123,CAP 10PF/50V 5% 0402 NPO CC0402JRNPO9BN100,Capacitors,Others
+124,CAP-CHIP 10UF/50V M 1210 CC1210MKX5R9BB106 國巨,Capacitors,Others
+125,CAP 18PF/50V +/-5% 0402 C0G CL05C180JB5NNNC SAMSUNG,Capacitors,Others
+126,CAP 1UF/6.3V 10% 0402 X5R CC0402KRX5R5BB105 國巨,Capacitors,Others
+127,CAP 1UF/50V +/-10% 0603 CC0603KRX5R9BB105 國巨,Capacitors,Capacitors
+128,CAP 2.2UF/6.3V +/-20% 0402 X5R CL05A225MQ5NSNC SAMSUNG,Capacitors,Others
+129,CAP 20PF/50V +/-5% 0402 C0G CL05C200JB5NNNC 無鹵 SAMSUNG,Capacitors,Others
+130,CAP 220PF/50V +/-10% 0402 CC0402KRX7R9BB221 國巨,Capacitors,Capacitors
+131,CAP 22000PF/25V +50%-20%0603CNF10R223S-TM MARUWA,Capacitors,Capacitors
+132,CAP 22UF/6.3V +/-20% 0603 CC0603MRX5R5BB226 國巨,Capacitors,Others
+133,CAP 330PF/50V +/-10％ 0402 CC0402KRX7R9BB331 國巨,Capacitors,Capacitors
+134,CAP 0.033UF/50V +/-10% 0603 CC0603KRX7R9BB333 無鹵 國巨,Capacitors,Capacitors
+135,CAP 390PF/50V +/-10% 0402 CC0402KRX7R9BB391 無鹵 國巨,Capacitors,Capacitors
+136,CAP 4.7UF/10V +/-10% 0603 X5R CL10A475KP8NNNC SAMSUNG,Capacitors,Others
+137,CAP 4.7UF/6.3V +/-20% 0402 X5R H=0.5mm CL05A475MQ5NRNC SAMSUNG,Capacitors,Others
+138,CAP 47UF/6.3V +/-20% 0805 X5R CL21A476MQYNNNE SAMSUNG,Capacitors,Others
+139,RES 0 5% 0402 1/16W RC0402JR-070RL 無鉛國巨,Resistors,Capacitors
+140,RES 0 +/-5% 0603 1/10W RC0603JR-070RL 國巨,Resistors,Capacitors
+141,RES-CHIP 1.5K 5% 0402 1/16W RC0402JR-071.5KL 國巨,Resistors,Others
+142,RES 100K +/-1% 0402 1/16W RC0402FR-07100KL 國巨,Resistors,Capacitors
+143,RES 100 1% 0402 1/16W RC0402FR-07100RL 國巨,Resistors,Capacitors
+144,RES 105K +/-1% 0402 1/16W RC0402FR-07105KL 國巨,Resistors,Capacitors
+145,RES 10K 5% 0402 1/16W RC0402JR-0710KL (無鉛) 國巨,Resistors,Capacitors
+146,RES-CHIP 10K 1% 0402 1/16W RC0402FR-0710KL 國巨,Resistors,Others
+147,RES-CHIP 120 5% 0402 1/16W RC0402JR07120R 國巨,Resistors,Capacitors
+148,RES-CHIP 120K 1% 0402 1/16W RC0402FR07120K 國巨,Resistors,Others
+149,RES-CHIP 120 5% 1206 1/4W JR-07120RL 國巨,Resistors,Capacitors
+150,RES 12K +/-1％ 0402 1/16W RC0402FR-0712KL 國巨,Resistors,Capacitors
+151,RES 150K +/-1% 0402 1/16W RC0402FR-07150KL 國巨,Resistors,Capacitors
+152,RES 1K +/-1% 0402 1/16W RC0402FR-071KL 國巨,Resistors,Capacitors
+153,RES 1M 1% 0402 1/16W RC0402FR-071ML (無鉛）國巨,Resistors,Capacitors
+154,RES 2.2K +/-1% 0402 1/16W RC0402FR-072K2L 國巨,Resistors,Others
+155,RES 2.2 +/-5% 0402 1/16W RC0402JR-072R2L 國巨,Resistors,Others
+156,RES 200K +/-1% 0402 1/16W RC0402FR-07200KL 國巨,Resistors,Capacitors
+157,RES 22 5% 0402 1/16W RC0402JR-0722RL 無鉛國巨,Resistors,Capacitors
+158,RES 240 +/-1% 0402 1/16W RC0402FR-07240RL 國巨,Resistors,Capacitors
+159,RES 24K +/-1% 0402 1/16W RC0402FR-0724KL 國巨,Resistors,Capacitors
+160,RES 3.3K +/-1% 0402 1/16W RC0402FR-073K3L 國巨,Resistors,Others
+161,RES 30K 1% 0402 1/16W RC0402FR0730K YAGEO,Resistors,Others
+162,RES 330 +/-1% 0402 1/16W RC0402FR-07330RL 國巨,Resistors,Capacitors
+163,RES 33 1% 0402 1/16W RC0402FR-0733RL 國巨,Resistors,Capacitors
+164,RES 33 5% 0603 1/10W JRF0733RL (無鉛) 國巨,Resistors,Capacitors
+165,RES 4.7K 1% 0402 1/16W RC0402FR-074K7L 國巨,Resistors,Others
+166,RES 4.7 5% 0805 1/8W CF (無鉛) 國巨,Resistors,Others
+167,RES 470K +/-5% 0402 1/16W RC0402JR-07470KL 國巨,Resistors,Capacitors
+168,RES 47K +/-5% 0402 1/16W RC0402JR-0747KL 國巨,Resistors,Capacitors
+169,RES 53.6K +/-1% 0402 1/16W RC0402FR-0753K6L 國巨,Resistors,Capacitors
+170,RES 56K +/-5% 0402 1/16W RC0402JR-0756KL 國巨,Resistors,Capacitors
+171,RES 6.2K 1% 0402 1/16W RC0402FR-076K2 國巨,Resistors,Others
+172,RES 75 +/-1% 0402 1/16W RC0402FR-0775RL 國巨,Resistors,Capacitors
+173,RES 887K 0402,Resistors,Resistors
+174,MLCC 0402 2.2uF +-10% X5R 6.3V,Capacitors,Others
+175,MLCC 0402 4.7uF +-10% X5R 6.3V,Capacitors,Others
+176,"MLCC 0402 470nF,+-10%,X7R,16V",Capacitors,Capacitors
+177,MLCI 0805 4.7uH 20% I 250mA R22mR,Capacitors,Others
+178,MLCC 0402 1uF +-10% X5R 16V,Capacitors,Others
+179,"MLCC 0402 100nF,+-10%,X7R,16V",Capacitors,Capacitors
+180,RES 0402 1R 5% 1/16W,Resistors,Others
+181,MLCC 0402 10pF +-5% NP0 50V,Capacitors,Others
+182,MLCC 0402 1.5pF +-5% NP0 50V,Capacitors,Others
+183,MLCC 0402 0.75pF +-5% NP0 50V,Capacitors,Others
+184,RES 0402 0R 5% 1/16W,Resistors,Capacitors
+185,RES 0201 0R 5% 1/20W,Resistors,Others
+186,REMS 0402 1 5% 1/16W,Others,Capacitors
+187,"22uF/16V/X5R,C1206",Capacitors,Capacitors
+188,"0.1uF/50V/X7R,C0603",Capacitors,Resistors
+189,"220uF/50V,C_10MX10MX10M_SMD",Capacitors,Others
+190,"22uF/50V,C_6M6X6M6X7M7_SMD",Capacitors,Capacitors
+191,"6.8UF/50V,C7343",Capacitors,Capacitors
+192,"0.01uF/50V/X7R,C0603",Capacitors,Resistors
+193,"47UF/25V/X5R,C1206",Capacitors,Capacitors
+194,"10uF/16V/X5R,C0805",Capacitors,Resistors
+195,"1uF/16V/X5R,C0805",Capacitors,Resistors
+196,"2.2uF/16V X5R,C0402",Capacitors,Capacitors
+197,"0.1uF/50V/X7R,C0402",Capacitors,Resistors
+198,"18pF/50V NPO,C0402",Capacitors,Resistors
+199,"0.22uF/50V/X5R,C0402",Capacitors,Resistors
+200,"10uF/16V/X5R,C0603",Capacitors,Resistors
+201,"4.7uF/16V/X5R,C0603",Capacitors,Resistors
+202,"220pF/50V/X7R,C0603",Capacitors,Resistors
+203,"33uf/10V/TAN,C1206_T",Capacitors,Resistors
+204,"1nF/50V/X7R,C0603",Capacitors,Resistors
+205,"0.01uF/50V/X7R,C0402",Capacitors,Resistors
+206,"1uF/25V/X7R,C0603",Capacitors,Resistors
+207,"10k/5%,RN0603",Resistors,Resistors
+208,"22R/5%,RN0603",Resistors,Resistors
+209,"4.3K/5%,RN0603",Resistors,Resistors
+210,"1k/1%,R0603",Resistors,Resistors
+211,"10k/5%,R0603",Resistors,Resistors
+212,"2.87k/1%,R0603",Resistors,Resistors
+213,"1R/1%,R0805",Resistors,Resistors
+214,"576K/1%,R0402",Resistors,Resistors
+215,"4.7K/5%,R0402",Resistors,Resistors
+216,"499K/1%,R0402",Resistors,Resistors
+217,"5.6K/1%,R0402",Resistors,Resistors
+218,"0R/5%,R0402",Resistors,Resistors
+219,"1.4K/1%,R0402",Resistors,Resistors
+220,"200K/1%,R0402",Resistors,Resistors
+221,"160K/1%,R0402",Resistors,Resistors
+222,"300K/1%,R0402",Resistors,Resistors
+223,"60.4K/1%,R0402",Resistors,Resistors
+224,"10k/5%,R0402",Resistors,Resistors
+225,"510R/5%,R0402",Resistors,Resistors
+226,"1K/1%,R0402",Resistors,Resistors
+227,"22R/5%,R0402",Resistors,Resistors
+228,"100K/5%,R0402",Resistors,Resistors
+229,"1R/1%,R1206",Resistors,Resistors
+230,"49.9R/1%,R0402",Resistors,Resistors
+231,"2k/5%,R0402",Resistors,Resistors
+232,"0R/5%/1206,R1206",Resistors,Capacitors
+233,"13K/1%,R0603",Resistors,Resistors
+234,"1.5k/5%,R0603",Resistors,Resistors
+235,"680R/1% ,R0603",Resistors,Resistors
+236,"5.1k/5%,R0603",Resistors,Resistors
+237,"4.7k/5%,R0603",Resistors,Resistors
+238,"200R/5%,R0603",Resistors,Resistors
+239,"10d180k,ZENR",Others,Resistors
+240,"28R/1%,R0805",Resistors,Resistors
+241,"43R/1%,R0805",Resistors,Resistors
+242,"24.9R/1%,R0805",Resistors,Resistors
+243,"6.04R/1%,R0805",Resistors,Resistors
+244,"4.02R/1%,R0805",Resistors,Resistors
+245,CAP 100nF ±10% 16V 0402 SMD,Capacitors,Others
+246,CAP 22uF ±20% 25V 0805 SMD,Capacitors,Others
+247,CAP 0402 100NF 10% 16V X7R,Capacitors,Others
+248,CAP 2.2nF ±10% 50V 0402 SMD,Capacitors,Others
+249,CAP 0603 2.2UF 10% 10V X7R,Capacitors,Others
+250,CAP 0402 3.3NF 10% 50V X7R,Capacitors,Others
+251,"MLCC,0402,X5R,1uF,6.3V,K,村田-MURATA,Green 4",Capacitors,Resistors
+252,"MLCC,0805,X7R,10uF,10V,1.45mm,K,村田-MURATA,Green 04",Capacitors,Resistors
+253,CAP CHIP 0402 220nF 16V X5R,Capacitors,Others
+254,MLCC 0603 10UF 6.3V X5R +-20%,Capacitors,Others
+255,CAP 0603 4.7UF 10% 6.3V X6S -,Capacitors,Others
+256,CAP 0603 22uf 20% 6.3V X5R GRM188R60J226MEA01D,Capacitors,Others
+257,"MLCC,0402,X7R,100nF,16V,K,村田-MURATA,Green 04",Capacitors,Resistors
+258,"MLCC,0402,X7R,1nF,50V,K,村田-MURATA,Green 04",Capacitors,Resistors
+259,CAP CHIP 0402 10N 50V X7R +/-10%,Capacitors,Others
+260,CAP 12pF ±10% 50V 0402 SMD,Capacitors,Others
+261,MLCC 0603 10UF 6.3V X5R +-20%,Capacitors,Others
+262,"Res-SMD,0402,1/16W,10KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+263,RST CHIP 1K 1/16W 1%,Resistors,Others
+264,RES 10K ±1% 1/16W 0402 SMD,Resistors,Others
+265,RES 0R ±5% 1/16W 0402 SMD,Resistors,Others
+266,RST CHIP 12K 1/16W 1% YAGEO,Resistors,Others
+267,RST CHIPR 10KOHM +-5% 1/16W YAGEO,Resistors,Others
+268,RST CHIP 4K7 1/16W 5% TZAI YUAN,Resistors,Others
+269,RST CHIP 470R 1/16W 5% TZAI YUAN,Resistors,Others
+270,RST CHIP 22K 1/16W 5% TZAI YUAN,Resistors,Others
+271,RST CHIP 49R9 1/16W 1%,Resistors,Others
+272,"Res-SMD,0402,1/16W,1KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+273,"Res-SMD,0402,1/16W,1.2KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+274,RST CHIP 300R 1/16W 1%YAGEO,Resistors,Others
+275,RST 0402 240R 1% 1/16W RC0402FR-07240RL,Resistors,Others
+276,RST CHIP 100R 1/16W 1%YAGEO,Resistors,Others
+277,RES 0R ±5% 1/10W 0603 SMD,Resistors,Others
+278,ESD MLVG04025R0QV05BP  INPAQ,Others,Capacitors
+279,"MLCC,0805,X5R,22uF,25V,1.45mm,M,台灣村田,Green 04  ",Capacitors,Resistors
+280,"MLCC,0402,X5R,100nF,25V,K,村田-MURATA,Green 4",Capacitors,Resistors
+281,"MLCC,0805,X5R,22uF,10V,1.45mm,M,村田-MURATA,Green 04",Capacitors,Resistors
+282,"Res-SMD,1206,0Ω,J,國巨-YAGEO,Green 04",Resistors,Resistors
+283,"IND,3.3uH,3.5A,HBME041H-3R3MS-47,Cyntec,Green 04",Others,Others
+284,"IND,3.3uH,1.7A,HMMB25201B-3R3MSR-47,Cyntec,Green 4",Others,Others
+285,"MOS,P-CH,SOT-23,DMP3098L-7,達爾-DIODES,Green 04",Others,Resistors
+286,"Tr,NPN,SOT-23,MMBT2222A-7-F-Cu,達爾-DIODES,Green 04 ",Others,Resistors
+287,"Res-SMD,0402,1/16W,100KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+288,"Res-SMD,0402,1/16W,27KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+289,"Res-SMD,0402,1/16W,91KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+290,"Res-SMD,0402,1/16W,40.2KΩ,F,國巨-YAGEO,Green 04",Resistors,Resistors
+291,"Res-SMD,0402,1/16W,47KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+292,"MLCC,0603,X7R,2.2uF,10V,0.9mm,K,國巨-YAGEO,Green 4",Capacitors,Others
+293,"MLCC,0402,NPO,18pF,50V,J,村田-MURATA,Green 04",Capacitors,Resistors
+294,"Res-SMD,0402,1/16W,75Ω,J,國巨-YAGEO,Green 04",Resistors,Resistors
+295,"ESD-P,0402,3pF,TVM0G180M030R,135V,THINKING_興勤,Green 03",Others,Others
+296,"Res-SMD,0402,1/16W,0Ω,J,國巨-YAGEO,Green 04",Resistors,Resistors
+297,"MLCC,0805,X5R,10uF,16V,1.45mm,K,台灣村田,Green 04",Capacitors,Resistors
+298,"MOS,P-CH,SO8,DMG4435SSS-13,達爾-DIODES,Green 04",Others,Resistors
+299,"Res-SMD,0402,1/16W,4.7KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+300,"Res-SMD,0402,1/16W,10Ω,J,國巨-YAGEO,Green 04",Resistors,Resistors
+301,"Res-SMD,0402,1/16W,33KΩ,F,國巨-YAGEO,Green 04",Resistors,Resistors
+302,CAP 10uF ±10% 25V 0805 SMD,Capacitors,Others
+303,"Res-SMD,0402,1/16W,13KΩ,F,國巨-YAGEO,Green 04",Resistors,Resistors
+304,"Res-SMD,0402,1/16W,6.2KΩ,F,國巨-YAGEO,Green 04",Resistors,Resistors
+305,"Res-SMD,0402,1/16W,82KΩ,F,國巨-YAGEO,Green 04",Resistors,Resistors
+306,"Res-SMD,0402,1/16W,41.2KΩ,F,國巨-YAGEO,Green 04",Resistors,Resistors
+307,"Res-AG,0402,1/16W,47KΩ,F,國巨-YAGEO,Green 04",Resistors,Resistors
+308,"LDO, ABLIC, S-1172B25-U5T1GF",Others,Capacitors
+309,"Res-SMD,0402,1/16W,22Ω,J,國巨-YAGEO,Green 04",Resistors,Resistors
+310,"Res-SMD,0402,1/16W,47KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+311,"Res-SMD,0402,1/16W,1MΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+312,"Res-SMD,0402,1/16W,82KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+313,"Res-SMD,0402,1/16W,16KΩ,J,國巨-YAGEO,Green 04",Resistors,Resistors
+314,"Res-SMD,0402,1/16W,100Ω,J,國巨-YAGEO,Green 04",Resistors,Resistors
+315,贴片电容/10nF(103) ±10% 16V 编带,Capacitors,Capacitors
+316,贴片电容/2.2nF(222) ±10% 50V,Capacitors,Others
+317,贴片电容/47pF(470) ±2% 50V,Capacitors,Capacitors
+318,贴片电容/68pF(680) ±5% 50V,Capacitors,Capacitors
+319,贴片电容/100nF(104) ±10% 50V,Capacitors,Others
+320,贴片电容/100nF(104) ±20% 10V,Capacitors,Others
+321,贴片电容/4.7uF (475) ±10% 10V,Capacitors,Others
+322,10uF(106) ±10% 50V,Capacitors,Capacitors
+323,贴片电容/47uF(476) ±20% 10V 编带,Capacitors,Capacitors
+324,贴片电阻/31.6KΩ(3162) ±1%,Resistors,Resistors
+325,贴片电阻/ 24.0Ω(24R0) ±1%,Resistors,Resistors
+326,贴片电阻/33Ω(33R0) ±1% 编带,Resistors,Resistors
+327,贴片电阻/ 51Ω(51R0) ±1%,Resistors,Resistors
+328,贴片电阻/2KΩ(2001) ±1%,Resistors,Resistors
+329,贴片电阻/2KΩ(2001) ±1%,Resistors,Resistors
+330,贴片电阻/240Ω(2400) ±1% 编带,Resistors,Resistors
+331,贴片电阻/10KΩ(1002) ±1%,Resistors,Resistors
+332,贴片电阻/100KΩ(1003) ±1%,Resistors,Resistors
+333,贴片电阻/100KΩ(1003) ±1%,Resistors,Resistors
+334,贴片电阻/59KΩ(5902) ±1%,Resistors,Resistors
+335,贴片电阻/120Ω(1200) ±1% 编带,Resistors,Resistors
+336,"0805,2.2NF,50V,10%",Capacitors,Capacitors
+337,"0805,33PF,50V,10%",Capacitors,Capacitors
+338,"0805,100PF,50V,10%",Capacitors,Capacitors
+339,CAP TANT 10UF 10V 10% 1210,Capacitors,Others
+340,"0805,1.8K,1%",Others,Capacitors
+341,"0805,3.3M,1%",Others,Capacitors
+342,"0805,47R,1%",Resistors,Capacitors
+343,"0805,270K,1%",Others,Capacitors
+344,"0805,8.2K,1%",Others,Capacitors
+345,"1210,22UF,35V,10%",Capacitors,Capacitors
+346,CAP TANT 10UF 20V 10% 1210,Capacitors,Others
+347,0603 22PF 50V 10%,Capacitors,Capacitors
+348,"0805,10UF,35V,10%",Capacitors,Capacitors
+349,"0603,470NF,16V,10%",Capacitors,Capacitors
+350,"0603,220R,1%",Resistors,Capacitors
+351,"2512,0.22R,1%",Resistors,Capacitors
+352,0603 180R 1%,Resistors,Capacitors
+353,0603 237R 1%,Resistors,Capacitors
+354,0603 576R 1%,Resistors,Capacitors
+355,"0805,560R,5%",Resistors,Capacitors
+356,"0805,RED,普亮,SMD",Others,Resistors
+357,"C0603,10uF/6.3V",Capacitors,Capacitors
+358,"C0603,GRM188R60J106",Capacitors,Capacitors
+359,"C0402,GRM155R61C104KA88D",Capacitors,Capacitors
+360,"C0402,0.1uF/50V",Capacitors,Capacitors
+361,"C0603,GRM188R60J475KE19D",Capacitors,Capacitors
+362,"C0402,15pF/50V",Capacitors,Capacitors
+363,"C0603,C1608X5R1A226M080AC",Capacitors,Capacitors
+364,"C0603,GRM185D71A105KE36",Capacitors,Capacitors
+365,"C0402,0.22uF/50V",Capacitors,Capacitors
+366,"C0402,10nF/50V",Capacitors,Capacitors
+367,"C0402,4.7uF/6.3V",Capacitors,Capacitors
+368,"C0402,0.47uF/50V",Capacitors,Capacitors
+369,"C0402,10uF/6.3V",Capacitors,Capacitors
+370,"C0805,47uF/6.3V",Capacitors,Capacitors
+371,"C0805,22uF/25V",Capacitors,Capacitors
+372,"C0603,0.01uF/50V",Capacitors,Capacitors
+373,"C0402,0.1uF/50V",Capacitors,Capacitors
+374,"C0603,4.7uF/16V",Capacitors,Capacitors
+375,"C0603,0.1uF/50V",Capacitors,Capacitors
+376,"C0603,22uF/6.3V",Capacitors,Capacitors
+377,"C0402,4700pF/50V",Capacitors,Capacitors
+378,"C0402,100pF/50V",Capacitors,Capacitors
+379,"C1206,22uF/25V",Capacitors,Capacitors
+380,"C0603,3.3uF/16V",Capacitors,Capacitors
+381,"C0603,10uF/16V",Capacitors,Capacitors
+382,"C0402,47nF/50V",Capacitors,Capacitors
+383,"R0402,100_1%",Resistors,Resistors
+384,"R0402,499_1%",Resistors,Resistors
+385,"R0402,33R",Resistors,Capacitors
+386,"R0402,4K7_1%",Resistors,Resistors
+387,"R0402,2K 5%",Resistors,Capacitors
+388,"R0603,0R 1%",Resistors,Capacitors
+389,"R0402,40.2K 1%",Resistors,Capacitors
+390,"R0402,58.5K 1%",Resistors,Capacitors
+391,"R0402,20K 5%",Resistors,Capacitors
+392,"R0402,12.7K 1%",Resistors,Capacitors
+393,"R0402,137K 1%",Resistors,Capacitors
+394,"R0402,383K 1%",Resistors,Capacitors
+395,"R0402,0R 1%",Resistors,Capacitors
+396,"R0603,75_1%",Resistors,Resistors
+397,"R0603,49.9_1%",Resistors,Resistors
+398,"R0402,10K_1%",Resistors,Resistors
+399,"R0402,52.3K_1%",Resistors,Resistors
+400,"R0402,80.6K 1%",Resistors,Capacitors
+401,"R0402,30K_1%",Resistors,Resistors
+402,"R0402,10K 1%",Resistors,Capacitors
+403,"R0603,750_1%",Resistors,Resistors

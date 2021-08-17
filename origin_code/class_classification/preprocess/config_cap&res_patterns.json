@@ -1,0 +1,460 @@
+{
+    "Capacitors": [
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "others",
+            "TemperatureCharacteristicsCode",
+            "others",
+            "SizeCode",
+            "RatedDCVoltageURdc (User input)"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode",
+            "others",
+            "RatedDCVoltageURdc (User input)",
+            "SizeCode"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode",
+            "others",
+            "RatedDCVoltageURdc (User input)",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "others",
+            "TemperatureCharacteristicsCode",
+            "others",
+            "RatedDCVoltageURdc (User input)",
+            "SizeCode"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode",
+            "RatedDCVoltageURdc (User input)",
+            "SizeCode"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode",
+            "RatedDCVoltageURdc (User input)",
+            "others",
+            "SizeCode"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode",
+            "RatedDCVoltageURdc (User input)",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "TemperatureCharacteristicsCode",
+            "SizeCode",
+            "RatedDCVoltageURdc (User input)"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "others",
+            "TemperatureCharacteristicsCode",
+            "RatedDCVoltageURdc (User input)",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "others",
+            "others",
+            "RatedDCVoltageURdc (User input)",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "others",
+            "others",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "PositiveTolerance",
+            "TemperatureCharacteristicsCode",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others",
+            "others",
+            "SizeCode",
+            "TemperatureCharacteristicsCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "PositiveTolerance",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others",
+            "others",
+            "SizeCode"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "PositiveTolerance",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "PositiveTolerance",
+            "SizeCode",
+            "TemperatureCharacteristicsCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others",
+            "others",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "others",
+            "SizeCode",
+            "Capacitance (User input)",
+            "others",
+            "TemperatureCharacteristicsCode"
+        ],
+        [
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "TemperatureCharacteristicsCode"
+        ],
+        [
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "others",
+            "RatedDCVoltageURdc (User input)",
+            "SizeCode"
+        ],
+        [
+            "input class",
+            "SizeCode",
+            "Capacitance (User input)",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc (User input)"
+        ],
+        [
+            "others",
+            "SizeCode",
+            "TemperatureCharacteristicsCode",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others"
+        ],
+        [
+            "input class",
+            "others",
+            "SizeCode",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)"
+        ],
+        [
+            "others",
+            "SizeCode",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "TemperatureCharacteristicsCode"
+        ],
+        [
+            "input class",
+            "SizeCode",
+            "Capacitance (User input)",
+            "PositiveTolerance",
+            "RatedDCVoltageURdc (User input)",
+            "TemperatureCharacteristicsCode"
+        ],
+        [
+            "others",
+            "SizeCode",
+            "others",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "others"
+        ],
+        [
+            "input class",
+            "Capacitance (User input)",
+            "others",
+            "others"
+        ],
+        [
+            "SizeCode",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)"
+        ],
+        [
+            "input class",
+            "others",
+            "Capacitance (User input)",
+            "RatedDCVoltageURdc (User input)",
+            "PositiveTolerance"
+        ],
+        [
+            "others",
+            "Capacitance (User input)"
+        ]
+    ],
+    "Resistors": [
+        [
+            "input class",
+            "Resistance (User input)",
+            "Tolerance",
+            "RatedPowerDissipationP (User input)",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Resistance (User input)",
+            "Tolerance",
+            "RatedPowerDissipationP (User input)",
+            "SizeCode"
+        ],
+        [
+            "input class",
+            "Resistance (User input)",
+            "others",
+            "Tolerance",
+            "RatedPowerDissipationP (User input)",
+            "SizeCode"
+        ],
+        [
+            "others",
+            "Resistance (User input)",
+            "RatedPowerDissipationP (User input)",
+            "Tolerance"
+        ],
+        [
+            "others",
+            "others",
+            "Resistance (User input)",
+            "others"
+        ],
+        [
+            "others",
+            "others",
+            "Resistance (User input)",
+            "SizeCode"
+        ],
+        [
+            "others",
+            "others",
+            "Resistance (User input)"
+        ],
+        [
+            "input class",
+            "others",
+            "others",
+            "Resistance (User input)",
+            "Tolerance",
+            "others",
+            "RatedPowerDissipationP (User input)",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Resistance (User input)",
+            "Tolerance",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Resistance (User input)",
+            "others",
+            "Tolerance",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "others",
+            "Resistance (User input)",
+            "Tolerance",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Resistance (User input)",
+            "others",
+            "others",
+            "SizeCode",
+            "others"
+        ],
+        [
+            "input class",
+            "Resistance (User input)"
+        ],
+        [
+            "input class",
+            "SizeCode",
+            "Resistance (User input)",
+            "Tolerance",
+            "Resistance"
+        ],
+        [
+            "input class",
+            "SizeCode",
+            "others",
+            "Tolerance",
+            "Resistance (User input)"
+        ],
+        [
+            "Resistance (User input)",
+            "Tolerance"
+        ],
+        [
+            "Resistance (User input)",
+            "Tolerance",
+            "SizeCode"
+        ],
+        [
+            "others",
+            "SizeCode",
+            "Resistance (User input)",
+            "others"
+        ],
+        [
+            "input class",
+            "Resistance (User input)",
+            "Tolerance",
+            "others",
+            "others",
+            "SizeCode"
+        ],
+        [
+            "input class",
+            "others",
+            "Tolerance",
+            "Resistance (User input)",
+            "others",
+            "SizeCode"
+        ],
+        [
+            "others",
+            "others",
+            "Tolerance",
+            "Resistance (User input)",
+            "others"
+        ],
+        [
+            "others",
+            "others",
+            "Resistance (User input)",
+            "others",
+            "Tolerance",
+            "others"
+        ],
+        [
+            "others",
+            "SizeCode",
+            "Resistance (User input)",
+            "Tolerance",
+            "others"
+        ],
+        [
+            "others",
+            "Resistance (User input)",
+            "others"
+        ],
+        [
+            "SizeCode",
+            "Resistance (User input)"
+        ],
+        [
+            "Resistance (User input)",
+            "others"
+        ],
+        [
+            "others",
+            "Resistance (User input)"
+        ]
+    ]
+}

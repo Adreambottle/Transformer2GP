@@ -1,0 +1,111 @@
+{
+  "Server": {
+    "train_config": {
+      "num_labels1": 9,
+      "num_labels2": 8,
+      "model": "albert-base-v2"
+    },
+    "encoder": {
+      "cap_attrs": {
+        "Capacitance": 1,
+        "SizeCode": 2,
+        "RatedDCVoltageURdc": 3,
+        "PositiveTolerance": 4,
+        "NegativeTolerance": 5,
+        "TemperatureCharacteristicsCode": 6,
+        "MfrPartNumber": 7,
+        "input class": 8
+      },
+      "res_attrs": {
+        "Resistance": 11,
+        "SizeCode": 12,
+        "WorkingVoltage": 13,
+        "Tolerance": 14,
+        "RatedPowerDissipationP": 15,
+        "MfrPartNumber": 16,
+        "input class": 17
+      }
+    },
+    "address": {
+      "model_addr": {
+        "output_model_file": "./models/model_final/model.bin",
+        "output_vocab_file": "./models/model_final"
+      },
+      "input_addr": "./inputData/",
+      "raw_path": {
+        "cap_path": "/data/bob/synthetic/cap/",
+        "res_path": "/data/bob/synthetic/res/"
+      }
+    },
+    "Hyperparameter": {
+      "LEARNING_RATE": 1e-05,
+      "TRAIN_BATCH_SIZE": 24,
+      "VALID_BATCH_SIZE": 24,
+      "NUM_WORKERS": 6
+    },
+    "Main_Parameter": {
+      "num_epoch": 100,
+      "save_epoch": 1,
+      "logging_step": 100,
+      "file_num": 100,
+      "train_size": 10000,
+      "test_size": 10000
+    }
+  },
+
+
+
+  "PC": {
+    "train_config": {
+      "num_labels1": 9,
+      "num_labels2": 8,
+      "model": "prajjwal1/bert-tiny"
+    },
+    "encoder": {
+      "cap_attrs": {
+        "Capacitance": 1,
+        "SizeCode": 2,
+        "RatedDCVoltageURdc": 3,
+        "PositiveTolerance": 4,
+        "NegativeTolerance": 5,
+        "TemperatureCharacteristicsCode": 6,
+        "MfrPartNumber": 7,
+        "input class": 8
+      },
+      "res_attrs": {
+        "Resistance": 11,
+        "SizeCode": 12,
+        "WorkingVoltage": 13,
+        "Tolerance": 14,
+        "RatedPowerDissipationP": 15,
+        "MfrPartNumber": 16,
+        "input class": 17
+      }
+    },
+    "address": {
+      "model_addr": {
+        "output_model_file": "./models/model_final/model.bin",
+        "output_vocab_file": "./models/model_final"
+      },
+      "input_addr": "./inputData/",
+      "raw_path": {
+        "cap_path": "./MultiData/cap",
+        "res_path": "./MultiData/res"
+      }
+    },
+    "Hyperparameter": {
+      "LEARNING_RATE": 1e-05,
+      "TRAIN_BATCH_SIZE": 4,
+      "VALID_BATCH_SIZE": 4,
+      "NUM_WORKERS": 6
+    },
+    "Main_Parameter": {
+      "num_epoch": 1,
+      "save_epoch": 1,
+      "logging_step": 4,
+      "file_num": 5,
+      "train_size": 16,
+      "test_size": 16
+    }
+  }
+}

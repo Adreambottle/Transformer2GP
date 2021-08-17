@@ -1,0 +1,1001 @@
+﻿,description,true_labels,predicted_labels
+0,Cap/180pF-6094kV#0504,Capacitors,Capacitors
+1,"贴片电阻,250kΩ,10%:1W",Resistors,Resistors
+2,SMT:5550:1486p:1.5kV,Capacitors,Capacitors
+3,1500p/6300mV;X7R,Capacitors,Capacitors
+4,"Axial_0.3_2290Ω_-5,5",Resistors,Resistors
+5,-30℃_3375K;SPECIAL MOUNT,Resistors,Capacitors
+6,0.16/22.6K/-55℃,Resistors,Resistors
+7,5.6n_9523V_80%_2225/C0G_125℃,Capacitors,Resistors
+8,4054Ω_20%_1/2W;4935,Resistors,Resistors
+9,"cap,6918pF,8kV,10%,C4540;-55℃",Capacitors,Capacitors
+10,Capacitors-CERAMIC-0uF-50V-20%,Capacitors,Capacitors
+11,SPECIAL MOUNT-825M#-30℃,Resistors,Capacitors
+12,Resistors-8648kΩ-0.02-1/4W,Resistors,Resistors
+13,"电容,CERAMIC,8641pF;20%_C0G_-/+30ppm/Cel_1000V_5550,-55℃",Capacitors,Capacitors
+14,"-15,15-1427mΩ-1/4W-85%",Resistors,Resistors
+15,贴片电容:SMT_125℃-10n:10%:C0G:9515kV:1206,Capacitors,Resistors
+16,"6441pF#100000000uV,C0G",Capacitors,Capacitors
+17,"9648MΩ/125℃,10%/Panel Mount",Resistors,Resistors
+18,Capacitors_125℃_3284nF_5%_740m_1505_TANTALUM,Capacitors,Capacitors
+19,"2.15mV;33.165MHz#80960/BUS CONTROLLER, PCI:NO/10/2_UNSPECIFIED/8.0",Others,Others
+20,res_-55℃_155℃_218kΩ_28%_1/2W,Resistors,Resistors
+21,150℃:Radial:2998MΩ:4419,Resistors,Resistors
+22,"SMT,0.07Kohm#1W#0.24",Resistors,Others
+23,90ppm/Cel;-55℃;18pF;P90#C0606;9601u,Capacitors,Capacitors
+24,"-55℃,0GΩ,14%",Resistors,Resistors
+25,"1/4mA#16.0,1.11Ah-2.0uV,BOX",Others,Others
+26,Resistors;Axial:45%#4413mΩ,Resistors,Capacitors
+27,226mΩ/58%/1W/3528/-55℃,Resistors,Resistors
+28,0uF-500V-125℃-CERAMIC-C5550,Capacitors,Capacitors
+29,"贴片电容,820nF#8671uV,20%#1812/X7R",Capacitors,Capacitors
+30,"1750GΩ;10%;-500,500",Resistors,Resistors
+31,"-55℃--500,500/10%;27K-100℃",Resistors,Resistors
+32,THROUGH HOLE MOUNT#0GΩ#1/8W#0.12,Resistors,Others
+33,4040#C0G#5168uF#470m#-/+30ppm/Cel,Capacitors,Capacitors
+34,"-300,300_3529mΩ_0.68",Resistors,Resistors
+35,"-55℃,THROUGH HOLE MOUNT,9221mΩ",Resistors,Resistors
+36,"232kΩ,46%,Axial",Resistors,Resistors
+37,"电阻-41200mΩ_38%:2.25W:-2,2",Resistors,Resistors
+38,155℃-79600Ω--55℃,Resistors,Resistors
+39,125℃/CERAMIC:5976n/-55℃/950u/2225/-/+15ppm/Cel,Capacitors,Capacitors
+40,SURFACE MOUNT#0805-274kΩ_25,Resistors,Resistors
+41,6.2pF-0.37-BD--55℃:2366uV-0202,Capacitors,Resistors
+42,"-/+30ppm/Cel/1357pF/SMT/-55℃_0.5k/0805,125℃",Capacitors,Capacitors
+43,931Ω/155℃/0.63;1/8W,Resistors,Resistors
+44,1.0;PI6-SERIES-RESISTOR 1.8 1,Others,Others
+45,"6183pF,7235mV:-55℃#1825",Capacitors,Resistors
+46,MELF;931000000mΩ;2%;-55℃,Resistors,Resistors
+47,cap-0.82nF-50V/SMT-0603-15%,Capacitors,Capacitors
+48,"1.64kΩ,5%;-200,200,155℃",Resistors,Resistors
+49,贴片电阻_75000Ω/10%_4W,Resistors,Resistors
+50,"-500,500#120kΩ#-55℃",Resistors,Resistors
+51,680kΩ-10%-1/10W-4537,Resistors,Resistors
+52,37400000mΩ_68%_Axial,Resistors,Resistors
+53,"430uF,3628kV/10%",Capacitors,Capacitors
+54,"0303,BJ;8686u_5110kV_SMT",Capacitors,Resistors
+55,Axial/8185M/155℃,Resistors,Resistors
+56,0.5pF_7916V_C0G,Capacitors,Resistors
+57,"4277kΩ,-100,100,0.84,-55℃",Resistors,Resistors
+58,"Radial;44.2Ω;-.2,.2;0.25",Resistors,Others
+59,"150℃_0.22kΩ_95%_R4015_-2,2",Resistors,Resistors
+60,125℃#1148pF#-/+15ppm/Cel#2000000mV_7565,Capacitors,Capacitors
+61,"-/+30ppm/Cel,C1005-CERAMIC,8684uF,200000m,SMT",Capacitors,Resistors
+62,"13n,50000m",Capacitors,Capacitors
+63,1111/0uF/1.0/1kV,Capacitors,Others
+64,Chassis Mount_3756M_0.82,Resistors,Resistors
+65,电阻:9484Ω_0.78:2W:155℃,Resistors,Resistors
+66,0603#0.02#15000mΩ,Resistors,Resistors
+67,"-2,2,0.02kΩ:Axial:78%:-55℃",Resistors,Resistors
+68,-55℃_3813nF-10%;P90;SMT-2000000000uV-C1111,Capacitors,Capacitors
+69,cap:56pF:-/+30ppm/Cel:SMT,Capacitors,Resistors
+70,"Cap:125℃;-/+30ppm/Cel/0.01nF;10%,C0G;-55℃-7721V;C0805",Capacitors,Capacitors
+71,-55℃/Axial;0.81;1416kΩ,Resistors,Resistors
+72,"5.0kV,30:1,1.8,THROUGH-HOLE:0.051kHz_50 OHM",Others,Others
+73,2.7nF/9472uV:X7R,Capacitors,Capacitors
+74,"155℃#15600Ω,0.08",Resistors,Resistors
+75,"-40℃,R4935,1M:20%,120℃",Resistors,Resistors
+76,-55℃#1.27kΩ/1W#96%,Resistors,Resistors
+77,"7659u,111V,20%,X7R,C6560,125℃",Capacitors,Capacitors
+78,125℃/2066GΩ/Panel Mount,Resistors,Resistors
+79,0.01uF;3kV;X7R,Capacitors,Capacitors
+80,"-1000,1000#6125mΩ#1W;10%",Resistors,Resistors
+81,"Resistors;100K;-500,500:-40℃#4935_120℃",Resistors,Capacitors
+82,贴片电阻:8235GΩ:10%:1/20W,Resistors,Resistors
+83,电容--/+30ppm/Cel:120pF/C0G-CERAMIC/790uV;4540,Capacitors,Resistors
+84,0uF:-/+15ppm/Cel:-55℃,Capacitors,Resistors
+85,350℃#2000000mΩ#5%_Axial,Resistors,Capacitors
+86,"-150,150:10%:10kΩ",Resistors,Resistors
+87,-55℃;R2411;60.4kΩ;0.45;125℃,Resistors,Resistors
+88,4533uF;74uV;125℃;-55℃;2225,Capacitors,Resistors
+89,200000mΩ;5%_0M,Resistors,Resistors
+90,"PCB Mount,100℃,8706G",Resistors,Resistors
+91,Resistors#282kΩ#95%#1.5W,Resistors,Capacitors
+92,SMT:125℃:0uF-UX:11mV/0302,Capacitors,Resistors
+93,"RST_1.04kΩ,0.51#0MΩ",Resistors,Resistors
+94,-55℃;6911u#SMT:CERAMIC;2982kV;1808#-/+15ppm/Cel,Capacitors,Resistors
+95,"0.03Kohm:31%,.33W/-55℃",Resistors,Resistors
+96,cap:27000pF:4562V:80%:C0G:6560:-55℃,Capacitors,Capacitors
+97,"Silver (Ag)#55.0V/60.0°C#Protect-INSTANTANEOUS#4.2mA,245.0kV#-30.0°C",Others,Others
+98,125℃-6363;2.5kΩ#5%,Resistors,Resistors
+99,5/15_xV2207:M_VOLTAGE-MODE#5.0uV METAL NO LEAD,Others,Others
+100,-/+30ppm/Cel_4417nF_C0G_4040_6110mV,Capacitors,Resistors
+101,4993pF;10V;SURFACE MOUNT;SMT;2917_-55℃,Capacitors,Resistors
+102,"3.9K/10%;1/20W:-500,500",Resistors,Others
+103,"4477kΩ;-2,2;58%;2.5W",Resistors,Resistors
+104,6971mΩ:84%:1/2W:25,Resistors,Resistors
+105,175℃;4046kΩ_-55℃,Resistors,Resistors
+106,QFP;8.0 139.5-ATA-2; SCSI#IEEE 1149/3.3kV,Others,Others
+107,9652n;CERAMIC,Capacitors,Capacitors
+108,Other/3 8.0ps-0.91mm;SOP,Others,Others
+109,"125℃_6923MΩ,2929",Resistors,Resistors
+110,70.0°C 4.15mV:-20.0°C-HYBRID:YES-1.0_9/2,Others,Others
+111,3333-2043nF#2%-6038uV,Capacitors,Capacitors
+112,175℃:124kΩ:0.34:1W:3528:-55℃,Resistors,Resistors
+113,123O:41%#5005GΩ,Resistors,Capacitors
+114,"res;Axial;-55℃,6909G;0.94_145℃-33/50W",Resistors,Resistors
+115,"贴片电容,6767pF,3873V,20%,1812",Capacitors,Resistors
+116,189Ohm#87%#3011#-55℃,Resistors,Capacitors
+117,8617Ω;0.47;5546K,Resistors,Resistors
+118,电容#SURFACE MOUNT#125℃#6217pF#94mV#2412#TANTALUM (DRY/SOLID),Capacitors,Capacitors
+119,ALUMINUM_2300000uF_1908uV,Capacitors,Resistors
+120,"1310K#-40℃_20%--150,150",Resistors,Resistors
+121,"9/8MHz:10.0mA,3.5/4.15mV CHIP CARRIER,9.5kV#YES",Others,Others
+122,125℃:-55℃:220pF:UX-C0302:3819uV,Capacitors,Capacitors
+123,125℃:1136mΩ:0.04,Resistors,Resistors
+124,4953uF;1500000000uV:SMT,Capacitors,Capacitors
+125,SMT;4590mΩ;175℃;0.2/5,Resistors,Resistors
+126,0kΩ/-55℃/MELF,Resistors,Resistors
+127,"Res,18.7kΩ,MELF,0.33,1/2W",Resistors,Resistors
+128,"Resistors:-55℃:0K:0.9:1.5W-4015,SMT",Resistors,Others
+129,8410p_200V,Capacitors,Resistors
+130,125℃-6560-7921pF-4000000mV-C0G,Capacitors,Capacitors
+131,"4636mΩ-73%,1/4W-145℃",Resistors,Resistors
+132,"9/6;9/7_WIRE, REGULAR;MIL-C-38999_COAX,14.0#COVER ITEM",Others,Others
+133,"8085Ohm,0.37;Axial",Resistors,Capacitors
+134,"电容--/+15ppm/Cel;125℃,6962pF;X7R#SMT;5580mV",Capacitors,Resistors
+135,-55℃/1825/SMT_0.03n/16V/CERAMIC,Capacitors,Resistors
+136,"1640000000Ohm,69%,-200,200",Resistors,Capacitors
+137,125℃-1206-C0G#1.3n#50V#-55℃,Capacitors,Capacitors
+138,230000000000pF/16V/Screw Ends,Capacitors,Capacitors
+139,5627nF;-/+30ppm/Cel:SMT,Capacitors,Resistors
+140,"NO,3#-18.0uV,8/6#50 OHM_-9.675mV:Not Qualified",Others,Others
+141,Capacitors;3.9p-200V;12%,Capacitors,Others
+142,"Res,25K:-40℃:10%:1W:4935",Resistors,Resistors
+143,电阻/5478Ohm/10%_1/20W,Resistors,Resistors
+144,1.1nF#500V_-55℃,Capacitors,Resistors
+145,贴片电阻:8600Ω:0.62:0.01MΩ,Resistors,Resistors
+146,"-55℃,0MΩ,5%/125℃;3/4W",Resistors,Resistors
+147,"cap:0uF,6073V:0.65;C0805;125℃",Capacitors,Capacitors
+148,"Capacitors,6560nF#6000000000uV#125℃",Capacitors,Capacitors
+149,698mΩ_51%_4W,Resistors,Resistors
+150,Res;29%/2643M-155℃,Resistors,Capacitors
+151,SMT/C1812/4181nF/C0G,Capacitors,Capacitors
+152,9224uF_2046uV;90ppm/Cel;SMT;1111,Capacitors,Capacitors
+153,-55℃/258kΩ/1/4W/0.17,Resistors,Resistors
+154,"-55℃,8836nF",Capacitors,Resistors
+155,90℃:5000kΩ:30%,Resistors,Resistors
+156,THROUGH HOLE MOUNT_30.1Ω-175℃,Resistors,Resistors
+157,"cap,20000pF#2358kV#SMT;1515",Capacitors,Capacitors
+158,9072pF_9504V:BX,Capacitors,Resistors
+159,"Res:845Ω:61%:3011/-2,2",Resistors,Resistors
+160,"Res,4255M,0.37:1/2W",Resistors,Resistors
+161,CAP;611pF;6945mV;4%;T2H;C0402;125℃,Capacitors,Capacitors
+162,Resistors;7187GΩ#SURFACE MOUNT;49%;1/5W/R0805,Resistors,Capacitors
+163,"RST;PCB Mount,10%-56kΩ,100℃",Resistors,Resistors
+164,"-55℃;-8,8,3680MΩ;92%",Resistors,Resistors
+165,Resistors;4416mΩ;0.27;3W;5925,Resistors,Resistors
+166,-/+30ppm/Cel#C1812-9510n#7721uV#C0G,Capacitors,Capacitors
+167,"-300,300/43%;8641mΩ",Resistors,Resistors
+168,"贴片电阻;255mΩ;-90,90;0.52;4W",Resistors,Resistors
+169,电容;SMT;CERAMIC-2052pF-Y5V-C1812-25V,Capacitors,Capacitors
+170,电容-680pF-10%#3954V-X7R,Capacitors,Resistors
+171,39000pF-0.5kV-CERAMIC-1808;125℃,Capacitors,Capacitors
+172,-55℃:150nF,Capacitors,Resistors
+173,Resistors:4.99M:85%#Radial,Resistors,Others
+174,"cap,125℃#150pF/P2H,-150ppm/Cel,2220,8961V",Capacitors,Capacitors
+175,1505:15000nF;0k,Capacitors,Capacitors
+176,贴片电容_-/+30ppm/Cel_8564nF_80%_C0G_600V_1210_125℃,Capacitors,Resistors
+177,835Ω#57%#Axial,Resistors,Resistors
+178,-55℃:125℃:1.8u:5%:X7R:-/+15ppm/Cel#1251mV:1825:CERAMIC,Capacitors,Others
+179,"贴片电阻:-25,25/92%_1.5kΩ",Resistors,Resistors
+180,"814nF,100V:0.69:X7R:1808:SMT",Capacitors,Resistors
+181,-/+15ppm/Cel#1219pF#X7R#1812#8357m,Capacitors,Capacitors
+182,-40℃:6442mΩ-1/2W-5%,Resistors,Resistors
+183,"Resistors;6737mΩ;-2,2;100%;125℃",Resistors,Resistors
+184,2412_2470pF/0.02kV,Capacitors,Resistors
+185,125℃/-/+15ppm/Cel:16nF;5%;X7R-4276mV#3333,Capacitors,Capacitors
+186,47000Ω;2%;9010,Resistors,Resistors
+187,-55℃_51uF_8650mV_15%,Capacitors,Resistors
+188,Res/3011_0.13/4094GΩ,Resistors,Resistors
+189,RST-522O-48%:4/5W-2110,Resistors,Resistors
+190,-/+30ppm/Cel#SMT-8004u/1kV,Capacitors,Capacitors
+191,"-/+15ppm/Cel/5550/X7R,4289nF/3865V/125℃",Capacitors,Capacitors
+192,-/+30ppm/Cel_0nF_2%_C0G_0.4k_1206,Capacitors,Resistors
+193,贴片电容:-/+15ppm/Cel/C2225/10000pF/1000V,Capacitors,Capacitors
+194,电容_125℃_CERAMIC_242pF_2%_C0G_3785uV_0805_-/+30ppm/Cel,Capacitors,Resistors
+195,240.0V_60.0V_THERMAL CIRCUIT BREAKER RATED BREAKING CAPACITY AT 32 VDC: 2500 A:SHORT:Tx35-C0-47K150-CZM23,Others,Others
+196,"CERAMIC,-/+30ppm/Cel,7114pF,SMT,C0G,5066V,2220",Capacitors,Capacitors
+197,"125℃,2kΩ,5%_R4935,PCB Mount",Resistors,Resistors
+198,9404uF_-55℃_5581V_1812,Capacitors,Resistors
+199,-55℃-332kΩ_Axial,Resistors,Resistors
+200,"13.5V:PLASTIC/EPOXY#NO BIPOLAR,9/6#DUAL",Others,Others
+201,-55℃/9433GΩ/155℃,Resistors,Resistors
+202,2769p-50V-CERAMIC,Capacitors,Capacitors
+203,"CERAMIC;125℃,2.2pF,-/+30ppm/Cel,SMT,8145kV:0805",Capacitors,Capacitors
+204,"-2,2_6810Ohm:4 Terminals",Resistors,Capacitors
+205,"-55℃_-25,25#3740Ω-0.24-SMT",Resistors,Resistors
+206,"1nF-455V-125℃,-/+15ppm/Cel-0805",Capacitors,Capacitors
+207,CAP/CERAMIC/9805pF/8661kV:10%,Capacitors,Capacitors
+208,125℃-1500000pF-10V;10%,Capacitors,Capacitors
+209,155℃-154Ω;.1666W#25%,Resistors,Resistors
+210,RES-10%-3069MΩ,Resistors,Resistors
+211,-/+30ppm/Cel#-55℃#7289u-14%#C0G#3771mV#1206,Capacitors,Capacitors
+212,"SURFACE MOUNT,8148GΩ,87%,R0402,25",Resistors,Resistors
+213,1nF#6162uV--/+30ppm/Cel#1825,Capacitors,Capacitors
+214,"6609kΩ,-55℃/68%",Resistors,Resistors
+215,"61900000mΩ,0.12_8066GΩ",Resistors,Resistors
+216,6932MΩ-12%#2.25W,Resistors,Resistors
+217,6426MΩ:0.43;1/4W,Resistors,Resistors
+218,"3.3uF,7090kV,125℃#TANTALUM (DRY/SOLID),1505,-55℃",Capacitors,Capacitors
+219,Axial-3967M_155℃,Resistors,Resistors
+220,CERAMIC:7871pF,Capacitors,Capacitors
+221,Axial:8047K:-55℃:43%,Resistors,Resistors
+222,0.68nF:559k/0.2/C0G/C1206/CERAMIC,Capacitors,Others
+223,"贴片电容/SMT,-55℃,2484n,CERAMIC,-/+15ppm/Cel#3276u",Capacitors,Resistors
+224,"res-0.6MΩ--2,2-32%-1/2W",Resistors,Resistors
+225,SMT;0uF:5%#N080_2520mV_1206:-55℃,Capacitors,Capacitors
+226,"-40℃:2169GΩ,20%",Resistors,Resistors
+227,"10.0kHz NO;8/3dBc/Hz_1500.0%,-20.0uV,Oscillators",Others,Others
+228,3.9uF;4173V;10%-2225;125℃,Capacitors,Capacitors
+229,Res_10kΩ;10%;1/2W/4935,Resistors,Resistors
+230,电阻/3374mΩ/2%/1/8W/THROUGH HOLE MOUNT,Resistors,Capacitors
+231,Cap-POLYESTER/3812u_5%_THROUGH HOLE MOUNT_400000mV,Capacitors,Others
+232,8443uF#9484mV#-55℃,Capacitors,Capacitors
+233,"贴片电容,SURFACE MOUNT-CERAMIC,543pF,10%,X7R,15%#25V;0603,125℃",Capacitors,Capacitors
+234,1.6nF:4322uV:0.73:C1515;SMT,Capacitors,Capacitors
+235,"电阻,Panel Mount,125℃,0MΩ#20%,-500,500,1/2W:4949",Resistors,Resistors
+236,RES/233O/0.95/2309:150℃,Resistors,Resistors
+237,"RES:9997K-PCB Mount,10%,1/20W",Resistors,Capacitors
+238,3642GΩ:53%:175℃:25,Resistors,Resistors
+239,"125℃,-55℃;0.08-392GΩ-Axial",Resistors,Resistors
+240,597O#0.37#3/4W,Resistors,Capacitors
+241,DIP/3263uF;BX/8805kV,Capacitors,Capacitors
+242,"Radial,4744GΩ_175℃_45%",Resistors,Resistors
+243,556K/0.13#556000Ohm,Resistors,Capacitors
+244,CAP:8943pF/80%/9514V,Capacitors,Capacitors
+245,Res:150℃:902GΩ:0.21:3/5W:4419,Resistors,Resistors
+246,"Radial_-300,300_0kΩ",Resistors,Resistors
+247,250n;766mV;125℃/-55℃;1206;SMT,Capacitors,Resistors
+248,"-4700ppm/Cel/0201,5319uF,2303uV;NV",Capacitors,Capacitors
+249,贴片电阻-4.7kΩ-20%:R3935,Resistors,Resistors
+250,"-65℃/7803K,55%;-50,50",Resistors,Resistors
+251,175℃_82.5Ω_THROUGH HOLE MOUNT,Resistors,Capacitors
+252,"RST,Axial,187K,0.79,-10,10,1W",Resistors,Resistors
+253,C1812-918n-5%/9519V-Y5V,Capacitors,Capacitors
+254,"4960G--50,50-48%-1W",Resistors,Resistors
+255,"RES;2219mΩ_20%_-500,500;100℃",Resistors,Resistors
+256,cap;POLYPROPYLENE/1313uF;110℃/-55℃,Capacitors,Capacitors
+257,6800p:400V:-55℃,Capacitors,Resistors
+258,"-/+30ppm/Cel/C0603,36pF/50000000uV/C0G",Capacitors,Capacitors
+259,"电容-2374n,75%,30V",Capacitors,Resistors
+260,60.0kV#6.025kA#e4_-30.0°C_250.0V 60.0°C;TRIP FREE,Others,Others
+261,ALUMINUM (WET)/4700nF-100000mV,Capacitors,Capacitors
+262,"贴片电容_-55℃_3943n_55%_P90,1kV_C1111",Capacitors,Resistors
+263,"1.315Ah 3/5mm#3.0V:3.0kV/5.15g/7/9mA,battery--37.5°C:85.0°C",Others,Others
+264,9880u-250V-0606-125℃,Capacitors,Capacitors
+265,"100,4692GΩ,SMT",Resistors,Resistors
+266,Res--40℃;20%-5K,Resistors,Resistors
+267,42700000mΩ;-55℃;1.0;2.5W,Resistors,Resistors
+268,RES/-55℃/7575Ω-2%/1.7W,Resistors,Resistors
+269,992p_10000000uV_20%_2917_TANTALUM,Capacitors,Capacitors
+270,Radial#-55℃:0MΩ#6140,Resistors,Resistors
+271,9853pF-SURFACE MOUNT-TANTALUM (DRY/SOLID),Capacitors,Capacitors
+272,"-400,400_7140M_2%_155℃",Resistors,Resistors
+273,0uF;-/+15ppm/Cel;125℃,Capacitors,Capacitors
+274,"贴片电容,125℃,CERAMIC,9451pF:80%,C0G,2kV,4540",Capacitors,Capacitors
+275,-50ppm/Cel_-55℃/8728u_26%:DB_SMT_0.05kV_C0202:CERAMIC,Capacitors,Resistors
+276,"res/5979kΩ/0.68,Axial,10W",Resistors,Resistors
+277,2601uF:300V:10%--/+30ppm/Cel,Capacitors,Capacitors
+278,贴片电容#85℃#5333pF#20%#8872kV#-25℃,Capacitors,Capacitors
+279,-/+30ppm/Cel#C0603#C0G#39pF#1766kV#125℃,Capacitors,Capacitors
+280,2086p:6565uV#X7R,Capacitors,Capacitors
+281,25200mΩ_86%/350℃,Resistors,Resistors
+282,"SURFACE MOUNT#15%#0.39uF#5%#X7R,5143u#1812",Capacitors,Capacitors
+283,125℃_7190nF_5%_X7R;0.25k#2225,Capacitors,Capacitors
+284,51pF;25V;CERAMIC:SMT-1306;C0G#-55℃,Capacitors,Capacitors
+285,"125℃-430kΩ-0.37--2,2",Resistors,Resistors
+286,电容-8629nF_SMT_-/+15ppm/Cel,Capacitors,Resistors
+287,"Resistors#PCB Mount_-500,500_5.6kΩ_10%_-55℃/1/20W_100℃",Resistors,Capacitors
+288,2063p:-55℃,Capacitors,Resistors
+289,Radial:5529K:13%:-55℃,Resistors,Capacitors
+290,电容-9675nF;CERAMIC;3k;1210,Capacitors,Resistors
+291,155℃_6190mΩ_5%,Resistors,Resistors
+292,"-50,50;155℃#1328Ohm;0.29-MELF",Resistors,Capacitors
+293,贴片电容--/+30ppm/Cel-1.5nF-7907V-80%,Capacitors,Capacitors
+294,155℃:5%#10.2MΩ,Resistors,Resistors
+295,-55℃-SMT-0.3pF;P90#C1111-1000000000uV,Capacitors,Capacitors
+296,-55℃/CERAMIC/47n/80%/C0G/800000000uV/4040,Capacitors,Capacitors
+297,Filt#NO/8/10#5.0kHz 8TH:Active Filters,Others,Others
+298,SMT:1206;510pF:N2200,Capacitors,Resistors
+299,"-.2,.2/9328MΩ-3/4W_33%",Resistors,Resistors
+300,Radial-1612-0.01nF-63V,Capacitors,Capacitors
+301,-55℃#2907mΩ#1.5W#0.95,Resistors,Resistors
+302,电容;8290uF;4000V#10%;-/+30ppm/Cel,Capacitors,Capacitors
+303,Radial;2200000p;85℃;35000000u;-40℃,Capacitors,Capacitors
+304,"RST,6750kΩ,0.8,1.5W,R6140,-55℃",Resistors,Resistors
+305,125℃_SMT:470000p:10%:X7R:CERAMIC:50000000uV;1515,Capacitors,Capacitors
+306,"CAP-125℃#C2220,6282nF;5858m",Capacitors,Resistors
+307,-75/+10ppm/Cel/4444p,Capacitors,Resistors
+308,"4 Terminals--2,2,5713kΩ-69%-125℃",Resistors,Resistors
+309,"0805;41u;7%,16V",Capacitors,Capacitors
+310,-55℃_2520_1.6nF_0.5k,Capacitors,Resistors
+311,"RST;4810mΩ,71%;-55℃;5925",Resistors,Resistors
+312,"125℃,-55℃#1.3nF,10%;C0G,50000mV,C1206",Capacitors,Capacitors
+313,"Cap,4371nF#630000000uV#5%,C0G,5550,125℃",Capacitors,Capacitors
+314,62600mΩ:11%:3011,Resistors,Resistors
+315,Cap:CERAMIC:0uF_10%:7528mV:C1111,Capacitors,Capacitors
+316,贴片电阻;8299M;Radial;62%,Resistors,Capacitors
+317,"SMT:220nF/5%,BX/-/+15ppm/Cel:268V:2225",Capacitors,Capacitors
+318,Analog Computational Functions Analog Computational Functions;ROUND +-15 YES_7.5kV-Signal -15.0V,Others,Others
+319,"电阻/-.2,.2_92%_7541mΩ",Resistors,Resistors
+320,Cap/3816p/586mV/5%-1206/NP0/SMT,Capacitors,Capacitors
+321,贴片电容/SMT_-55℃-2045pF_5%_20V_125℃-C2214,Capacitors,Resistors
+322,6168MΩ:10%:Panel Mount,Resistors,Resistors
+323,125℃#-/+30ppm/Cel#6286nF#C0G#0805#9559m,Capacitors,Capacitors
+324,RST/7365MΩ#68%#3/4W#8216/-55℃,Resistors,Resistors
+325,电容-SMT_125℃_0.01nF_6%_NV/0.1k_0201,Capacitors,Resistors
+326,电容:910pF:CERAMIC;-/+30ppm/Cel,Capacitors,Capacitors
+327,"7458kΩ-125℃-10%--150,150",Resistors,Resistors
+328,-55℃/Axial/20%/4747kΩ,Resistors,Resistors
+329,169mΩ_275℃_4328_Radial,Resistors,Capacitors
+330,RST_25kΩ_10%-4W,Resistors,Resistors
+331,230℃;1480mΩ;0.66,Resistors,Resistors
+332,"-55℃;7310G_-.2,.2/0.04,150℃",Resistors,Resistors
+333,"Resistors:50K--1000,1000_10%_125℃",Resistors,Capacitors
+334,贴片电容-8042n-1kV--55℃-C1206-CERAMIC,Capacitors,Resistors
+335,Panel Mount:7810GΩ;4W_10%,Resistors,Resistors
+336,4962M/0.83-5744mΩ,Resistors,Resistors
+337,"RES;-500,500;10%-330kΩ;PCB Mount",Resistors,Resistors
+338,res/15Kohm/10%#1/20W,Resistors,Capacitors
+339,1577K-10%-1206--55℃,Resistors,Resistors
+340,C1812#820nF;20%:50V,Capacitors,Capacitors
+341,"-2,2/-55℃/1.14kΩ/31%/2.25W_Axial",Resistors,Others
+342,8113mΩ/0.29/3825_125℃,Resistors,Resistors
+343,cap/-/+30ppm/Cel-0402-0nF/353uV,Capacitors,Capacitors
+344,-55℃_7412G#0.23#SMT#1W/3528,Resistors,Resistors
+345,"5%,2305Ohm/-700",Resistors,Resistors
+346,125℃/206uF/20%/C0G/500V-7565/-/+30ppm/Cel,Capacitors,Capacitors
+347,Panel Mount/10%/770mΩ/6363,Resistors,Resistors
+348,"RST,10%-0GΩ_-40℃-R6363",Resistors,Resistors
+349,Resistors:6559mΩ:0.88_1W:2512,Resistors,Resistors
+350,RES_6040MΩ/0.19_40W,Resistors,Resistors
+351,"175℃,59%;6055M",Resistors,Resistors
+352,-/+30ppm/Cel;2417uF,Capacitors,Resistors
+353,16.0;4.625;49.054:3:5.0uV 37.78,Others,Others
+354,"275℃;0.43;705kΩ;-300,300",Resistors,Resistors
+355,RST/6507M#20%/-55℃;4537,Resistors,Resistors
+356,7718K#32%:9338Ω,Resistors,Resistors
+357,"CERAMIC_270nF,5923V#15%",Capacitors,Capacitors
+358,C7565_7555p_1248kV,Capacitors,Resistors
+359,"12uF,5%,X7R,5147V",Capacitors,Capacitors
+360,电阻/73%/365Ω/Axial,Resistors,Resistors
+361,"-.2,.2-2070MΩ_91%",Resistors,Resistors
+362,11pF_1562kV#X5R,Capacitors,Capacitors
+363,C1515:910pF;-/+15ppm/Cel:X7R,Capacitors,Capacitors
+364,"RST;Axial/87%,5377K/-5,5",Resistors,Resistors
+365,"9849pF,1547kV:TANTALUM (DRY/SOLID)",Capacitors,Capacitors
+366,5492n/9109mV#20%,Capacitors,Capacitors
+367,-55℃;-/+30ppm/Cel:8980pF_0.5kV,Capacitors,Resistors
+368,"Res,-55℃,-50,50;7423kΩ,35%-155℃,1/4W,1209",Resistors,Resistors
+369,"RES_4216#8263kΩ,0.18,5.42Kohm",Resistors,Resistors
+370,Screw Ends-270000000000pF,Capacitors,Capacitors
+371,"Panel Mount,4073Ohm,-1000,1000",Resistors,Resistors
+372,"PCB Mount/100℃_8676GΩ/10%/-500,500/1/20W",Resistors,Capacitors
+373,Axial;0.74_4126mΩ_-55℃,Resistors,Resistors
+374,"155℃,7856Ω-0.01,0402;SURFACE MOUNT",Resistors,Capacitors
+375,"23700mΩ,125℃,41%,4 Terminals",Resistors,Capacitors
+376,cap;-/+15ppm/Cel;2520;1981p_500V,Capacitors,Capacitors
+377,电容/2220/300pF/5%:3000000000uV,Capacitors,Capacitors
+378,9738pF/2000V/0.81/C0G/7565,Capacitors,Capacitors
+379,0.72K_-55℃_68%;1W,Resistors,Resistors
+380,"-40℃,0M,1/2W,20%",Resistors,Resistors
+381,"0nF,250V,12%,90ppm/Cel",Capacitors,Capacitors
+382,"85.6Ω#4 Terminals#-.2,.2#-55℃",Resistors,Others
+383,-55℃;1515;C0G;620p;0.3kV;-/+30ppm/Cel,Capacitors,Capacitors
+384,6.8nF/200V/10%,Capacitors,Others
+385,3751MΩ:94%;1/2W,Resistors,Resistors
+386,9917K:5%-1W,Resistors,Resistors
+387,电容/CERAMIC-100nF-20%/X7R/600V/2225,Capacitors,Resistors
+388,电阻:3011#0MΩ:30%:2506mΩ,Resistors,Resistors
+389,Radial_8.2MΩ-1/2W_2%,Resistors,Resistors
+390,200n-6561u-125℃,Capacitors,Resistors
+391,-55℃;C0G_1349p_100000mV,Capacitors,Resistors
+392,"-150,150:5000000mΩ/-40℃",Resistors,Resistors
+393,-55℃:4540:2590u:3000000000uV,Capacitors,Resistors
+394,CAP-5728pF;200V:CERAMIC;-55℃,Capacitors,Capacitors
+395,Resistors_6.2kΩ_0.01_0805_-55℃,Resistors,Resistors
+396,电阻_644M#10%_R4935/PCB Mount,Resistors,Capacitors
+397,"SMT#6669uF,5%#C0G;1264V#1210",Capacitors,Capacitors
+398,"6661kΩ-SMT,38%/R5925",Resistors,Resistors
+399,"CERAMIC,560p/2333u_80%",Capacitors,Capacitors
+400,"4.45;0.0 CMOS/3.075uV,50.0/7B_逻辑电路",Others,Others
+401,-55℃#0.13MΩ:2.25W:0.1,Resistors,Resistors
+402,6248MΩ#5%#1/4W#-55℃,Resistors,Capacitors
+403,2/10/1.0_4.0#1.75:50 OHM,Others,Others
+404,Resistors/0GΩ/29%/1/2W,Resistors,Capacitors
+405,-55℃#4135uF#100V#125℃,Capacitors,Resistors
+406,Cap_1808:1303nF_5%_250V_C0G,Capacitors,Capacitors
+407,"43.9mm;Circuit Breaker;e4,LONG/Protect 16.0mA#60.0kV#245.0mV",Others,Others
+408,-55℃;154GΩ;1/10W:20%,Resistors,Resistors
+409,419uF_25V_-/+30ppm/Cel_-55℃_0402-CERAMIC,Capacitors,Capacitors
+410,"Capacitors,1751uF-50000000uV,-55℃,125℃,BX",Capacitors,Capacitors
+411,"-500,500#PCB Mount:10%#6632Ω",Resistors,Resistors
+412,155℃;-55℃#3873Ω;0.16;Axial,Resistors,Resistors
+413,2.87Kohm_76%-2.87Kohm,Resistors,Capacitors
+414,"1/8,THROUGH-HOLE:13.5V;NO#IN-LINE;95.0°C#-40.0°C DIP",Others,Others
+415,2220-0nF-40%_12mV:C0G,Capacitors,Capacitors
+416,"-55℃#-2,2#1232kΩ#125℃#55%#Axial",Resistors,Resistors
+417,6083u#0.5kV#C0G,Capacitors,Capacitors
+418,560uF:35V:75%,Capacitors,Capacitors
+419,150℃_6140_3609mΩ,Resistors,Resistors
+420,"0402,15n,50%;9370uV",Capacitors,Capacitors
+421,"电容,3875pF,SMT/8280m,1111",Capacitors,Resistors
+422,"电容;125℃;3939pF,SMT,C0G:C1206,25V",Capacitors,Resistors
+423,85℃;-55℃;467n;5839k#CERAMIC,Capacitors,Capacitors
+424,125℃/3857pF:0.34:C0G:0.4kV/C1825,Capacitors,Capacitors
+425,Axial/0.03/869MΩ,Resistors,Resistors
+426,"4 Terminals,0.1,4.48kΩ:125℃",Resistors,Resistors
+427,Res/6350:2.5K/10%/8606MΩ,Resistors,Resistors
+428,"CERAMIC,C2220,220pF-2619kV,X7R",Capacitors,Capacitors
+429,cap-3838-2073uF;35%-7200V-P90,Capacitors,Capacitors
+430,4 Terminals:0.81:67.3kΩ,Resistors,Resistors
+431,3320nF#100V/80%-C2530-BX;CERAMIC,Capacitors,Capacitors
+432,CERAMIC#-/+30ppm/Cel#910nF;10%#C0G/8665kV,Capacitors,Capacitors
+433,9384uF/2kV/CERAMIC-1808/-55℃,Capacitors,Capacitors
+434,"9/15V_YES,SMALL OUTLINE;11.25_3.0-Automotive Circuits",Others,Others
+435,4 Terminals-43%-9348MΩ,Resistors,Resistors
+436,"150℃,1.45kΩ;43%",Resistors,Resistors
+437,Resistors_175℃:77%_0MΩ_R3528,Resistors,Resistors
+438,"6.0_3/9;PLASTIC Ceramic Filters,2.0_2400.0",Others,Others
+439,TANTALUM (WET)/1087n/125℃,Capacitors,Capacitors
+440,Cap:125℃:0.22nF:50V,Capacitors,Capacitors
+441,"SMT,110uF/34V",Capacitors,Capacitors
+442,电容:1855u:SMT#-/+15ppm/Cel,Capacitors,Resistors
+443,0805/4377pF/65%/50V,Capacitors,Capacitors
+444,电容;6867pF;1019uV,Capacitors,Resistors
+445,"0603,68p,50000m",Capacitors,Capacitors
+446,"0MΩ;3%--20,20:350℃",Resistors,Resistors
+447,"6967MΩ-6%,1/2W--55℃",Resistors,Resistors
+448,CERAMIC_1612/84nF_50V_N330,Capacitors,Resistors
+449,"260/OPEN-COLLECTOR,7/10/Logic_NO-1.5",Others,Others
+450,1/4/4.625#6.5-22.5_Microcontrollers-5.0kV,Others,Others
+451,Resistors#1657Ω#9%#8767GΩ,Resistors,Resistors
+452,SMT/6105u/20%/C0G/500V_4040;-/+30ppm/Cel,Capacitors,Others
+453,8747Ω-THROUGH HOLE MOUNT/31%:-55℃,Resistors,Capacitors
+454,"贴片电阻/-8,8/0.88/9.53kΩ,Axial",Resistors,Resistors
+455,7607GΩ;44%;3/5W;4419;150℃,Resistors,Resistors
+456,RST;-55℃;0.01;124Ω;R4015,Resistors,Resistors
+457,"401kΩ,Panel Mount,20%,1/2W,R6390",Resistors,Resistors
+458,"6107G:1W,34%",Resistors,Resistors
+459,Cap_CERAMIC_125℃_0uF_0.14_C0G_4000V#2221_SMT,Capacitors,Capacitors
+460,THROUGH HOLE MOUNT/7331pF-ALUMINUM (SOLID POLYMER);2.5V/105℃,Capacitors,Others
+461,"YES#NOT SPECIFIED;10.0uV,SOP#10/7GHz 9.207mm#ALSO OPERATES AT 5 V OR 15 V SPLY; AT 5 V SPLY VOLT NOM, MAX FREQ IN ASTABLE MODE IS 1.2 MHZ -6.0",Others,Others
+462,"85℃--40℃,33000n,6570V",Capacitors,Resistors
+463,CERAMIC:-55℃:7405uF-5%:C0G:5370uV:1825--/+30ppm/Cel,Capacitors,Capacitors
+464,43nF:600V;10%,Capacitors,Capacitors
+465,CAP/1941pF_1kV_5%_1210_-220ppm/Cel,Capacitors,Capacitors
+466,"电容,1812,0.01uF,0.1,3082uV#C0G",Capacitors,Capacitors
+467,"-55℃,8454uF-5%#N2200#0.1k#0804",Capacitors,Capacitors
+468,"-.2,.2/4044kΩ/1.5W/83%",Resistors,Capacitors
+469,"125℃,34800000mΩ#4 Terminals",Resistors,Capacitors
+470,Audio Transformers/1.5/_80225_16 OHMS CT/DA100:3600 OHMS CT,Others,Others
+471,4.15_2.5/1/7°C_0.0°C/Not Qualified/14.0,Others,Others
+472,cap;7731pF/CERAMIC;50V,Capacitors,Capacitors
+473,"-.2,.2/5279mΩ_38%:4 Terminals:3/4W",Resistors,Others
+474,"贴片电容:2128uF,50000000u,CERAMIC,1206",Capacitors,Resistors
+475,155℃:9619n:25000000uV,Capacitors,Resistors
+476,-55℃-1209-14.9kΩ-0.69-SMT,Resistors,Resistors
+477,"1005,6.8nF,8403uV_X7R",Capacitors,Capacitors
+478,2nF_125℃_300V_1825,Capacitors,Resistors
+479,Capacitors:-55℃-SMT-2345p-X7R-0.5k#200℃,Capacitors,Capacitors
+480,Res_150K:125℃_10%:Panel Mount,Resistors,Capacitors
+481,RST#4283Ω#76%,Resistors,Resistors
+482,10000000pF/1664uV,Capacitors,Capacitors
+483,-55℃;5%#7078kΩ:Axial,Resistors,Resistors
+484,MELF/-55℃/4723MΩ,Resistors,Resistors
+485,"-500,500/20%:10kΩ",Resistors,Resistors
+486,SMT_CERAMIC_5601u_5%_C0G_16000000uV-C2225,Capacitors,Capacitors
+487,"MELF#5.62K#0.41#-15,15",Resistors,Capacitors
+488,CERAMIC-1515-C0G;0.36n;200V-SMT,Capacitors,Capacitors
+489,10.1R--65℃-0.82,Resistors,Resistors
+490,-25℃;150000n:20%:315000000uV,Capacitors,Resistors
+491,BOX 3.0mV;CAPACITY MAX AT 2 V#4/2Ah_3.5mV/LITHIUM:12.5g,Others,Others
+492,9279GΩ-5%/2200Ω,Resistors,Resistors
+493,11pF;50V;-55℃,Capacitors,Resistors
+494,"Resistors,175℃_3550kΩ_14%_1.5W_8216",Resistors,Resistors
+495,电阻#0603#111000mΩ#26%#111Ω,Resistors,Resistors
+496,155℃-581K-20%--55℃,Resistors,Resistors
+497,THROUGH HOLE MOUNT;120000nF#8609mV;TANTALUM (DRY/SOLID),Capacitors,Capacitors
+498,215Ω_0.01_125℃,Resistors,Resistors
+499,-30℃;20%-75kΩ-Quick Connect,Resistors,Resistors
+500,"9237uF,3962k,20%,2005",Capacitors,Capacitors
+501,155℃-34.8kΩ:1/4W:63%,Resistors,Resistors
+502,-55℃;0.07nF,Capacitors,Resistors
+503,Cap/691nF:SMT,Capacitors,Resistors
+504,SMT/7989kΩ/56%/R1010/155℃,Resistors,Resistors
+505,cap-3052uF/16V/Axial,Capacitors,Capacitors
+506,24uF/10%/7177mV_X7R,Capacitors,Capacitors
+507,"贴片电容:125℃,CERAMIC:1.1nF;5%/C0G/3kV/C2221",Capacitors,Capacitors
+508,CAP#0402#4514nF#0.2_0.05kV,Capacitors,Capacitors
+509,8073uF_7216V_-55℃_0603_S2L;SMT,Capacitors,Resistors
+510,CAP#POLYESTER#1397nF/10%#2546mV,Capacitors,Capacitors
+511,20#SMT:2337G/0.37:175℃,Resistors,Resistors
+512,70℃_-25℃_20%_3229kΩ,Resistors,Resistors
+513,RST#3942Ω#0.96:1/2W#R3310,Resistors,Resistors
+514,5072uF-9912kV-THROUGH HOLE MOUNT,Capacitors,Capacitors
+515,"-150,150/Panel Mount/8204Ω/4935",Resistors,Resistors
+516,-55℃;481000R;150℃,Resistors,Resistors
+517,"e4,5_POLYBUTYLENE TEREPHTHALATE,BRONZE:NOT SPECIFIED/Connectors#COMMERCIAL",Others,Others
+518,"-55℃_4540,8717pF#8892k",Capacitors,Resistors
+519,"贴片电容/125℃/SMT/4186nF/20%,X7R/6910m/C3530",Capacitors,Capacitors
+520,25-8547MΩ-155℃-0.96-SURFACE MOUNT,Resistors,Capacitors
+521,Resistors;777000000mΩ;7%;7225mΩ,Resistors,Resistors
+522,"2521Ω-5%,20W,-30,30",Resistors,Resistors
+523,-55℃#8951pF#80%#X7R#50V#C2225,Capacitors,Capacitors
+524,"CAP:120p,SMT",Capacitors,Resistors
+525,"CERAMIC;1515,8139uF,-/+15ppm/Cel,X7R",Capacitors,Capacitors
+526,-/+30ppm/Cel:SMT/749uF:125℃:C0G:1206/250V,Capacitors,Capacitors
+527,贴片电容:20pF:3832mV:5%:0603:R2H:-55℃,Capacitors,Resistors
+528,"RES,831MΩ#33%,1/2W",Resistors,Resistors
+529,"-50,50#0MΩ#0.27",Resistors,Resistors
+530,"贴片电阻:2.29M/0.77,-50,50",Resistors,Resistors
+531,"SMT#2221,9921nF--55℃#X7R",Capacitors,Capacitors
+532,"-55℃-40%:286Ω,300",Resistors,Resistors
+533,"RES#-25,25/92%-43Ω",Resistors,Capacitors
+534,200℃/1.2O/2%,Resistors,Capacitors
+535,175℃;3766M:R3528,Resistors,Resistors
+536,-/+15ppm/Cel:7680n/80%#X7R:200000m_1808:-55℃,Capacitors,Resistors
+537,"250℃/9.09kΩ/0.62,5W/-65℃",Resistors,Resistors
+538,-55℃_Axial_9.1K,Resistors,Resistors
+539,1812#47n#BX,Capacitors,Capacitors
+540,8488pF:50V:125℃:-55℃_C0402,Capacitors,Resistors
+541,22kΩ/1/2W/10%,Resistors,Resistors
+542,处理器;Microcontrollers and Processors M8C;8.0:2/5#105.0°C_-20.0°C,Others,Others
+543,-55℃;180pF;5%;S2H-2000V;1812--330ppm/Cel,Capacitors,Resistors
+544,"95℃_34000000n,20%_6408uV",Capacitors,Resistors
+545,电容#1944uF#3000000000uV_125℃#-55℃#2225#C0G,Capacitors,Capacitors
+546,125℃_C1808#-55℃_30nF-250000000uV,Capacitors,Resistors
+547,SURFACE MOUNT;10/681kΩ/0.32;1/2W/R1010/SMT,Resistors,Resistors
+548,"RST_109K,89%_-25,25",Resistors,Resistors
+549,RES_4935/125℃/10%-8778R,Resistors,Resistors
+550,0.31#2846kΩ#-55℃,Resistors,Resistors
+551,"-15,15,-55℃,294Ohm,Axial,0.19",Resistors,Resistors
+552,cap#10nF-6130kV#SMT#-/+15ppm/Cel#2220;X7R#125℃,Capacitors,Capacitors
+553,11.0;-5.0-8/1;2.55:ALSO REQUIRES VDDQ SUPPLY 2V TO 3V_Interfaces_2.5 BUS TERMINATOR SUPPORT CIRCUIT,Others,Others
+554,SURFACE MOUNT_SMT_2046nF_20%_35000000uV_1505,Capacitors,Capacitors
+555,"RST,SURFACE MOUNT,-55℃,6161Ohm,3%,1/2W,1505,300",Resistors,Resistors
+556,"Amplifier:-10.0mV;1750.0V/us NO#-21.0kV,5/4µA",Others,Others
+557,cap:1548pF:15%-2kV:1812,Capacitors,Capacitors
+558,"1812,0.01nF,C0G",Capacitors,Capacitors
+559,"-40℃;-150,150-10%:5326Ω:Panel Mount",Resistors,Resistors
+560,-470ppm/Cel:4608uF:T2H:C2220;500000mV,Capacitors,Capacitors
+561,电容#62pF-6456V#SMT#3333,Capacitors,Capacitors
+562,C1210_0.43u/5059V,Capacitors,Resistors
+563,贴片电阻/7590000Ω_0.27#3/4W,Resistors,Resistors
+564,SMT#41.2Ohm-3W-0.18,Resistors,Capacitors
+565,198MΩ#16%_2368Ω,Resistors,Resistors
+566,"MASK ROM DIP,Audio Synthesizer ICs,UNCASED CHIP",Others,Others
+567,"-150,150#2982Ohm#2W;10%",Resistors,Capacitors
+568,SMT/330p#5%#C0G#8971k#-55℃#1825,Capacitors,Capacitors
+569,CERAMIC#1825#130pF#5593mV#C0G,Capacitors,Capacitors
+570,125℃#0MΩ#0.74#R3207,Resistors,Resistors
+571,"5887n,8908kV",Capacitors,Capacitors
+572,-55℃/1073GΩ/0.23,Resistors,Resistors
+573,Capacitors;3944;8.2nF;10%_1026V;NP0,Capacitors,Others
+574,"Cap,125℃,150pF,-/+30ppm/Cel,100V/2020,SMT",Capacitors,Capacitors
+575,"44800000mΩ,0.52,980G",Resistors,Resistors
+576,"RST;61%;7.68MΩ;-50,50",Resistors,Resistors
+577,-55℃;62%;3.74K,Resistors,Resistors
+578,cap_C3640_7967p_5%_100000mV,Capacitors,Resistors
+579,电容/0u/-470ppm/Cel,Capacitors,Resistors
+580,"res:7577MΩ:-150,150:-40℃;R6363:Panel Mount",Resistors,Resistors
+581,Capacitors#-55℃/-/+15ppm/Cel_2765u/5%/X7R/9482mV/2020,Capacitors,Capacitors
+582,125℃:5.6nF-3309uV-5%,Capacitors,Capacitors
+583,"330K;20%,1/20W;-500,500",Resistors,Resistors
+584,"-55℃-2082MΩ#3/5W,0.47",Resistors,Resistors
+585,Cap#CERAMIC#-55℃#4.3uF#10%#X7R#15%#1610V,Capacitors,Others
+586,125℃_300pF_-/+30ppm/Cel_C0G,Capacitors,Resistors
+587,5278pF#500000000u_X7R,Capacitors,Capacitors
+588,"贴片电容-6.2nF#6001mV#10%#C0G,C7565#CERAMIC",Capacitors,Others
+589,C5550/13000pF/80%-1k/X7R,Capacitors,Capacitors
+590,125℃_SMT/62000p/X7R#4540/2783k,Capacitors,Capacitors
+591,SMT/87%/9549GΩ,Resistors,Resistors
+592,3689GΩ/0.51/1/2W/175℃,Resistors,Resistors
+593,1.2kΩ:98%:1200000mΩ,Resistors,Resistors
+594,"SMT:6780pF:15%,CG:6625m;C0404:CERAMIC",Capacitors,Capacitors
+595,贴片电容#C5440#6636p#20%#800V,Capacitors,Capacitors
+596,4230nF_-/+30ppm/Cel-100V/0402,Capacitors,Resistors
+597,"SMT,30ppm/Cel;0uF,2%,C0G,125℃,8435mV,1825",Capacitors,Capacitors
+598,RST/8668G;155℃_5%_1/4W,Resistors,Resistors
+599,8.87Kohm:0.23:R4216,Resistors,Resistors
+600,"-13.5/1000.025%,C-9-x09:-55.0°C;-20.0#10.0kHz/-2.5kV:85.0°C",Others,Others
+601,RST-Axial--55℃-3035Kohm-29%-1/4W,Resistors,Capacitors
+602,3985G-0.85-3011-175℃,Resistors,Resistors
+603,3643p#200V,Capacitors,Capacitors
+604,"Res,4725kΩ_Axial_-55℃",Resistors,Resistors
+605,C1210/110pF/2%/0.05kV,Capacitors,Capacitors
+606,0805:130p:600V;X7R,Capacitors,Capacitors
+607,5600pF/8286V/CERAMIC,Capacitors,Capacitors
+608,Cap#176u#3000000mV#CERAMIC,Capacitors,Capacitors
+609,"C0202:SMT/33pF,0.1kV",Capacitors,Resistors
+610,"3300p,3kV;5%,X7R,6560",Capacitors,Capacitors
+611,"-150,150,-40℃,828GΩ/10%,Panel Mount",Resistors,Capacitors
+612,RST:4752Ω/0.1:1/2W:Axial,Resistors,Resistors
+613,"-55℃,8876MΩ-8W/78%",Resistors,Resistors
+614,RES-422Ω_0.28-25-R1010,Resistors,Resistors
+615,-55℃#SMT#17%#6360mΩ#155℃,Resistors,Resistors
+616,贴片电阻#68kΩ;20%;100℃,Resistors,Resistors
+617,5646M-160℃-6%_1/2W,Resistors,Resistors
+618,SMT:9860uF:100000m,Capacitors,Resistors
+619,5723pF_6241V;2225,Capacitors,Resistors
+620,Capacitors#ALUMINUM (WET):220000000pF:THROUGH HOLE MOUNT:0.05kV,Capacitors,Others
+621,"Resistors;38800mΩ#-55℃--15,15:0603:215℃",Resistors,Resistors
+622,"1825,4656pF;7427mV,C0G",Capacitors,Capacitors
+623,RES:0.09kΩ:0.14-R3010:-55℃,Resistors,Resistors
+624,9818MΩ#0.1-1/2W,Resistors,Resistors
+625,ALUMINUM ALLOY-NO 10:PANEL;NO;231-104-07,Others,Others
+626,18uF;10%;500V;X7R,Capacitors,Capacitors
+627,155℃_162kΩ_35%,Resistors,Resistors
+628,"680pF,0.3kV",Capacitors,Capacitors
+629,125℃/1210/5325uF/-55℃/C0G,Capacitors,Capacitors
+630,1875MΩ_0.13_1206,Resistors,Resistors
+631,"cap:8570nF,7833uV",Capacitors,Capacitors
+632,"电容:82n:1k:THROUGH HOLE MOUNT,105℃",Capacitors,Resistors
+633,Radial/2_0.83-9933Ω_-55℃,Resistors,Resistors
+634,125℃_SMT#180pF#10%#C0G#-/+30ppm/Cel#500V#C2225,Capacitors,Capacitors
+635,电容/826pF/2471k/125℃:1825,Capacitors,Resistors
+636,贴片电容#SMT#2759pF;2%#BP#150V#-55℃#0606,Capacitors,Capacitors
+637,-55℃;155℃;3324kΩ;R2512,Resistors,Resistors
+638,"-/+15ppm/Cel#160pF;X7R#CERAMIC;100V,1808",Capacitors,Capacitors
+639,电阻_1.8K_30%_Axial/-55℃,Resistors,Resistors
+640,电容:C1206:3305uF:5%:0.5kV:NP0,Capacitors,Resistors
+641,125℃;4.7kΩ:-30℃,Resistors,Resistors
+642,25:8840M:0.66,Resistors,Resistors
+643,Res;155℃/673GΩ;2%;MELF;1/2W;-55℃,Resistors,Resistors
+644,6361mΩ_-55℃_0.38,Resistors,Resistors
+645,Radial_82MΩ_10%:-55℃,Resistors,Resistors
+646,C0402-15nF;50%;3286V;X7R,Capacitors,Capacitors
+647,电阻:125℃:10%:923M:4935,Resistors,Resistors
+648,"2220:0.75p,8912k",Capacitors,Resistors
+649,0.01MΩ#25%#1/20W#4422,Resistors,Resistors
+650,"贴片电容,120p,100V,SMT",Capacitors,Resistors
+651,"-/+30ppm/Cel,2225/BP/24nF/0.05kV",Capacitors,Others
+652,"Cap:818u_2261uV:10%,-/+30ppm/Cel",Capacitors,Capacitors
+653,"贴片电阻;1969MΩ,8%_10W",Resistors,Resistors
+654,"THROUGH HOLE MOUNT:30ppm/Cel-120p#80%-C0G,8213kV-CERAMIC",Capacitors,Others
+655,电容-910pF-0.03k-SMT;2225,Capacitors,Resistors
+656,125℃#10.6kΩ#1.75W-0.15,Resistors,Others
+657,"0GΩ,10%#977Ohm",Resistors,Resistors
+658,SMT#0805#13pF#125℃:P2H,Capacitors,Capacitors
+659,0GΩ:0.22:.1666W:Axial,Resistors,Resistors
+660,CERAMIC;68nF,Capacitors,Capacitors
+661,2360mΩ/20%-1/20W-PCB Mount,Resistors,Resistors
+662,"电阻#Axial#-100,100;9690mΩ#86%#155℃#1W",Resistors,Capacitors
+663,-55℃#0.9;7369MΩ,Resistors,Resistors
+664,"100℃#9684K#20%#-500,500",Resistors,Resistors
+665,4935/PCB Mount/20%/0MΩ,Resistors,Resistors
+666,175℃;Radial;0.34;0MΩ,Resistors,Resistors
+667,-55℃-3251nF-5%:C0G:4kV;-/+30ppm/Cel-7565,Capacitors,Capacitors
+668,"Cap,82uF,20%_0.02kV",Capacitors,Capacitors
+669,100K#1.22W#20%,Resistors,Capacitors
+670,CERAMIC#1206#2495nF:50V#C0G,Capacitors,Capacitors
+671,"CAP#20pF#2kV,79%",Capacitors,Capacitors
+672,NO:Bus Driver/Transceivers/1/10:4/1:1.5,Others,Others
+673,383000R_125℃_0.63_3/5W,Resistors,Resistors
+674,电阻;3260kΩ/0.95/155℃,Resistors,Resistors
+675,13.0-7200.0MHz:PANEL MOUNT/20.5_6/8 TNC FEMALE,Others,Others
+676,125℃:1515:SMT:2017u:599V,Capacitors,Resistors
+677,RES;1857MΩ;Axial;0.49/3/4W,Resistors,Resistors
+678,Radial/5659mΩ/5%--55℃/20W,Resistors,Resistors
+679,11nF_50V_-55℃#SMT,Capacitors,Resistors
+680,"Capacitors:125℃,43nF;20%:X7R-25000m:-55℃:C2225",Capacitors,Capacitors
+681,cap-2852nF-6534V--220ppm/Cel-SMT-1812,Capacitors,Resistors
+682,C1825-1929p-0.34-3000000mV-C0G,Capacitors,Capacitors
+683,"4235pF,100000000uV,PI",Capacitors,Capacitors
+684,Cap#C2225#0.02uF#20%#200000mV-X7R,Capacitors,Capacitors
+685,"8192#1/7#ISx1161A1BM-,557#BOTTOM,1.125uV,处理器,62.0MHz;SQUARE,ALSO REQUIRES 3.3V SUPPLY",Others,Others
+686,"Res_8627O_0.05:-15,15",Resistors,Resistors
+687,"7476u;2000V,-55℃,3333/-/+15ppm/Cel",Capacitors,Capacitors
+688,"-8,8#698Ω/0.09",Resistors,Resistors
+689,3528-175℃/2%;2Ohm,Resistors,Resistors
+690,Capacitors;-/+15ppm/Cel#7567p;-55℃/X7R/0.2kV,Capacitors,Capacitors
+691,"CERAMIC,SMT,8996uF,5%,X7R,2279u,-55℃,1825",Capacitors,Capacitors
+692,24%/1410mΩ#-55℃,Resistors,Resistors
+693,NO;5/15/BIPOLAR/THROUGH-HOLE#VOLTAGE-MODE,Others,Others
+694,"-55℃/SURFACE MOUNT,3.7MΩ,2512",Resistors,Resistors
+695,387uF_461mV_-55℃_3333_X7R_SMT,Capacitors,Resistors
+696,1219MΩ_5%_1/2W_Panel Mount,Resistors,Capacitors
+697,Radial#R5816;8750MΩ;32%,Resistors,Capacitors
+698,"Res;0.01MΩ,95%,-55℃",Resistors,Resistors
+699,"-/+15ppm/Cel,4540-0.03uF:500V",Capacitors,Resistors
+700,6270Ω:1/8W#38%,Resistors,Resistors
+701,"res,6.9K;-55℃;Axial",Resistors,Capacitors
+702,"FEMALE;STRAIGHT;THERMOPLASTIC_40.0/Assembly Items,24.0-800.0",Others,Others
+703,-/+30ppm/Cel--55℃-43p/5%-C0G:SMT-4618mV-C0603,Capacitors,Resistors
+704,8162n_25000000uV_C0G,Capacitors,Capacitors
+705,res_0.02:487kΩ_160℃,Resistors,Resistors
+706,0MΩ_-55℃;52%_3/10W,Resistors,Resistors
+707,750Ohm#-55℃#Axial,Resistors,Resistors
+708,-55℃/7283nF/5%/X7R/-/+15ppm/Cel/4150k/1825,Capacitors,Capacitors
+709,Resistors/1.58kΩ#19%/3/10W,Resistors,Capacitors
+710,"RST#SMT,0.12#1826mΩ#-55℃/R1010",Resistors,Resistors
+711,"-6.25,5.0mV/-2.5uV;5.76;9.0,YES_Not Qualified_-11.75-+-5",Others,Others
+712,-55℃#330mΩ#3%#SMT,Resistors,Resistors
+713,-55℃/0402/1.8pF#SMT/P2H,Capacitors,Resistors
+714,"85℃,15,0.83,340000mΩ",Resistors,Resistors
+715,1K#5%;1W,Resistors,Capacitors
+716,-55℃/0uF:-/+15ppm/Cel/X7R,Capacitors,Resistors
+717,-55℃/10%;4763kΩ,Resistors,Resistors
+718,RES;6363;8908mΩ-10%;5K,Resistors,Resistors
+719,-/+15ppm/Cel/9.1nF,Capacitors,Others
+720,"-1,1_Radial_84.5kΩ",Resistors,Resistors
+721,750p-2473V-C0G,Capacitors,Capacitors
+722,"120℃/5878K/-500,500",Resistors,Resistors
+723,"贴片电阻;125℃#-.2,.2/4827R:56%;4 Terminals#2.5W",Resistors,Others
+724,"Capacitors:SMT:2nF#-55℃_-/+30ppm/Cel-8932V;3333,125℃",Capacitors,Capacitors
+725,-55℃;78%;2106mΩ,Resistors,Resistors
+726,res;6367mΩ;42%#3460mΩ,Resistors,Resistors
+727,贴片电阻/4891kΩ#160℃#0.6,Resistors,Resistors
+728,9650mΩ;SMT;38%:3W;R5925,Resistors,Resistors
+729,"-55℃,1.5p,1kV,6%",Capacitors,Resistors
+730,"Capacitors,82pF#25V,70%,0201,SURFACE MOUNT",Capacitors,Capacitors
+731,cap-125℃--/+15ppm/Cel-6840uF-20%_X7R-4kV-C4040,Capacitors,Capacitors
+732,-55℃/6159mΩ/155℃#69%/Axial,Resistors,Resistors
+733,电容#13nF#4010uV#0805,Capacitors,Capacitors
+734,125℃/3095uF/NP0/0805/2056m,Capacitors,Resistors
+735,"SMT,33n_X5R_85℃_0402_1348m",Capacitors,Resistors
+736,2822mΩ#275℃-65%-7.5W-R6065,Resistors,Resistors
+737,Resistors_3.36MΩ#50#0.02#1/10W#1206,Resistors,Capacitors
+738,125℃;0.01uF:X7R:-55℃:1210:300V,Capacitors,Capacitors
+739,"-55℃_5925_1196MΩ,0.84",Resistors,Resistors
+740,"53.6Ω:-.2,.2/0.31:2.25W",Resistors,Others
+741,"-55℃,8200kΩ,155℃_82%",Resistors,Resistors
+742,0M#96%_1/4W,Resistors,Resistors
+743,"3128GΩ/-.2,.2#1%#2.5W",Resistors,Resistors
+744,125℃-4616pF:C0G:5550:2311k,Capacitors,Resistors
+745,"RES,5455GΩ,25,43%",Resistors,Resistors
+746,-10℃/0.56#3415kΩ,Resistors,Resistors
+747,4390MΩ-5%-0K,Resistors,Resistors
+748,Cap-C0402;27p;200V,Capacitors,Capacitors
+749,res_50_0.4_6346R,Resistors,Resistors
+750,3.3u;3024kV,Capacitors,Capacitors
+751,贴片电容_3504nF_50V_0804,Capacitors,Resistors
+752,"贴片电容:7104p,5028u,CERAMIC",Capacitors,Resistors
+753,贴片电容--55℃-CERAMIC/2311pF-125℃-2000V-C2225,Capacitors,Resistors
+754,3690p#200V#10%#1812;-/+30ppm/Cel,Capacitors,Capacitors
+755,"FEMALE-FEMALE,18-HERMETIC#e4 PANEL;连接器#NOT SPECIFIED",Others,Others
+756,"-40℃:5969pF,20%;50V",Capacitors,Resistors
+757,贴片电容#39p#400V#-/+30ppm/Cel,Capacitors,Capacitors
+758,res/0MΩ/21%/1262MΩ,Resistors,Resistors
+759,"0GΩ_99%,-8,8;Radial/3011",Resistors,Capacitors
+760,"cap,9650uF#100V#SURFACE MOUNT#125℃#C0402#BP",Capacitors,Capacitors
+761,"30ppm/Cel;C0G-251uF,9512m,125℃",Capacitors,Capacitors
+762,Axial/175℃/32.4kΩ,Resistors,Resistors
+763,"贴片电阻#Radial,25℃#2260000O#19%#2W#-100,100",Resistors,Capacitors
+764,"2500.0MHz-24.425,CAVITY BPF,1.5#N MALE-50 OHM/L181.0XB30.0XH50.0 (mm)/L7.126XB1.181XH1.969 (inch)#5.5",Others,Others
+765,125℃-5472uF-250000mV:5%,Capacitors,Capacitors
+766,"10/10,3.5,70.0_229.5uV 8.0#90.0mA TO-220AB",Others,Others
+767,"8/3/RF AND BASEBAND CIRCUIT-600.0,1.0 A-LAW",Others,Others
+768,SMT#3530#0u#125℃#C0G,Capacitors,Capacitors
+769,78700mΩ_90%_4216,Resistors,Resistors
+770,5315p-5898kV-20%-4040-X7R-125℃,Capacitors,Capacitors
+771,"RES,Radial;-1,1;19.8Ω;0.5;1W;R5816",Resistors,Capacitors
+772,Capacitors;SMT_-55℃#2422uF-5%:C0G;2079uV;125℃#C1210,Capacitors,Capacitors
+773,125℃_0.43nF_C0G-3079mV,Capacitors,Capacitors
+774,10:0.27:3832mΩ:175℃:R3528,Resistors,Resistors
+775,贴片电阻/7936M/100℃/PCB Mount,Resistors,Resistors
+776,"C2220:390nF#10%,5900V:BX",Capacitors,Capacitors
+777,Radial/85℃;100uF_-40℃/25000000uV,Capacitors,Capacitors
+778,1643MΩ-53%/Radial,Resistors,Resistors
+779,"Cap,7.5nF,CERAMIC:8000000000uV#5550",Capacitors,Capacitors
+780,255Ω-42%;3W;5925,Resistors,Resistors
+781,1812:6256nF/NP0,Capacitors,Capacitors
+782,2520_4.3nF_800V,Capacitors,Resistors
+783,125℃/7040mΩ:0.67,Resistors,Resistors
+784,"-55℃,1206_SMT:1365pF:16000mV:-/+15ppm/Cel",Capacitors,Resistors
+785,R3011#0.02kΩ#0.27#20300mΩ,Resistors,Resistors
+786,"6.5#16,5.0uV 1;HCT;32.5 5.7mm",Others,Others
+787,"25,Axial,0.79,20.5Kohm",Resistors,Capacitors
+788,"Cap;C0805,0.91pF;27%#6840uV",Capacitors,Capacitors
+789,125℃;SMT;3.3n;22%;C0G;800000000uV;C1825;-/+30ppm/Cel,Capacitors,Others
+790,CERAMIC;-55℃;20n;2%-C0G;7593uV;2020--/+30ppm/Cel,Capacitors,Capacitors
+791,"-55℃_7854Ω_0.08_-300,300",Resistors,Resistors
+792,0.18n/4047V/2%-C1111,Capacitors,Capacitors
+793,121O_0.15_5925,Resistors,Resistors
+794,cap:125℃:-/+30ppm/Cel:432uF#80%#C0G:6127u#C3333,Capacitors,Capacitors
+795,22n-2393uV-SMT,Capacitors,Resistors
+796,电阻_499000000000mΩ--55℃,Resistors,Resistors
+797,"-100,100-R0402-499R--55℃",Resistors,Resistors
+798,60.4K-34%-2/5W#160℃,Resistors,Capacitors
+799,7500Ω#175℃#0.9/3/5W#3011,Resistors,Capacitors
+800,125℃#9232pF,Capacitors,Resistors
+801,"0uF,1611mV,-/+15ppm/Cel,C1825,125℃",Capacitors,Capacitors
+802,res;2.2kΩ#20%#1/20W#4537,Resistors,Capacitors
+803,3120mΩ_5%_160℃,Resistors,Resistors
+804,"-5,5_Axial,7855mΩ",Resistors,Resistors
+805,cap_680p#6302k_5%/-/+30ppm/Cel,Capacitors,Capacitors
+806,"SURFACE MOUNT;125℃-6378n,10%-20V/2917",Capacitors,Capacitors
+807,"贴片电容/CERAMIC/18n#-55℃/X7R,0.8kV/1515",Capacitors,Capacitors
+808,2020-43n_0.39#4565uV,Capacitors,Resistors
+809,-55℃#1111#160pF#3982k,Capacitors,Resistors
+810,贴片电阻;976O;SMT:78%;1W;3528,Resistors,Resistors
+811,"-30℃_1210/Z5U;2527uF/0.03kV,SURFACE MOUNT",Capacitors,Capacitors
+812,"电阻,4949,-55℃,20%/8278GΩ",Resistors,Resistors
+813,175℃:4914mΩ#1/8W#0.43,Resistors,Resistors
+814,"7537GΩ,84%,-55℃",Resistors,Resistors
+815,-55℃:9240kΩ:Axial,Resistors,Resistors
+816,-65℃/9162K/0.54,Resistors,Resistors
+817,"-100,100-2%-9445Ω-155℃",Resistors,Resistors
+818,"125℃,1088pF,5%,X7R,1kV,6560",Capacitors,Capacitors
+819,CERAMIC/7834nF;-/+15ppm/Cel_X7R_7548u#2221,Capacitors,Capacitors
+820,-55℃-9029mΩ-1W-48%,Resistors,Resistors
+821,"175℃,80.6Ω,29%,-5,5",Resistors,Resistors
+822,贴片电容#C2220-0uF:9%#3kV,Capacitors,Capacitors
+823,Cap_CERAMIC_9904pF_2%_C0G_500V_5440_125℃,Capacitors,Capacitors
+824,贴片电阻_2.55kΩ_0.03_1/4W,Resistors,Resistors
+825,"Capacitors,5978uF-7648u:5%:5440:X7R:-55℃",Capacitors,Capacitors
+826,1775uF#6818uV/20%#TANTALUM (DRY/SOLID),Capacitors,Capacitors
+827,CAP_-55℃_CERAMIC;0nF_38%_BP_6882V_0805,Capacitors,Capacitors
+828,"Axial:-65℃:129MΩ:0.08:-50,50",Resistors,Resistors
+829,0MΩ;44%#1/8W,Resistors,Resistors
+830,贴片电阻#4239Ohm/-40℃/10%/1/2W/R4935,Resistors,Resistors
+831,RES/976Kohm/5%/1/2W/-55℃,Resistors,Capacitors
+832,9318p;7670V;-/+15ppm/Cel/CERAMIC;X7R,Capacitors,Capacitors
+833,"DUAL-1.85_18.0:2.625uV_19.8µs-CMOS/1.0,TFQFP:NO",Others,Others
+834,6.8p-4217u;0.37-1210-T2H#125℃,Capacitors,Capacitors
+835,"-55℃;1623nF#X7R,-/+15ppm/Cel;200000mV",Capacitors,Resistors
+836,0202-0.05n-230kV,Capacitors,Resistors
+837,-55℃/150℃/11.3MΩ,Resistors,Resistors
+838,9246Kohm_42%_-55℃,Resistors,Resistors
+839,Axial--55℃-1087mΩ,Resistors,Resistors
+840,res-4855G-26%-1/4W/-55℃,Resistors,Capacitors
+841,922pF#350000000uV,Capacitors,Capacitors
+842,125℃#-55℃#261Ω;Axial#99%,Resistors,Capacitors
+843,"3010,5873Ohm,95%,9931M",Resistors,Capacitors
+844,"THROUGH HOLE MOUNT,-56/+22%,9156n,85℃/Z5U;100V,3015",Capacitors,Capacitors
+845,175℃:5925#19.1Ohm:73%,Resistors,Capacitors
+846,"220Ω,5%_1005",Resistors,Resistors
+847,94pF_8962uV_20%_125℃,Capacitors,Resistors
+848,贴片电阻;7266mΩ-0.58_160℃,Resistors,Resistors
+849,8796GΩ_100℃#20%_1/2W,Resistors,Resistors
+850,贴片电阻_8.25kΩ_-65℃#Axial_175℃,Resistors,Resistors
+851,"Cap:6358pF,9812kV:10%:X7R:C2225",Capacitors,Capacitors
+852,-55℃#2221/110pF#SMT#C0G,Capacitors,Capacitors
+853,Res;5-24%_6772MΩ-175℃;5925,Resistors,Resistors
+854,Cap_125℃_SMT-9057p_-55℃_7576uV/C2530,Capacitors,Resistors
+855,"275℃_174mΩ/60%#-90,90",Resistors,Resistors
+856,Capacitors/8606u:6049m/PORCELAIN,Capacitors,Capacitors
+857,1.2nF_6352u;C0G,Capacitors,Resistors
+858,12u;85%:500000000uV:X7R,Capacitors,Capacitors
+859,R6140;4515GΩ;3%;6632mΩ,Resistors,Resistors
+860,"-.2,.2_0.07_7386kΩ,-55℃",Resistors,Resistors
+861,CERAMIC#SMT#1383pF#X7R#1808#3413V,Capacitors,Capacitors
+862,680pF-200000000uV--55℃,Capacitors,Capacitors
+863,"155℃,258kΩ,-10,10-0.44",Resistors,Resistors
+864,Res:8103M:5%:9214mΩ,Resistors,Resistors
+865,CERAMIC#SMT#15p#N470;1206_2151mV,Capacitors,Resistors
+866,贴片电容_4728pF_TANTALUM_0.03kV_C2917,Capacitors,Resistors
+867,"-.2,.2-0GΩ#0.44",Resistors,Resistors
+868,电阻/0M/MELF;0.94/2/5W,Resistors,Resistors
+869,7277uF:4658m_BX,Capacitors,Resistors
+870,"8.0/CMOS#SQUARE_2.0-27125.0 SEATED HT-CALCULATED LCC22,.25X.32,50/40_e3",Others,Others
+871,"Resistors:5000000mΩ:-150,150/10%:6390:Panel Mount",Resistors,Capacitors
+872,1812#2nF#8585kV,Capacitors,Capacitors
+873,RST--40℃;20%;1637GΩ,Resistors,Resistors
+874,"CERAMIC_1812_2.7nF,30ppm/Cel#C0G",Capacitors,Capacitors
+875,"电阻,6034GΩ/SURFACE MOUNT,SMT,R0603",Resistors,Resistors
+876,"1770p,250V;125℃#0603",Capacitors,Resistors
+877,"2281pF,35V,Radial",Capacitors,Capacitors
+878,"85℃,0.88,5.17kΩ,SMT",Resistors,Resistors
+879,"-55℃#0.1uF#95%,X7R#487u#2225#125℃",Capacitors,Capacitors
+880,"cap#0.01u-100000000u,20%,X7R,3640,SMT",Capacitors,Capacitors
+881,SURFACE MOUNT;C2915/2164uF;5370kV;-55℃,Capacitors,Capacitors
+882,5.23M_2W;59%,Resistors,Resistors
+883,Cap;7280uF/936kV;-55℃;1808#SMT,Capacitors,Resistors
+884,"Capacitors,5.6nF,6kV,20%,7565,X7R_SMT",Capacitors,Others
+885,"155℃/0.91,5230K/-55℃",Resistors,Resistors
+886,5043u/7899kV/80%/2225_CERAMIC,Capacitors,Capacitors
+887,"CERAMIC,-55℃,5.1nF,C0G_4674V/C4040-SMT",Capacitors,Capacitors
+888,Res_298kΩ;5%-2W,Resistors,Resistors
+889,CAP;7129pF;125℃;-55℃,Capacitors,Resistors
+890,CERAMIC_1825-C0G-0uF-250000mV--/+30ppm/Cel,Capacitors,Capacitors
+891,110n_-55℃,Capacitors,Resistors
+892,Axial:2800000Ω:48%:155℃,Resistors,Resistors
+893,CAP;SMT;470pF/C0G;1206;4097V,Capacitors,Capacitors
+894,"Axial,422kΩ/57%#-25,25",Resistors,Resistors
+895,100pF/5429k/125℃/CERAMIC/1812/C0G,Capacitors,Capacitors
+896,9245M-0.18#Axial-1/4W,Resistors,Capacitors
+897,CAP-3286u-5k-CERAMIC,Capacitors,Capacitors
+898,cap#-/+30ppm/Cel#0.43nF#20%#C0G#400V#C1812,Capacitors,Others
+899,3870mΩ_66%_1619GΩ,Resistors,Resistors
+900,6929Ohm:10%:R4965,Resistors,Resistors
+901,"5134n,1000000m,5%,1812--55℃",Capacitors,Capacitors
+902,Cap#5.1n#250V#5%;1825_X7R#-55℃,Capacitors,Capacitors
+903,CERAMIC-2225-3632n-C0G,Capacitors,Capacitors
+904,4.3n;-55℃;SMT,Capacitors,Resistors
+905,"8650mΩ,0.01:36500R",Resistors,Resistors
+906,"2020:390pF:2%,756V",Capacitors,Capacitors
+907,"-55℃--150,150-2kΩ",Resistors,Resistors
+908,"电容_4201pF_1788mV,CERAMIC_125℃_1808",Capacitors,Resistors
+909,Res:46.4Ω:0.92:155℃,Resistors,Resistors
+910,3085pF:6.3V#10%#X7R#0805_SMT,Capacitors,Capacitors
+911,CEPT PCM-30/E-1_QCCN/16-51840.0#GAAS_5.0kV;5.52mm,Others,Others
+912,"贴片电阻,-55℃:41%:723Ω",Resistors,Resistors
+913,-55℃:7120u:30ppm/Cel:C0G:1436kV,Capacitors,Resistors
+914,"125℃,C1005;470n,25000mV",Capacitors,Capacitors
+915,"125℃/78%,5.9kΩ/4216",Resistors,Resistors
+916,8193nF#8335V,Capacitors,Capacitors
+917,1.72kΩ_1/2W_0.58,Resistors,Resistors
+918,Cap_C1210_0.06nF-5%_8877V,Capacitors,Capacitors
+919,155℃_0.01M;1/2W-0.63,Resistors,Resistors
+920,电阻;7620mΩ;81%;0805;150℃,Resistors,Resistors
+921,15.6Ohm;0.83:R6140;150℃,Resistors,Resistors
+922,-55℃;155℃#9839GΩ,Resistors,Resistors
+923,Capacitors;9185n-1000V,Capacitors,Capacitors
+924,"7403K,9%:1/20W;3535:SMT",Resistors,Resistors
+925,CERAMIC_103u_1759V,Capacitors,Resistors
+926,0302#3221uF#90V,Capacitors,Capacitors
+927,cap_SMT-27nF-34%:Z5U;50V-4044,Capacitors,Capacitors
+928,"Axial;9985pF;5%;CG#9328kV,CERAMIC",Capacitors,Capacitors
+929,-55℃-825K-1.1W-0.77,Resistors,Resistors
+930,"cap,125℃,9259uF,5%,0.01k,2915",Capacitors,Resistors
+931,"0.07Kohm,Radial,R3010,175℃",Resistors,Resistors
+932,THROUGH HOLE MOUNT--65℃-6232Ω;25-0.96,Resistors,Resistors
+933,"-350,350:51O:5%_Axial",Resistors,Capacitors
+934,贴片电阻:825Ω:0.79,Resistors,Resistors
+935,电容;6200nF;1104kV_80%#85℃,Capacitors,Capacitors
+936,"1825_5.6nF,9851V",Capacitors,Capacitors
+937,res_16%-2764MΩ--55℃,Resistors,Resistors
+938,"0GΩ,31%,125℃",Resistors,Resistors
+939,20.5kΩ:99%:1.5W:-55℃,Resistors,Resistors
+940,res;-55℃_2219M_23%_1W_155℃,Resistors,Resistors
+941,"Cap/-/+15ppm/Cel/3546uF;CERAMIC/SMT/0.01k/C1210,125℃",Capacitors,Capacitors
+942,"电容,2.7nF:25V:-55℃;2020",Capacitors,Resistors
+943,"0uF,750V,-55℃,2220,S2H_CERAMIC",Capacitors,Capacitors
+944,CAP:-55℃:-/+30ppm/Cel:9308u:125℃:C0G:3765V;5550,Capacitors,Capacitors
+945,"150K:-55℃:-500,500-4537",Resistors,Resistors
+946,4330O_0.73_1.75W_125℃,Resistors,Resistors
+947,"175℃,-55℃:129000000mΩ-27%-Radial",Resistors,Resistors
+948,res;6592mΩ#9%;155℃,Resistors,Resistors
+949,CERAMIC/-55℃/7143p/BX-0603/3682V,Capacitors,Capacitors
+950,10.4kΩ-0.11-1/4W,Resistors,Resistors
+951,4018uF-5470u-C0G,Capacitors,Capacitors
+952,7763uF:100V/2%/C0603/NP0/125℃,Capacitors,Capacitors
+953,0.01K_-65℃_Axial,Resistors,Resistors
+954,530Ω/10W_99%,Resistors,Resistors
+955,Capacitors;125℃;SMT;1.3nF;C0G;CERAMIC#9701V;C1812,Capacitors,Others
+956,CAP/9100nF-1k-4%-S2H-1210-125℃,Capacitors,Capacitors
+957,155℃_49.9Ω;0.03_-55℃,Resistors,Resistors
+958,"cap,8404p_100V_CERAMIC",Capacitors,Capacitors
+959,"电容,3119nF,4000m,10%,2917_SURFACE MOUNT",Capacitors,Capacitors
+960,"3326GΩ,-55℃;10%",Resistors,Resistors
+961,1592uF;9274mV-125℃;C4540/-55℃,Capacitors,Capacitors
+962,Capacitors#0.35pF#9882mV#2%:0202#125℃,Capacitors,Capacitors
+963,RES#9239M#-700,Resistors,Resistors
+964,"-55℃_4540,2400pF:3000000mV,X7R",Capacitors,Resistors
+965,SMT/39nF/1kV,Capacitors,Capacitors
+966,ALUMINUM:5130pF;63V,Capacitors,Capacitors
+967,C1808#125℃#7881pF;2071mV#-/+15ppm/Cel,Capacitors,Capacitors
+968,1825;1737u-2706mV,Capacitors,Capacitors
+969,"Capacitors:12nF,369uV:CERAMIC:2220:-/+15ppm/Cel",Capacitors,Others
+970,2261p-1200m-10%,Capacitors,Capacitors
+971,电阻_4537-5.6kΩ:10%-0G,Resistors,Resistors
+972,8473uF,Capacitors,Capacitors
+973,22300mΩ#0.07_Radial-175℃_5816,Resistors,Resistors
+974,贴片电容#3840nF#0.03kV-CERAMIC#200℃#4044,Capacitors,Capacitors
+975,"0.68n_50V,125℃",Capacitors,Resistors
+976,cap#27n#SMT;7988k#1825,Capacitors,Capacitors
+977,"-55℃_2311G_50%/-.2,.2",Resistors,Resistors
+978,330000Ω/20W;20%,Resistors,Resistors
+979,-55℃;1004u,Capacitors,Resistors
+980,"贴片电容,39pF,2888m,18%",Capacitors,Resistors
+981,125℃/1292pF/10%/C0G/7571uV/1515#CERAMIC,Capacitors,Capacitors
+982,"125℃,-55℃,123K-0.29:2W,-.2,.2",Resistors,Others
+983,Not Qualified:SYNCHRONOUS-BIDIRECTIONAL;9/8;THROUGH-HOLE#1.5_5.0mV,Others,Others
+984,"贴片电容:0.04uF/623kV,125℃",Capacitors,Resistors
+985,-55℃/50_4974kΩ/R3528,Resistors,Resistors
+986,"-15,15_530Ω_Axial",Resistors,Resistors
+987,"-.2,.2,3534GΩ,4 Terminals",Resistors,Resistors
+988,cap--/+30ppm/Cel:CERAMIC:0uF:C0G:-55℃#9874V:1005,Capacitors,Capacitors
+989,"1.72kΩ,0.42,-55℃,4216",Resistors,Resistors
+990,res-3802Kohm/SMT/15/0905,Resistors,Resistors
+991,8660mΩ-0.61-3872GΩ,Resistors,Resistors
+992,BUS DRIVER;1.5/4.15uV:ALS:1/8_TRUE_Not Qualified#23.702mm,Others,Others
+993,CAP/4917nF/200V/-55℃_0603,Capacitors,Resistors
+994,155℃_14300000mΩ_2%_MELF,Resistors,Resistors
+995,Resistors/0.01MΩ;16%;2698mΩ,Resistors,Resistors
+996,"3.9nF,4843kV,10%,-55℃",Capacitors,Capacitors
+997,cap-4735p-50V--/+15ppm/Cel#-55℃,Capacitors,Capacitors
+998,1808-0u;3kV,Capacitors,Capacitors
+999,Cap-SMT/-55℃-9518uF/10%-X7R-300V-2225,Capacitors,Resistors
