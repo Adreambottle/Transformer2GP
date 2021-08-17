@@ -1,0 +1,1 @@
+from adj_stf.language_representation.representation_model import RepresentationModel

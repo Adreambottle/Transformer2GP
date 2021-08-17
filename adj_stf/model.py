@@ -1,0 +1,3 @@
+from adj_stf.classification.classification_model import ClassificationModel
+
+TransformerModel = ClassificationModel
